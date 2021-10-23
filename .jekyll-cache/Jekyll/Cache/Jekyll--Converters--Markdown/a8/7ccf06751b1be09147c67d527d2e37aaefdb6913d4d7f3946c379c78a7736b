@@ -1,0 +1,40 @@
+I"<p>2021.10.23 토</p>
+
+<p>학교에서 시험을 모두 끝내고 집에 왔다. 이번 집에 있는 1주일 동안은 시험기간동안 하고싶었지만 시험을 위해 참고있었던 것들을 해보는데 써보려고 한다.</p>
+
+<h2 id="daeunworld를-개편하게-된-이유">DaeunWorld를 개편하게 된 이유</h2>
+
+<p>위에서 언급했듯 시험기간 1달동안 phaser을 이용한 웹개임 개발이나, 인터렉티브 웹 개발 등 해보고 싶은 것들이 많았지만 참아왔고, Github Page에서 Ruby와 Jekyll을 이용해 내 블로그를 만들어보고 싶었다. 전에는 간단하게 T-story를 블로그로 사용하고 있었는데, 선배가 개발자 입장에서는 Github Page를 사용하는게 편할것이라 조언해주었고 선배 블로그가 멋있어서 이렇게 만들어보게 되었다.</p>
+
+<h2 id="daeun-world-구축">Daeun World 구축</h2>
+
+<p>Ruby와 Jekyll을 처음 써보는 것이다보니 인터넷의 여러 글들을 참고했다. 
+Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>
+
+<p>$ a * b = c ^ b $</p>
+
+<p>$ 2^{\frac{n-1}{3}} $</p>
+
+<p>$ \int_a^b f(x)\,dx. $</p>
+
+<div class="language-cpp highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="cp">#include &lt;iostream&gt;
+</span><span class="k">using</span> <span class="k">namespace</span> <span class="n">std</span><span class="p">;</span>
+
+<span class="kt">int</span> <span class="nf">main</span><span class="p">()</span> <span class="p">{</span>
+  <span class="n">cout</span> <span class="o">&lt;&lt;</span> <span class="s">"Hello World!"</span><span class="p">;</span>
+  <span class="k">return</span> <span class="mi">0</span><span class="p">;</span>
+<span class="p">}</span>
+<span class="c1">// prints 'Hi, Tom' to STDOUT.</span>
+</code></pre></div></div>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">class</span> <span class="nc">Person</span><span class="p">:</span>
+  <span class="k">def</span> <span class="nf">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">name</span><span class="p">,</span> <span class="n">age</span><span class="p">):</span>
+    <span class="bp">self</span><span class="p">.</span><span class="n">name</span> <span class="o">=</span> <span class="n">name</span>
+    <span class="bp">self</span><span class="p">.</span><span class="n">age</span> <span class="o">=</span> <span class="n">age</span>
+
+<span class="n">p1</span> <span class="o">=</span> <span class="n">Person</span><span class="p">(</span><span class="s">"John"</span><span class="p">,</span> <span class="mi">36</span><span class="p">)</span>
+
+<span class="k">print</span><span class="p">(</span><span class="n">p1</span><span class="p">.</span><span class="n">name</span><span class="p">)</span>
+<span class="k">print</span><span class="p">(</span><span class="n">p1</span><span class="p">.</span><span class="n">age</span><span class="p">)</span>
+</code></pre></div></div>
+:ET
