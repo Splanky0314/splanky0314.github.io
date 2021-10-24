@@ -1,3 +1,6 @@
+<img src="/assets/images/banners/profile.png" width="200rem" style="text-align: center;">
+<p style="font-size: 1.5rem;"><b>Daeun Kim</b></p>
+<p>splanky0314@gmail.com</p>
 {%- include functions.html func='log' level='debug' msg='Get categories value' -%}
 
 {%- include functions.html func='get_categories' -%}
@@ -7,3 +10,18 @@
 {% assign field = 'categories' %}
 {% assign url = '/categories.html' | relative_url %}
 {% include sidebar/common-list.html %}
+<div class="sns">
+    <a class="sns_link" href="https://www.facebook.com/profile.php?id=100021599119849" target="_blank"><img style="width:3rem;" src="./info/img/SNS/facebook.png" alt="Facebook"></a>
+    <a class="sns_link" href="https://www.instagram.com/hero_daeun/" target="_blank"><img style="width:3rem;" src="./info/img/SNS/instagram.png" alt="Instagram"></a>
+</div>
+
+<style>
+    .sns {
+        padding: 1rem 0 1rem 0;
+        text-align: center;
+    }
+
+    .sns_link {
+        padding: 0 0.2rem 0 0.2rem;
+    }
+</style>
