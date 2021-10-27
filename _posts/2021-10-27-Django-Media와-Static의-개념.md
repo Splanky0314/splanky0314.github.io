@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Django Media와 Static의 개념
-subheading: Spreky 웹사이트 Heroku에 배포하기
+subheading: spreky에 Hanwoolim 게시판 만들기
 author: Daeun
 categories: Django
 banner:
