@@ -1,0 +1,20 @@
+I"�<h1 id="github-page를-위한-ruby와-jekyll-세팅하기">Github Page를 위한 Ruby와 Jekyll 세팅하기</h1>
+
+<h2 id="install-ruby">Install Ruby</h2>
+
+<p>https://rubyinstaller.org/downloads/
+최신버전을 다운받는다.</p>
+
+<h2 id="install">Install</h2>
+<p>터미널에서</p>
+<pre><code class="language-cmd">gem install jekyll bundler
+</code></pre>
+<p>를 입력한다.
+<img src="https://photos.app.goo.gl/AyCHnvKXp9ZCddp28" alt="코드를 실행시키면 gem들이 다운로드되기 시작한다." />
+<img src="https://photos.app.goo.gl/VPwE8FjAH24fGkCU8" alt="enter image description here" />
+<img src="https://drive.google.com/file/d/1LpSTR_34e15dVvl43QZa6P_fE4GRlq2h/view?usp=sharing" alt="enter image description here" /></p>
+<h2 id="작동-확인하기">작동 확인하기</h2>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>jekyll serve
+</code></pre></div></div>
+<p>를 입력했을 때,</p>
+:ET
