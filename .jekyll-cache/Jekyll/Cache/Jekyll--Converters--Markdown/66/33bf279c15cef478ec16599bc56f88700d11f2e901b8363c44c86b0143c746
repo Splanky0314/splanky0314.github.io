@@ -1,0 +1,25 @@
+I"u<p>이 게시글은 “do it 깃&amp;깃허브 입문”을 공부하며 그 내용을 기록해 둔 것입니다.</p>
+
+<h2 id="1-작업-트리에서-수정한-파일-되돌리기취소하기">1. 작업 트리에서 수정한 파일 되돌리기(취소하기)</h2>
+<p>스태이징(git add ~)도 되지 않고 잠시 수정했던 파일을 원래대로 되돌리는 방법이다.</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git checkout 파일명
+</code></pre></div></div>
+
+<h2 id="2-스테이징된-파일-스태이징-취소하기">2. 스테이징된 파일 스태이징 취소하기</h2>
+<p>스태이징(git add ~) 된 파일의 수정내용을 취소하는 방법이다.</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git reset HEAD 파일명
+</code></pre></div></div>
+<p>이 명령이 수행되면 해당 파일이 unstaged 상태로 바뀐다.</p>
+
+<h2 id="3-최신-커밋내용-취소하기">3. 최신 커밋내용 취소하기</h2>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git reset HEAD^
+</code></pre></div></div>
+<p>여기서 HEAD^는 최신 커밋을 가리킨다. 
+이 명령이 수행되면 커밋이 취소되고 스태이징도 함께 취소된다.</p>
+
+<ul>
+  <li>--soft: 커밋 전 상태로 작업트리 되돌림</li>
+  <li>--mixed: 추가 설정을 하지 않았을 때의 기본값으로 커밋과 스테이징 전 상태로 작업트리 되돌림</li>
+  <li>--hard: 커밋, 스테이징, 파일 수정 전 상태로 작업트리 되돌림</li>
+</ul>
+:ET

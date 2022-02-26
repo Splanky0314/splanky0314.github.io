@@ -1,0 +1,9 @@
+I"�<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git init
+git remote add origin https~~
+git pull origin main
+</code></pre></div></div>
+
+<p>https~부분은 자신의 repository의 링크를 넣어준다.</p>
+
+<p>main은 github repository에서 로컬에 다운받을 브렌치의 이름으로 사용자마다 다르니 확인해보자. (master 등)</p>
+:ET
