@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://splanky0314.github.io/sitemap.xml
