@@ -8,6 +8,7 @@ banner:
 tags: git github push pull
 sidebar: []
 ---
+# 로컬컴퓨터와 github연결(push, pull) 방법
 
 ## 로컬 컴퓨터 폴더에 github 연결 & pull
 1. 원하는 로컬 위치에 폴더 생성 & 폴더 git bash로 열기

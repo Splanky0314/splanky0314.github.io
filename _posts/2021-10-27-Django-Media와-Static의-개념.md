@@ -9,6 +9,8 @@ tags: Django Spreky Hanwoolim Media Static
 sidebar: []
 ---
 
+# Django Media와 Statics의 정의와 개념
+
 ## Static
 개발하면서 사용하려고 준비해 놓은 정적 파일들이다.
 
