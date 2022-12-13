@@ -9,11 +9,13 @@ tags: GithubPage Ruby Jekyll
 sidebar: []
 ---
 
-## invalid byte sequence in UTF-8 (ArgumentError)
+
+# invalid byte sequence in UTF-8 (ArgumentError)에러 해결 방법
 
 Github Page에 Jekyll 테마를 적용해나가다가 웹 구동을 위해
 `jekyll serve`를 쳤더니 아래와 같이 오류가 났다.
 
+## invalid byte sequence in UTF-8 (ArgumentError)에러 내용
 {% highlight ruby %}
     C:/Ruby30-x64/lib/ruby/3.0.0/pathname.rb:50:in `match?': invalid byte sequence in UTF-8 (ArgumentError)
     from C:/Ruby30-x64/lib/ruby/3.0.0/pathname.rb:50:in `chop_basename'
@@ -36,6 +38,7 @@ Github Page에 Jekyll 테마를 적용해나가다가 웹 구동을 위해
     from C:/Ruby30-x64/bin/jekyll:23:in `<main>'
 {% endhighlight %}
 
+## invalid byte sequence in UTF-8 (ArgumentError) 에러 원인과 해결 과정
 프로젝트 폴더에 있던 gemfile의 인코딩 방식이 문제였던 것 같다. 그냥 gemfile 파일 자체를 삭제해보고 다시 명령어를 입력하니 정상작동했다. 
 
 거의 한 3시간동안 구글링을 해본 결과 자료가 많지 않은 걸 보니 흔하게 발생하는 오류는 아닌듯하다. 내 시간만 아까울 뿐.....
