@@ -3,7 +3,7 @@ layout: post
 title: github repository pull받기(다운로드하기)
 subheading: 방학동안 git 정복하기
 author: Daeun
-categories: git
+categories: Git
 banner:
 tags: Git 
 sidebar: []
