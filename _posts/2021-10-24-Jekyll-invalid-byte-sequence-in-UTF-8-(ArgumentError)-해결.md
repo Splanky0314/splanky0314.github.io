@@ -3,7 +3,7 @@ layout: post
 title: Jekyll invalid byte sequence in UTF-8 (ArgumentError) 해결
 subheading: Ruby에서 jekyll serve명령 시 인코딩 오류 발생
 author: Daeun
-categories: Static_Web_Page
+categories: Github_Page
 banner:
 tags: GithubPage Ruby Jekyll
 sidebar: []

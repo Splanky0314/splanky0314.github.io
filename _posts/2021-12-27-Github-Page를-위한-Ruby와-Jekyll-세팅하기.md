@@ -3,7 +3,7 @@ layout: post
 title: Github Page를 위한 Ruby와 Jekyll 세팅하기
 subheading: 나만의 github page를 만들어 보자
 author: Daeun
-categories: Static_Web_Page
+categories: Github_Page
 banner:
 tags: GithubPage ruby jekyll web
 sidebar: []
