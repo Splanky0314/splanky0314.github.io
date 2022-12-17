@@ -43,9 +43,7 @@ author: Daeun
 copyright: "Unpublished Work (cleft) 2021-{currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Programing과 각종 게임, IT제품, IT정보를 전문적으로 다루는 웹블로그입니다. 
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.daeunworld.kr" # the base hostname & protocol for your site, e.g. http://example.com
@@ -134,7 +132,7 @@ sitemap: true
 # it will be always kept on every visit (i.e. no matter
 # the browser is closed or not)
 #
-# night_mode: "auto"
+night_mode: "on"
 
 # Code badge setting
 # You can enable or disable the code badge and so on
