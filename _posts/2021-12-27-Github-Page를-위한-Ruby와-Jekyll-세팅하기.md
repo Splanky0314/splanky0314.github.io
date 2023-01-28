@@ -8,7 +8,6 @@ banner:
 tags: GithubPage ruby jekyll web
 sidebar: []
 ---
-# Github Page만들기 - Ruby와 Jekyll 세팅 방법
 
 ## Install Ruby
 
