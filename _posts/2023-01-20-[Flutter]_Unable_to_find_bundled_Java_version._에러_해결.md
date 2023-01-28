@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: [Flutter] Unable to find bundled Java version. 에러 해결 방법
+title: '[Flutter] Unable to find bundled Java version. 에러 해결 방법'
 subheading: 플러터 Unable to find bundled Java version. 에러 해결 방법
 author: Daeun
 categories: Flutter

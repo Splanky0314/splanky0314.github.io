@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: [Flutter] Undefined name 'Colors' 에러 해결 방법
+title: "[Flutter] Undefined name 'Colors' 에러 해결 방법"
 subheading: Flutter에서 Undefined name 'Colors' 에러 해결하기
 author: Daeun
 categories: Flutter
