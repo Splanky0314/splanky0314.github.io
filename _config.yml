@@ -40,7 +40,7 @@ author: Daeun
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: "Unpublished Work (cleft) 2021-{currentYear} {author}"
+copyright: "Daeun World (cleft) 2021-{currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
   Programing과 각종 게임, IT제품, IT정보를 전문적으로 다루는 웹블로그입니다. 
@@ -58,7 +58,7 @@ yat:
 debug: true
 
 # If you don't want transparent header, you can set false
-# header_transparent: true
+header_transparent: False
 
 # If you want to change the content width, you can set to another value
 # content_width: "920px"

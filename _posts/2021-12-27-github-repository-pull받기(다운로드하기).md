@@ -9,7 +9,7 @@ tags: Git
 sidebar: []
 ---
 
-# github repository pull받기(github와 로컬컴퓨터 연결하기)
+## github repository pull받기(github와 로컬컴퓨터 연결하기)
 ```
 git init
 git remote add origin https~~
