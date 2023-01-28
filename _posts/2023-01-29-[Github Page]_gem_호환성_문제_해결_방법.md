@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: [Github Page] gem 호환성 문제 해결 방법
+title: '[Github Page] gem 호환성 문제 해결 방법'
 subheading: 깃헙페이지 gem 버전 안맞음 오류
 author: Daeun
 categories: Game
