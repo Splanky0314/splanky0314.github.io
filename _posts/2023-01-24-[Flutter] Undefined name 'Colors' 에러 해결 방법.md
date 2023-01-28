@@ -9,8 +9,6 @@ tags: flutter colors에러 에러해결방법
 sidebar: []
 ---
 
-# [Flutter] Undefined name 'Colors' 에러 해결 방법
-
 ## 에러 현상 & 에러 메세지
 flutter로 main.dart파일이 아니라 새로운 위젯을 다른 dart 파일로 저장하려 했더니 발생했다.
 

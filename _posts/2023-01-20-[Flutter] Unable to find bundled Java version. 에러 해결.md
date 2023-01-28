@@ -9,8 +9,6 @@ tags: flutter JAVA에러 에러해결방법
 sidebar: []
 ---
 
-# [Flutter] Unable to find bundled Java version. 에러 해결 방법
-
 ## 에러메세지
 윈도우 환경에서 `flutter doctor` 실행 시
 ```✗ Unable to find bundled Java version.```

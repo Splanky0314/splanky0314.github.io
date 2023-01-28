@@ -9,9 +9,6 @@ tags: GithubPage Ruby Jekyll
 sidebar: []
 ---
 
-
-# invalid byte sequence in UTF-8 (ArgumentError)에러 해결 방법
-
 Github Page에 Jekyll 테마를 적용해나가다가 웹 구동을 위해
 `jekyll serve`를 쳤더니 아래와 같이 오류가 났다.
 
