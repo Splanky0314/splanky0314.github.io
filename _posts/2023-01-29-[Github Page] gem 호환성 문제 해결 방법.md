@@ -8,7 +8,6 @@ banner:
 tags: 깃헙페이지 github_page gem ruby gem버전
 sidebar: []
 ---
-# [Github Page] gem 호환성 문제 해결 방법
 
 ## gem 버전 호환성 문제란?
 ```
