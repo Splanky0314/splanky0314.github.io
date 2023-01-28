@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: [Flutter] Flutter 프로젝트 파일 생성 방법
+title: '[Flutter] Flutter 프로젝트 파일 생성 방법'
 subheading: Flutter 프로젝트 파일 생성 방법을 알아보자
 author: Daeun
 categories: Flutter
