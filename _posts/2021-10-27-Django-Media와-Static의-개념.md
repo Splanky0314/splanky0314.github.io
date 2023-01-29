@@ -6,7 +6,7 @@ author: Daeun
 categories: Django
 banner:
 tags: Django Spreky Hanwoolim Media Static
-sidebar: []
+
 ---
 
 ## Static

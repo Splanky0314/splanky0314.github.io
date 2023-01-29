@@ -6,7 +6,7 @@ author: Daeun
 categories: Notice
 banner:
 tags: DaeunWorld NewStart
-sidebar: []
+
 --- -->
 
 # h1

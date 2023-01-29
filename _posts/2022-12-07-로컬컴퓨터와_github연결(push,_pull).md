@@ -6,7 +6,7 @@ author: Daeun
 categories: Git
 banner:
 tags: git github push pull
-sidebar: []
+
 ---
 
 ## 로컬 컴퓨터 폴더에 github 연결 & pull

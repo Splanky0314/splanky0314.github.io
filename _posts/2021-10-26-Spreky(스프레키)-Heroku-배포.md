@@ -6,7 +6,7 @@ author: Daeun
 categories: Django
 banner:
 tags: Django Heroku Spreky Hanweb
-sidebar: []
+
 ---
 
 ## 기숙사 기상송 신청 웹사이트 개발하기

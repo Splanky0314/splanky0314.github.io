@@ -6,7 +6,7 @@ author: Daeun
 categories: Game
 banner:
 tags: 깃헙페이지 github_page gem ruby gem버전
-sidebar: []
+
 ---
 
 ## gem 버전 호환성 문제란?

@@ -6,7 +6,6 @@ author: Daeun
 categories: Notice
 banner:
 tags: DaeunWorld NewStart
-sidebar: []
 ---
 
 ## 새로운 블로그 시작

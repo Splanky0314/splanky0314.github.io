@@ -6,7 +6,7 @@ author: Daeun
 categories: Github_Page
 banner:
 tags: GithubPage ruby jekyll web
-sidebar: []
+
 ---
 
 ## Install Ruby

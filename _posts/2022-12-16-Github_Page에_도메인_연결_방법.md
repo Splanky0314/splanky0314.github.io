@@ -6,7 +6,7 @@ author: Daeun
 categories: Github_Page
 banner:
 tags: git github_page 도메인구매 가비아 호스팅케이알 호스팅.kr 도메인구매방법 깃헙페이지
-sidebar: []
+
 ---
 
 ## Step1. 도메인 구매 방법(예시. 호스팅kr)

@@ -6,7 +6,7 @@ author: Daeun
 categories: Github_Page
 banner:
 tags: GithubPage Ruby Jekyll
-sidebar: []
+
 ---
 
 Github Page에 Jekyll 테마를 적용해나가다가 웹 구동을 위해

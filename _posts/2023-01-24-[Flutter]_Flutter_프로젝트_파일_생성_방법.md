@@ -6,7 +6,7 @@ author: Daeun
 categories: Flutter
 banner:
 tags: flutter 프로젝트파일 
-sidebar: []
+
 ---
 
 1. 프로젝트 폴더를 생성하고 싶은 위치에 진입하여 cmd를 열어줍니다.
