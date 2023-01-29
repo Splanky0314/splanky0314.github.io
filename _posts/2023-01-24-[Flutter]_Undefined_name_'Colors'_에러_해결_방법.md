@@ -6,7 +6,7 @@ author: Daeun
 categories: Flutter
 banner:
 tags: flutter colors에러 에러해결방법 
-sidebar: []
+
 ---
 
 ## 에러 현상 & 에러 메세지
