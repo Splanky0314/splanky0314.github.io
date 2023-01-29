@@ -16,11 +16,11 @@ tags: 앱코 ARC1 TKL 텐키리스 아크릴 팜레스트 손목 받침대 ICE A
 
 ## 팜레스트 사진
 
-![팜레스트(키보드 손목 받침대) 사용 후기](../assets/images/posts/it_review/2023/01/29/palmrest-TKL/1.jpg)
+![팜레스트(키보드 손목 받침대) 사용 후기](/assets/images/posts/it_review/2023/01/29/palmrest-TKL/1.jpg)
 
-![팜레스트(키보드 손목 받침대) 사용 후기](../assets/images/posts/it_review/2023/01/29/palmrest-TKL/2.jpg)
+![팜레스트(키보드 손목 받침대) 사용 후기](/assets/images/posts/it_review/2023/01/29/palmrest-TKL/2.jpg)
 
-![팜레스트(키보드 손목 받침대) 사용 후기](../assets/images/posts/it_review/2023/01/29/palmrest-TKL/3.jpg)
+![팜레스트(키보드 손목 받침대) 사용 후기](/assets/images/posts/it_review/2023/01/29/palmrest-TKL/3.jpg)
 
 ## 팜레스트 사용 후기
 저는 원래 펀 재질 + 실리콘 형태의 팜레스트를 사용했는데, 한 2년 사용하니까 손 올려두는 부분만 밑으로 파여 버리고 천이 마모되가지고 이번엔 아크릴 형태의 팜레스트를 구매했습니다.
