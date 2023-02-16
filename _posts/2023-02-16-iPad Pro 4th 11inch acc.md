@@ -3,7 +3,7 @@ layout: post
 title: 아이패드 악세서리 추천(펜슬케이스, 펜촉캡, 케이스, 종이질감필름 등등)
 subheading: 
 author: Daeun
-categories: IT제품리뷰
+categories: IT_Review
 banner:
 tags: iPad iPadPro iPadAir 아이패드 11인치 12.9인치 1달후기 아이패드개봉기 악세서리 종이질감필름 저반사필름 강화유리 펜촉캡 펜슬케이스 추천
 
