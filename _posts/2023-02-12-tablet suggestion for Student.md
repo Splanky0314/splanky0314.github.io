@@ -3,7 +3,7 @@ layout: post
 title: 대학 신입생 아이패드 프로 11인치 4세대(6세대) 구매 1달 후기
 subheading: 
 author: Daeun
-categories: IT제품리뷰
+categories: IT_Review
 banner:
 tags: iPad iPadPro iPadAir 아이패드 11인치 12.9인치 1달후기 아이패드개봉기
 
