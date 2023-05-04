@@ -3,7 +3,7 @@ layout: post
 title: '서강대학교 수강신청 꿀팁, 방법'
 subheading:
 author: Daeun
-categories: IT
+categories: Sogang
 banner:
 tags: 서강대학교 sogang Sogang_Univ 서강대 수강신청 수강신청방법 수강신청후기 수강신청꿀팁 2023 대학생
 ---
