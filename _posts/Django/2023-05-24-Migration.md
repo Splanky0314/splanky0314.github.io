@@ -3,9 +3,9 @@ layout: post
 title: '[Django] Migration이란? makemigrations, migrate'
 subheading: 
 author: Daeun
-categories: Django migrate migration makemigrations django-admin REST API
+categories: Django
 banner:
-tags: 
+tags: Django migrate migration makemigrations django-admin REST API
 
 ---
 
