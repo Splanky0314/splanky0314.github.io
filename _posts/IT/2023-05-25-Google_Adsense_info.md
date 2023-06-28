@@ -22,6 +22,7 @@ tags:
 
 ## 네이버 서치 콘솔(Naver Search Console) 데이터
 추가로 궁금하실까봐
+
 ![image](https://github.com/Splanky0314/splanky0314.github.io/assets/79370538/6c8e8d4b-77c0-4291-b9b2-da21c8d06dac)
 
 ## 구글 서치 콘솔(Google Search Console) 데이터

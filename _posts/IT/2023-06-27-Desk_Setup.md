@@ -14,6 +14,7 @@ Come Back Home 기념 데스크 셋업을 해봤습니다.
 
 ## 새로운 데스크 셋업 둘러보기
 ![KakaoTalk_20230627_003733282_02](https://github.com/Splanky0314/splanky0314.github.io/assets/79370538/df6c9ec5-6877-4287-b394-b8f52a27409f)
+
 - AOC 32인치 모니터
 - AOC 28인치? 모니터
 - ASUS 젠북 14인치 (ASUS UM3402YA-KP497W)
@@ -23,30 +24,39 @@ Come Back Home 기념 데스크 셋업을 해봤습니다.
 
 ## 키보드 둘러보기
 ![KakaoTalk_20230627_003733282](https://github.com/Splanky0314/splanky0314.github.io/assets/79370538/0a07ea9d-de69-4af3-9010-032752c67e8d)
+
 저번 게시글에서 다루었던 `엠스톤 그루브 T87A 저소음 갈축(게이트론 갈축)` 입니다. 그새 먼지가 많이 내려앉았네요.... 사진 찍는다고 물티슈로 한번 닦아주기는 했는데 역시 깔끔하게 먼지가 제거되지는 않습니다 ㅠㅠ
 
 ![KakaoTalk_20230627_003919499_05](https://github.com/Splanky0314/splanky0314.github.io/assets/79370538/80b058ef-1a85-427f-965e-e91c5640760e)
 ![KakaoTalk_20230627_003919499_01](https://github.com/Splanky0314/splanky0314.github.io/assets/79370538/51b87398-a5ad-484b-aa17-9a9e8c13aaba)
+
 팜레스트와 함께 놓은 모습입니다.
 
 ![image](https://github.com/Splanky0314/splanky0314.github.io/assets/79370538/dc77b754-133c-4b6a-a1fc-2231698a18c1)
+
 키보드 좌측에서 본 모습입니다. 
 
 ## SONY 블루투스 스피커 둘러보기
 ![KakaoTalk_20230627_003733282_02](https://github.com/Splanky0314/splanky0314.github.io/assets/79370538/df6c9ec5-6877-4287-b394-b8f52a27409f)
+
 이 사진 중앙을 보시면 메인 모니터 아래에 스피커가 있습니다. 2013년 즈음에 아빠가 구매하신 친구인데 제가 요긴하게 잘 쓰고 있습니다. 오래된 모델이라 그런지 블루투스 연결이 안좋아서 주로 케이블로 노트북과 직접 연결해서 사용하고 있어요. 음질이 '와 엄청 좋다!!'까지는 아닌데, 메인모니터 내장 스피커 성능보다는 훨씬 뛰어납니다.
 
 ![KakaoTalk_20230627_003733282_03](https://github.com/Splanky0314/splanky0314.github.io/assets/79370538/092142c2-4360-49f9-bdab-a4c13b2b3239)
 
 ## 보조 모니터 둘러보기
 이건 아빠 회사 모니터인데요, 반납하시기 전까지 제가 잘 사용할 예정입니다 ㅋㅋㅋ 
+
 ![KakaoTalk_20230627_003733282_02](https://github.com/Splanky0314/splanky0314.github.io/assets/79370538/df6c9ec5-6877-4287-b394-b8f52a27409f)
+
 여기 전체 사진 보시면, 아이패드 거치대가 옆에 있어서 모니터를 그냥 두니까 화면이 너무 가려지더라고요. 그래서 집에 굴러다니는 토익 단어장을 받침대로 사용하고 있습니다. 사이즈랑 두께가 딱이여서 요긴하게 사용하고 있어요. 
+
 ![KakaoTalk_20230627_003733282_05](https://github.com/Splanky0314/splanky0314.github.io/assets/79370538/e7288876-b656-4803-a588-ad6a83c4e049)
 
 ## 노트북 연결잭 둘러보기 
 모니터가 많이 연결되는 만큼 노트북에 케이블이 많이 연결되어 있습니다. 사진에는 안나왔지만 평소에 스피커잭도 케이블로 연결해 놓습니다.
+
 ![KakaoTalk_20230627_003733282_04](https://github.com/Splanky0314/splanky0314.github.io/assets/79370538/77d77e30-d077-472a-b1d8-889a6ee06f1b)
+
 - USB-A포트     --  키보드
 - USB-C포트     --  메인모니터
 - HDMI          --  보조모니터
