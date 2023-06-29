@@ -16,7 +16,7 @@ dl, dd, ol, ul, figure {
 body {
   font-family: $base-font-family;
   font-weight: $base-font-weight;
-  font-size: #{$base-font-size+2px}; // list 제목 밑 요약글, 본문 li태그
+  font-size: #{$base-font-size+4px}; // list 제목 밑 요약글, 본문 li태그
   font-display: swap;
   line-height: #{$base-line-height};
   color: $text-color;

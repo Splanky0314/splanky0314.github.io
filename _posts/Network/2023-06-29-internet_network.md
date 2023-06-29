@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[Network] IP와 TCP/UDP'
+title: '[Network] IP와 TCP,UDP'
 subheading: 
 author: Daeun
 categories: Network
