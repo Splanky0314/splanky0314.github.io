@@ -29,9 +29,13 @@ TCP는 위에서 언급한 IP 프로토콜의 문제를 보안해준다.
 
 ### TCP/IP 4계층
 송신자가 Data를 전송하기 위해서는 4계층부터 1계층까지의 단계를 거치며 Data를 캡슐화해야 한다.
+
 4계층: 응용계층(Application)                            - Http, Ftp
+
 3계층: 전송계층(Transport)                              - TCP(출발지 PORT, 목적지 PORT, 순서, 검증정보 등을 추가), UDP
+
 2계층: 인터넷 계층(Internet)                            - IP(출발지 IP, 목적지 IP등을 정보에 추가)
+
 1계층: 네트워크 인터페이스 계층(Network Interface)      - LAN 장비 
 
 수신자는 송신자로부터 정보를 넘겨받아 정보가 1계층부터 4계층까지의 단계를 거치도록 하여 정보를 역캡슐화한다.
@@ -57,5 +61,6 @@ TCP의 경우 3 way handshake 등 송수신자가 서로 주고받아야 하는 
 
 ## 참고자료
 - 인프런 `모든 개발자를 위한 HTTP 웹 기본 지식`, 김영한
+- 해로 블로그 (https://velog.io/@haero_kim/%EB%AC%BC-%ED%9D%90%EB%A5%B4%EB%93%AF-%EC%9D%BD%EC%96%B4%EB%B3%B4%EB%8A%94-TCPIP)
 - 패킷 사진자료 (https://networkencyclopedia.com/network-packet/)
 - 3 way handshake 사진자료 (https://www.scaler.com/topics/computer-network/tcp-3-way-handshake/)
