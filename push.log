@@ -1,1 +1,34 @@
 git add . ...
+
+
+==
+git status
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   push.log
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+==
+git commit -m 2023년 08월 19일 토 오후  1:41:22 commit
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   push.log
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+==
+git push!
+To https://github.com/Splanky0314/splanky0314.github.io.git
+   f1fb90d..7400dc6  main -> main
+git push Success~!
