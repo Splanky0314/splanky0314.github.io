@@ -25,18 +25,18 @@ PostMan에서 `multipart/form-data`를 보내 봅시다.
 
 2. Collection 생성하기
 
-    <img width="881" alt="image" src="https://github.com/Splanky0314/splanky0314.github.io/assets/79370538/f3f78cc4-5762-44ca-b954-1b35aa66025e">
+    <img width="881" alt="image" src="https://cdn.jsdelivr.net/gh/splanky0314/CDN/FastAPI/2023-08-18-How_to_use_Postman/1.png">
 
 3. Request 생성하기
    
-    <img width="877" alt="image" src="https://github.com/Splanky0314/splanky0314.github.io/assets/79370538/145e9e55-2a2e-44a9-8926-c1eb3e144101">
+    <img width="877" alt="image" src="https://cdn.jsdelivr.net/gh/splanky0314/CDN/FastAPI/2023-08-18-How_to_use_Postman/2.png">
 
 4. POST로 설정해주기
 
-    <img width="923" alt="image" src="https://github.com/Splanky0314/splanky0314.github.io/assets/79370538/b545cb2b-a54d-4aee-bedc-4f1e8c425ab5">
+    <img width="923" alt="image" src="https://cdn.jsdelivr.net/gh/splanky0314/CDN/FastAPI/2023-08-18-How_to_use_Postman/3.png">
 
 5. KEY값 옆에 보면 `TEXT` 또는 `FILE`로 선택할 수 있게 되어 있습니다. 이것을 FILE로 변경합니다. 그리고 Content Type를 명시해 줍니다.
-    <img width="929" alt="image" src="https://github.com/Splanky0314/splanky0314.github.io/assets/79370538/b72b5f95-6c52-4790-b382-f4ec37c6acc3">
+    <img width="929" alt="image" src="https://cdn.jsdelivr.net/gh/splanky0314/CDN/FastAPI/2023-08-18-How_to_use_Postman/4.png">
 
 6. 성공!
-   ![image](https://github.com/Splanky0314/splanky0314.github.io/assets/79370538/7b7138c6-6974-4127-b1ac-ce8159995fbf)
+   ![image](https://cdn.jsdelivr.net/gh/splanky0314/CDN/FastAPI/2023-08-18-How_to_use_Postman/5.png)

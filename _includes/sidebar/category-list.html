@@ -1,14 +1,8 @@
-<img src="/assets/images/banners/profile.png" width="200rem" style="text-align: center;">
+<!--수정 예정-->
+<img src="https://cdn.jsdelivr.net/gh/splanky0314/CDN/DEFAULT/SmileCactus.jpg" width="200rem" style="text-align: center;">
 <p style="font-size: 1.5rem; margin-bottom: 0.5rem;"><b>Daeun Kim</b></p>
 <p style="margin: 0.2rem;">splanky0314@gmail.com</p>
 <p style="margin: 0.2rem 0 0.5rem 0;"><a href="https://splanky0314.github.io/info/info.html" target="_blank">자기소개 사이트 이동</a></p>
-
-
-<div class="sns">
-    <a class="sns_link" href="https://www.facebook.com/profile.php?id=100021599119849" target="_blank"><img style="width:3rem;" src="./info/img/SNS/facebook.png" alt="Facebook"></a>
-    <a class="sns_link" href="https://www.instagram.com/hero_daeun/" target="_blank"><img style="width:3rem;" src="./info/img/SNS/instagram.png" alt="Instagram"></a>
-    <a class="sns_link" href="https://github.com/Splanky0314" target="_blank"><img style="width:3rem;" src="./info/img/SNS/github2.png" alt="Github"></a>
-</div>
 
 {%- include functions.html func='log' level='debug' msg='Get categories value' -%}
 
@@ -19,14 +13,3 @@
 {% assign field = 'categories' %}
 {% assign url = '/categories.html' | relative_url %}
 {% include sidebar/common-list.html %}
-
-<style>
-    .sns {
-        padding: 1rem 0 1rem 0;
-        text-align: center;
-    }
-
-    .sns_link {
-        padding: 0 0.2rem 0 0.2rem;
-    }
-</style>

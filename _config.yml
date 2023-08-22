@@ -40,14 +40,14 @@ author: Daeun
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: "Daeun World (cleft) 2021-{currentYear} {author}"
+copyright: "Daeunworld (cleft) 2017-{currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
-  Programing과 각종 게임, IT제품, IT정보를 전문적으로 다루는 웹블로그입니다. 
+  Programing과 각종 IT 이슈와 제품 정보를 전문적으로 다루는 웹블로그입니다.😄 / Problem Solving(C, C++, Python), Web(Django, FastAPI, Github Page) / IT Technology, IT Issue, IT 제품 리뷰
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.daeunworld.kr" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: "" # the favicon for your site
+url: "https://www.daeunworld.kr" # the base hostname & protocol for your site, e.g. https://example.com
+favicon: "" # the favicon for your site # 수정예정
 
 # Yat date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -55,22 +55,23 @@ yat:
   date_format: "%b %d, %Y"
 
 # If you want more debug log, you can set true
-debug: true
+debug: false
 
 # If you don't want transparent header, you can set false
-header_transparent: False
+header_transparent: true
 
-# If you want to change the content width, you can set to another value
+# If you want to change the content width, you can set to another value # 수정예정
 # content_width: "920px"
 
-# Google analytics
+# Google analytics - GA4
 google_analytics: [G-RPE3V2E3C1]
+# enableDNT: "false"
 
 # If you want to generate website sitemap, you can set true
 sitemap: true
 
 # If you want to change site language, you can set lang option
-lang: "ko"  # default lang is en
+lang: "ko"  # default lang is ko
 
 # Translate languges
 # langs refer to https://cloud.google.com/translate/docs/languages
@@ -121,6 +122,11 @@ lang: "ko"  # default lang is en
 # Custom color as below:
 # brand_color: "#1a8e42"
 
+# You can custom selection style
+# selection:
+#   color: "#ff00ff"
+#   background_color: "yellow"
+
 # Night/Dark mode
 # Default mode is "auto", "auto" is for auto nightshift
 # (19:00 - 07:00), "manual" is for manual toggle, and
@@ -134,7 +140,7 @@ lang: "ko"  # default lang is en
 #
 night_mode: "on"
 
-# Code badge setting
+# Code badge setting # 수정예정
 # You can enable or disable the code badge and so on
 # code_badge:
 #   enabled: "true"
@@ -170,7 +176,7 @@ night_mode: "on"
 #   opacity: 1.0            # Banner opacity (100% is 1.0)
 #   background: "rgba(0, 0, 0, 0.8)"  # Banner background (Could be a image)
 #   height: "640px"         # Banner default height
-#   min_height: null        # Banner minium height
+#   min_height: null        # Banner minimum height
 #   heading_style: null     # Custom heading style (e.g. "font-weight: bold; text-decoration: underline")
 #   subheading_style: null  # Custom subheading style (e.g. color: gold)
 
@@ -179,6 +185,27 @@ night_mode: "on"
 
 # Pagination setting
 # paginate: 5
+
+# Photo previewer settings (PhotoSwipe 5)
+# the options please refer to: https://photoswipe.com/options/
+# photo_previewer:
+#  gallery: "section.main"
+#  children: "a.photo-swipe"
+#  bgOpacity: 0.8
+#  padding:
+#    top: 20
+#    bottom: 40
+#    left: 100
+#    right: 100
+
+# Click to top settings
+# click_to_top:
+#   light:
+#     background_color: "white"
+#     color: "#454545"
+#   dark:
+#     background_color: "#34323d"
+#     color: "#bbb"
 
 # Disqus comments
 # disqus:
@@ -191,6 +218,17 @@ night_mode: "on"
 #   client_id: "Your client ID"
 #   client_secret: "Your client secret"
 #   redirect_uri: "Your redirect url"   # If you use a custom domain name
+
+# Utterances comments
+# See https://utteranc.es/
+# set follow_site_theme true to make utterances' theme follow the site's
+
+# utterances:
+#   repo: "owner/repo"
+#   issue_term: "title"
+#   label: "utterances comment"
+#   theme: "github-light"
+#   follow_site_theme: true
 
 # Build settings
 # highlighter: none
