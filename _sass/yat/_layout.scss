@@ -308,7 +308,7 @@ html {
   }
 
   .post-link {
-    @include relative-font-size(1.65);
+    @include relative-font-size(2);  // DE 수정 (default=1.65)
     font-weight: $base-font-weight * 1.5;
     color: #333;
   }
@@ -411,7 +411,7 @@ html {
     word-break: normal;
 
     h2 {
-      @include relative-font-size(2);
+      @include relative-font-size(2.28);  // DE 수정 (기본값=2)
 
       @include media-query($on-laptop) {
         @include relative-font-size(1.75);

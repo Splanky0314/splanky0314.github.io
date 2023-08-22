@@ -16,7 +16,7 @@ dl, dd, ol, ul, figure {
 body {
   font-family: $base-font-family;
   font-weight: $base-font-weight;
-  font-size: #{$base-font-size+4px};
+  font-size: #{$base-font-size+4px}; // DE 수정
   font-display: swap;
   line-height: #{$base-line-height};
   color: $text-color;
@@ -99,7 +99,7 @@ li {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
-  font-weight: $base-font-weight * 1.5;
+  font-weight: $base-font-weight * 1.5; // DE 수정예정
 }
 
 /**
