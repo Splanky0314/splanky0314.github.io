@@ -6,3 +6,4 @@ Gemfile.lock
 
 # Appended by DE
 push.sh
+push.log
