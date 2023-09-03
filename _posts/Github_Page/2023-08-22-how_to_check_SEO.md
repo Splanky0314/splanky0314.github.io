@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[Github Page] jekyll 블로그 code formatting(코드 테마) 변경 방법'
+title: '[Github Page] SEO(검색엔진최적화) 정도 확인하는 사이트'
 subheading: 
 author: Daeun
 categories: Github_Page
