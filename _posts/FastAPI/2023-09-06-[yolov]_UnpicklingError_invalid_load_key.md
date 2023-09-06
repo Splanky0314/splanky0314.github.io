@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[YOLOV] UnpicklingError: invalid load key, 'v'. 에러 해결 방법'
+title: "[YOLOV] UnpicklingError: invalid load key, 'v'. 에러 해결 방법"
 subheading: 
 author: Daeun
 categories: FastAPI
