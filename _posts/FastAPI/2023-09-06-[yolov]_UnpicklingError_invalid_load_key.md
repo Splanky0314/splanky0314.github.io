@@ -148,4 +148,4 @@ git add *.pt
 
 흐아
 
-<img width=70% alt="success" src="https://cdn.jsdelivr.net/gh/splanky0314/CDN/FastAPI/2023-09-06-[yolov]_UnpicklingError_invalid_load_key/1.png">
+<img width="70%" alt="success" src="https://cdn.jsdelivr.net/gh/splanky0314/CDN/FastAPI/2023-09-06-[yolov]_UnpicklingError_invalid_load_key/1.png">
