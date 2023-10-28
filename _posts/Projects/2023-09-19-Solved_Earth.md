@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Project] "
+title: "[공개SW개발자대회] Solved.Earth 프로젝트 후기"
 subheading: 
 author: Daeun
 categories: Projects
