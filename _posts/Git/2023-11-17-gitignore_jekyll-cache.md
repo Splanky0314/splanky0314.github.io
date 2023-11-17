@@ -87,8 +87,9 @@ git push --force --all
   
 역시 변경사항이 많아서 push도 오래 걸립니다.
  
- ## 해결 완료
- ![git 특정 파일, 폴더의 커밋 기록 모두 삭제하기](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Git/2023-11-17-gitignore_jekyll-cache/8.png)
+## 해결 완료
+
+![git 특정 파일, 폴더의 커밋 기록 모두 삭제하기](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Git/2023-11-17-gitignore_jekyll-cache/8.png)
 
 
 jekyll-cache 파일이 사라진 모습을 볼 수 있습니다!
