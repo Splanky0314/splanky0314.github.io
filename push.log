@@ -1,1 +1,28 @@
 git add . ...
+
+
+==
+git status
+On branch main
+Your branch is ahead of 'origin/main' by 9 commits.
+  (use "git push" to publish your local commits)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   _posts/Etc/2023-11-10-Gangneung.md
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   push.log
+
+==
+git commit -m Fri Nov 17 00:10:05     2023 commit
+[main 76f1b53] Fri Nov 17 00:10:05     2023 commit
+ 1 file changed, 231 insertions(+)
+
+==
+git push!
+To https://github.com/Splanky0314/splanky0314.github.io.git
+   ccb8e8a..76f1b53  main -> main
+git push Success~!
