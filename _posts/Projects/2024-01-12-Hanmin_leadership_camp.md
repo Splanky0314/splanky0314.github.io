@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[한민고 리더십 캠프] 코딩 캠프 강사가 되었던 이틀 간의 기록 🏫"
+title: "[한민고 리더십 캠프] 리더십캠프 담임이 되었던 5일 간의 기록 🏫"
 subheading: 
 author: Daeun
 categories: Projects
