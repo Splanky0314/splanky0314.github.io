@@ -119,8 +119,10 @@ let, const는 선언만 될 뿐, 초기화가 진행되지 않은 TDZ 상태가 
 
 let으로 선언된 변수를 선언문 이전에 참조하면 Reference Error가 발생하게 됩니다. 
 
-<참고자료>
+<< 참고자료 >>
+
 - [렉시컬 환경](https://developer-alle.tistory.com/407)
+  
 - [변수와 함수 호이스팅(Hoisting)에 대해 알아보자](https://velog.io/@1nthek/JavaScript-%EB%B3%80%EC%88%98%EC%99%80-%ED%95%A8%EC%88%98-%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85Hoisting%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90)
 
 ## 객체(Object)
