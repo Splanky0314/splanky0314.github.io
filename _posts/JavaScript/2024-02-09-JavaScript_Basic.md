@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[JavaScript] 자바스크립트 기초(자료형, 함수, 객체)'
+title: '[JavaScript] 자바스크립트 기초😊(자료형, 함수, 객체)'
 subheading: 
 author: Daeun
 categories: JavaScript
@@ -121,7 +121,7 @@ let으로 선언된 변수를 선언문 이전에 참조하면 Reference Error�
 
 <참고자료>
 - [렉시컬 환경](https://developer-alle.tistory.com/407)
-- [[JavaScript] 변수와 함수 호이스팅(Hoisting)에 대해 알아보자](https://velog.io/@1nthek/JavaScript-%EB%B3%80%EC%88%98%EC%99%80-%ED%95%A8%EC%88%98-%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85Hoisting%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90)
+- [\[JavaScript\] 변수와 함수 호이스팅(Hoisting)에 대해 알아보자](https://velog.io/@1nthek/JavaScript-%EB%B3%80%EC%88%98%EC%99%80-%ED%95%A8%EC%88%98-%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85Hoisting%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90)
 
 ## 객체(Object)
 
