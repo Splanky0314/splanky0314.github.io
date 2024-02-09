@@ -43,10 +43,10 @@ author: Daeun
 copyright: "Daeunworld (cleft) 2017-{currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
-  Programing과 각종 IT 이슈와 제품 정보를 전문적으로 다루는 웹블로그입니다.😄 / Problem Solving(C, C++, Python), Web(Django, FastAPI, Github Page) / IT Technology, IT Issue, IT 제품 리뷰
+  Programing과 각종 IT 이슈와 제품 정보를 전문적으로 다루는 웹블로그입니다.😄 / Problem Solving, Web, IT Technology
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.daeunworld.kr" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://daeunworld.kr" # the base hostname & protocol for your site, e.g. https://example.com
 favicon: "https://cdn.jsdelivr.net/gh/splanky0314/CDN/DEFAULT/favicon.ico" # the favicon for your site # 수정예정
 
 # Yat date format

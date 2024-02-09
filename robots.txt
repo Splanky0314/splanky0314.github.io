@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.daeunworld.kr/sitemap.xml
+Sitemap: https://daeunworld.kr/sitemap.xml
