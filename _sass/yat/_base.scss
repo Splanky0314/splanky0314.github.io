@@ -147,6 +147,8 @@ pre,
 code {
   @include relative-font-size(0.9375);
   color: $text-color;
+  font-family: Consolas;  // 코드블럭 폰트 수정
+  tab-size: 4;
 }
 
 *:not(pre) > code {
