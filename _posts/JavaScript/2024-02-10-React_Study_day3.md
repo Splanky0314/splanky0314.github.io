@@ -9,6 +9,10 @@ tags: JavaScript JS React React.js JSX jsx element component immutable attribute
 
 ---
 
+\* 이 글은 소플님의 `처음 만난 리엑트(React) 강의 내용을    정리한 게시물입니다.
+
+[처음 만난 리엑트(React) - 소플](https://www.inflearn.com/course/%EC%B2%98%EC%9D%8C-%EB%A7%8C%EB%82%9C-%EB%A6%AC%EC%95%A1%ED%8A%B8/dashboard)
+
 ## Ch05. Components
 
 리엑트는 컴포넌트 기반의 구조이다! 컴포넌트들을 레고 블럭을 끼워 넣듯이 구성한다.
