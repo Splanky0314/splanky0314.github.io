@@ -1,1 +1,29 @@
 git add . ...
+
+
+==
+git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	new file:   _posts/IT/2024-04-07-Internet_Error.md
+	modified:   push.log
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   push.log
+
+==
+git commit -m Sun Apr  7 18:07:34     2024 commit
+[main 42c0e71] Sun Apr  7 18:07:34     2024 commit
+ 2 files changed, 26 insertions(+), 30 deletions(-)
+ create mode 100644 _posts/IT/2024-04-07-Internet_Error.md
+
+==
+git push!
+To https://github.com/Splanky0314/splanky0314.github.io.git
+   f45a648..42c0e71  main -> main
+git push Success~!
