@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[C/C++] [BOJ1325 효율적인 해킹] Cycle 항상 조심⚠"
+title: "[C/C++] [BOJ1325 효율적인 해킹] Cycle 항상 조심😅"
 subheading: 
 author: Daeun
 categories: Problem_Solving
