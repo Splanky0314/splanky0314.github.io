@@ -12,7 +12,7 @@ tags: C언어 C C++ C99 Baekjoon 알고리즘 binary search algorithm boj codefo
 
 아니 ICPC 스터디 연습 문제를 푸는데 
 
-![image](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Problem_Solving/2023-09-09-float_and_double/0.png)
+![float는 뭐가 문제일까](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Problem_Solving/2023-09-09-float_and_double/0.png)
 
 [백준 26258 다중 일차 함수](https://www.acmicpc.net/problem/26258)
 
@@ -26,13 +26,13 @@ vector를 참조자로 함수에 넘기는 대신 전역변수로 선언해보�
 
 2시간 동안 열심히 고쳤습니다. 고생의 흔적.
 
-![image](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Problem_Solving/2023-09-09-float_and_double/1.png)
+![float는 뭐가 문제일까](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Problem_Solving/2023-09-09-float_and_double/1.png)
 
 ## 장난하냐🤬
 
 float를 double로 바꾸는 순간.
 
-![image](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Problem_Solving/2023-09-09-float_and_double/2.png)
+![float는 뭐가 문제일까](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Problem_Solving/2023-09-09-float_and_double/2.png)
 
 바로 초록 딱지;;; 장난하니 나랑
 

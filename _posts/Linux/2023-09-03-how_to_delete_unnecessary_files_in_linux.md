@@ -23,7 +23,7 @@ github actions가 실패했길래 로그를 봤더니, no disk ~~ (용량이 부
 
 ## 문제가 발생한 이유....
 
-![image](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Linux/2023-09-03-how_to_delete_unnecessary_files_in_linux/3.png)
+![github actions 에러 해결 방법](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Linux/2023-09-03-how_to_delete_unnecessary_files_in_linux/3.png)
 
 docker랑 github actions를 혼자 해보는 건 처음이라 그냥 계속 돌렸더니... ㅋㅋㅋㅋㅋㅋㅋㅋ 
 
@@ -35,9 +35,9 @@ docker랑 github actions를 혼자 해보는 건 처음이라 그냥 계속 돌�
 docker system prune -a -f
 ```
 
-![image](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Linux/2023-09-03-how_to_delete_unnecessary_files_in_linux/1.png)
+![github actions 에러 해결 방법](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Linux/2023-09-03-how_to_delete_unnecessary_files_in_linux/1.png)
 
-![image](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Linux/2023-09-03-how_to_delete_unnecessary_files_in_linux/2.png)
+![github actions 에러 해결 방법](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Linux/2023-09-03-how_to_delete_unnecessary_files_in_linux/2.png)
 
 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 11.77GB ㅋㅋㅋㅋㅋㅋㅋㅋㅋ
 

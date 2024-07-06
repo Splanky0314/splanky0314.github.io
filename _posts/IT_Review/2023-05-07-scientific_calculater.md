@@ -22,18 +22,18 @@ tags: 공학용계산기 계산기 일반물리 일반물리실험 카시오 fx5
 저는 공학계산기 많이 사용하는 학과도 아니고, 여러가지 기능들을 쓰지는 않을 거라서 Solve 기능 같은 필수 함수는 가지고 있되 좀 저렴한 친구를 구매했습니다. 바로 `fx-570ES 2nd Edition` 입니다. 가격은 대략 2만원 합니다.
 [fx-570ES 2nd Edition](https://search.shopping.naver.com/catalog/8426728643?query=fx-570EX&NaPm=ct%3Dlhdgn348%7Cci%3Dfa5cc924f4fbc0bc42daeeefc760b35371020a6b%7Ctr%3Dslsl%7Csn%3D95694%7Chk%3D570968a418c22777a6b0102caf52fe72e81140eb)
 
-![KakaoTalk_20230507_222517333](https://user-images.githubusercontent.com/79370538/236680596-a1bd645e-d1f4-46d0-aad5-75d5a265b4c4.jpg)
+![카시오 공학용계산기](https://user-images.githubusercontent.com/79370538/236680596-a1bd645e-d1f4-46d0-aad5-75d5a265b4c4.jpg)
 
 요 친구는 색상도 `블랙/핑크/블루`로 3가지 있습니다. 저는 블랙 구매했어요.
 
 ## 제품 내용물
-![KakaoTalk_20230507_222517333](https://user-images.githubusercontent.com/79370538/236680596-a1bd645e-d1f4-46d0-aad5-75d5a265b4c4.jpg)
+![카시오 공학용계산기](https://user-images.githubusercontent.com/79370538/236680596-a1bd645e-d1f4-46d0-aad5-75d5a265b4c4.jpg)
 
 매우매우 두꺼운 설명서가 있어서 깜짝 놀랐지만, 다국어로 다 설명되어 있어서 그런 거였습니다 ㅋㅋㅋ
-![KakaoTalk_20230507_222517863](https://user-images.githubusercontent.com/79370538/236680599-9f902f4f-de72-495c-8715-454dc824344a.jpg)
+![카시오 공학용계산기](https://user-images.githubusercontent.com/79370538/236680599-9f902f4f-de72-495c-8715-454dc824344a.jpg)
 
 그래도 뭐가 좀 복잡하죠?
-![KakaoTalk_20230507_222518416](https://user-images.githubusercontent.com/79370538/236680593-9dd8e3f6-07f7-4874-8148-2aadafc7b61c.jpg)
+![카시오 공학용계산기](https://user-images.githubusercontent.com/79370538/236680593-9dd8e3f6-07f7-4874-8148-2aadafc7b61c.jpg)
 
 ## 사용법 익히기
 공학계산기다 보니까 방정식도 풀 수 있고 여러가지 기능이 있습니다. 그러나 요 기능들을 쓰기 위해서는 계산기 사용법에 익숙해져야 하는데요...! 설명서가 자세하고 fx-570자체가 이미 많은 분들이 사용하는 모델이라 인터넷에 사용방법 쳐도 정보가 많이 나와서 좋았어요!

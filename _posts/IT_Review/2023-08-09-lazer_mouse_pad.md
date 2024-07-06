@@ -19,14 +19,14 @@ tags: 마우스 마우스패드 레이저 초록 검정 천 기간투스 사치�
 
 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
 
-![image](https://github.com/Splanky0314/splanky0314.github.io/assets/79370538/c07ca4e8-4275-4bc6-b215-0da448fba74c)
+![레이저 마우스 패드](https://github.com/Splanky0314/splanky0314.github.io/assets/79370538/c07ca4e8-4275-4bc6-b215-0da448fba74c)
 
 오랜만에 사치품 구입^^ 고오오오급 마우스패드로
 
 
 ## 결제 해버렸다...
 
-![image](https://github.com/Splanky0314/splanky0314.github.io/assets/79370538/e350dec7-69bb-429e-9e7a-88533795e3ec)
+![레이저 마우스 패드](https://github.com/Splanky0314/splanky0314.github.io/assets/79370538/e350dec7-69bb-429e-9e7a-88533795e3ec)
 
 큰 게 필요하지는 않아서 Medium으로 구매.
 

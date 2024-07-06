@@ -10,12 +10,12 @@ tags:
 ---
 
 ## IP: Internet Protocol
-![image](https://github.com/Splanky0314/splanky0314.github.io/assets/79370538/8744955c-8882-4f23-85a9-008d3d6b36fe)
+![네트워크 공부기](https://github.com/Splanky0314/splanky0314.github.io/assets/79370538/8744955c-8882-4f23-85a9-008d3d6b36fe)
 - 지정된 IP Address에 데이터를 전달한다.
 - 패킷의 통신 단위로 데이터를 전달한다.
 
 > 패킷 Packet이란?: 컴퓨터 네트워크에서 Data를 주고받을 때 정해 놓은 규칙이다.
-![image](https://github.com/Splanky0314/splanky0314.github.io/assets/79370538/ee1bfa89-6608-45e3-8fb2-04d126b925b4)
+![네트워크 공부기](https://github.com/Splanky0314/splanky0314.github.io/assets/79370538/ee1bfa89-6608-45e3-8fb2-04d126b925b4)
 IP패킷에는 해당 패킷의 출발지 IP주소와 목적지 IP주소 등의 정보가 포함되어 있다.
 
 그러나 IP 프로토콜은 아래와 같은 문제점이 있다.
@@ -42,7 +42,7 @@ TCP는 위에서 언급한 IP 프로토콜의 문제를 보안해준다.
 
 ### TCP 특징
 1. 3 way handshake
-    ![image](https://github.com/Splanky0314/splanky0314.github.io/assets/79370538/e8daaabc-6e1c-4d5b-973f-488f0abe8967)
+    ![네트워크 공부기](https://github.com/Splanky0314/splanky0314.github.io/assets/79370538/e8daaabc-6e1c-4d5b-973f-488f0abe8967)
 
    클라이언트가 서버에게: 접속 요청 전송
    서버가 클라이언트에게: 접속 요청 + 요청 수락 전송

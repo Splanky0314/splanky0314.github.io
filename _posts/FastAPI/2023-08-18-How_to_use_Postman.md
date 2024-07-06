@@ -39,4 +39,4 @@ PostMan에서 `multipart/form-data`를 보내 봅시다.
     <img width="929" alt="image" src="https://cdn.jsdelivr.net/gh/splanky0314/CDN/FastAPI/2023-08-18-How_to_use_Postman/4.png">
 
 6. 성공!
-   ![image](https://cdn.jsdelivr.net/gh/splanky0314/CDN/FastAPI/2023-08-18-How_to_use_Postman/5.png)
+   ![postman 스크린샷](https://cdn.jsdelivr.net/gh/splanky0314/CDN/FastAPI/2023-08-18-How_to_use_Postman/5.png)

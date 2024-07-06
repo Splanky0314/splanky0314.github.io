@@ -20,13 +20,13 @@ Air를 살지 Pro를 살지 고민을 한 1달 했고, 11인치살지 12.9인치
 
 ## iPad 개봉샷
 
-![image](https://user-images.githubusercontent.com/79370538/219064943-b20b02b9-9195-4163-9d8c-8e68fcd475df.png)
+![대학생 아이패드 개봉기](https://user-images.githubusercontent.com/79370538/219064943-b20b02b9-9195-4163-9d8c-8e68fcd475df.png)
 근데 미쳤나봐요.. 이거 말고 뜯을 때 찍은 사진이 없습니다... 죄송합니다...
 
-![image](https://user-images.githubusercontent.com/79370538/219065023-2bd3e665-7ad3-4c5d-9f85-0cc7f901c4c3.png)
+![대학생 아이패드 개봉기](https://user-images.githubusercontent.com/79370538/219065023-2bd3e665-7ad3-4c5d-9f85-0cc7f901c4c3.png)
 세팅 후 찍은 사진!
 
-![image](https://user-images.githubusercontent.com/79370538/219065073-885c619e-836e-4fc4-ade1-783bb33afb9f.png)
+![대학생 아이패드 개봉기](https://user-images.githubusercontent.com/79370538/219065073-885c619e-836e-4fc4-ade1-783bb33afb9f.png)
 
 ## iPad Air VS iPad Pro
 이 둘 중에 결정하는게 가장 어려웠습니다.
@@ -47,7 +47,7 @@ Air를 살지 Pro를 살지 고민을 한 1달 했고, 11인치살지 12.9인치
 제가 쓰던 샤오신 패드가 11.2인치 정도인 것 같더라구요. 
 
 하여튼, 12.9인치는 크기가 거의 A4인데, 일단 무게차이가... 
-![image](https://user-images.githubusercontent.com/79370538/219068609-2e07a992-0e16-47a3-b12c-87f39e4f8177.png)
+![대학생 아이패드 개봉기](https://user-images.githubusercontent.com/79370538/219068609-2e07a992-0e16-47a3-b12c-87f39e4f8177.png)
 
 지금 제가 쓰는 케이스 무게가 100g정도 되는데 684g+100g = 784g???! 이건 좀 아닌 것 같더라구요.
 (누워서 패드로 넷플릭스 보다가 떨어지면 코 부러질듯)

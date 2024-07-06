@@ -26,8 +26,8 @@ tags: 토체프 토체티 텐키리스 기계식키보드 체리스위치 적축
 ## 토체티씨 AS를 해주자
 1. 일단 잘 보관해놨던 토체티 품질보증서를 꺼냈습니다.
 보니까 토체티는 사용설명서 맨 뒷장에 품질보증서가 있더라고요. 이거 때문에 한참 뒤졌네...
-![KakaoTalk_20230216_185527660](https://user-images.githubusercontent.com/79370538/219331893-8f8446fc-7f15-4386-9718-7f389a7c2953.jpg)
-![KakaoTalk_20230216_185527660_01](https://user-images.githubusercontent.com/79370538/219331900-6154526c-02a4-4bd6-b9ba-bf100a2e94bd.jpg)
+![토체티 AS 후기](https://user-images.githubusercontent.com/79370538/219331893-8f8446fc-7f15-4386-9718-7f389a7c2953.jpg)
+![토체티 AS 후기_01](https://user-images.githubusercontent.com/79370538/219331900-6154526c-02a4-4bd6-b9ba-bf100a2e94bd.jpg)
 
 참고로 토체티 보증기간은 2년입니다.
 

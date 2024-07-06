@@ -129,7 +129,7 @@ john.exe --format=crypt pass.txt
 
 이제 John 씨를 사용해 봅시다. 작동 방식에 대한 글을 읽으셨다면 아시겠지만 admin, apple 등 사람들이 많이 사용하는 암호를 먼저 대입한 후, 그래도 해독이 되지 않는다면 무작위로 대입하는 방법을 사용하게 됩니다. 하지만 무작위 대입 방법이 쉽다면 전 세계 개인정보는 다 털렸을 겁니다. 즉, 무작위 대입으로는 수 백만 년이 걸릴 수도 있습니다. 일단 24시간 정도 돌려보기로 했습니다.
 
-![image](https://github.com/Splanky0314/splanky0314.github.io/assets/79370538/7469b5a1-cb2f-416a-ba5f-01aff217ede4)
+![우분투 서버 해킹](https://github.com/Splanky0314/splanky0314.github.io/assets/79370538/7469b5a1-cb2f-416a-ba5f-01aff217ede4)
 
 지금 대략 30시간 정도 넘게 돌린 것 같은데, 아직도 해독에 실패했습니다. 흔한 비밀번호로 설정하지는 않았다는 소리지요. 이 방법은 포기하는 게 좋겠습니다.
 

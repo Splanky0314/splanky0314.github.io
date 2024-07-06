@@ -15,9 +15,9 @@ tags: git github push pull rest forced remote Google Cloud Console GCP 구글_�
 
 그래서 횡~ 한 프로필이나 채울 겸 아무 생각 없이 Handago(고등학교 때 만든 챗봇) Repo를 public으로 전환했는데.....!!
 
-![image](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Git/2023-08-27-How_to_Delete_Google_Cloud_Console_Project/1.png)
+![google cloud console 프로젝트 해지하기](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Git/2023-08-27-How_to_Delete_Google_Cloud_Console_Project/1.png)
 
-![image](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Git/2023-08-27-How_to_Delete_Google_Cloud_Console_Project/2.png)
+![google cloud console 프로젝트 해지하기](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Git/2023-08-27-How_to_Delete_Google_Cloud_Console_Project/2.png)
 
 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ;;;;
 
@@ -41,16 +41,16 @@ tags: git github push pull rest forced remote Google Cloud Console GCP 구글_�
    
     [구글 클라우드 콘솔 홈페이지](https://console.cloud.google.com/)
 
-   ![image](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Git/2023-08-27-How_to_Delete_Google_Cloud_Console_Project/3.png)
+   ![google cloud console 프로젝트 해지하기](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Git/2023-08-27-How_to_Delete_Google_Cloud_Console_Project/3.png)
 
 2. `빠른 엑세스`의 `IAM 및 관리자` 클릭
 
-   ![image](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Git/2023-08-27-How_to_Delete_Google_Cloud_Console_Project/3.png)
+   ![google cloud console 프로젝트 해지하기](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Git/2023-08-27-How_to_Delete_Google_Cloud_Console_Project/3.png)
 
 3. 프로필 옆 목록 버튼 클릭
    
-   ![image](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Git/2023-08-27-How_to_Delete_Google_Cloud_Console_Project/4.png)
+   ![google cloud console 프로젝트 해지하기](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Git/2023-08-27-How_to_Delete_Google_Cloud_Console_Project/4.png)
 
 4. 상단의 `종료` 클릭
 
-    ![image](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Git/2023-08-27-How_to_Delete_Google_Cloud_Console_Project/5.png)
+    ![google cloud console 프로젝트 해지하기](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Git/2023-08-27-How_to_Delete_Google_Cloud_Console_Project/5.png)

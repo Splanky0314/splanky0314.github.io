@@ -13,7 +13,7 @@ tags: 엠스톤 그루브 T87A 텐키리스 Mstone 품절 블랙옐로우 다크
 조용한 곳에서 사용할 키보드가 필요하기도 하고, 원래 사용하던 토체티 'ㅇ'키 안눌리는거 AS문의하다가 너무 불친절하고 시간 얼마나 걸릴지 자기들도 장담못한다고, 추가 비용이 좀 들어갈 수도 있다고 그러더라구요..(이전 글 참고....) 시간이 좀 더 지나니까 스테빌 소음도 어느 순간부터 너무 심해져서.... 하나 새로 장만했습니다.
 
 전에 사용하던 토체티
-![KakaoTalk_20221211_150814298_10](https://user-images.githubusercontent.com/79370538/236681644-62e29612-526e-4746-903d-6130bfd23a86.jpg)
+![토체티 기계식 키보드](https://user-images.githubusercontent.com/79370538/236681644-62e29612-526e-4746-903d-6130bfd23a86.jpg)
 
 ## 엠스톤 그루브 T87A 정보
 제 두번째 기계식 키보드입니다! 저번에는 토체티 적축을 사용했었는데, 소음이 생각보다 많이 크더라구요.... 핫스왑 불가 제품이라 간이 윤활을 스프레이로 해봤었는데 고르게 타건음이 맞춰지지는 않아서 좀 아쉬움이 있었습니다 ㅠ
@@ -44,36 +44,36 @@ tags: 엠스톤 그루브 T87A 텐키리스 Mstone 품절 블랙옐로우 다크
 
 ## 사진들
 배송시 포장 사진입니다. 뾱뾱이로 꼼꼼하게 둘러져서 도착했어요!
-![KakaoTalk_20230507_222922848](https://user-images.githubusercontent.com/79370538/236681586-c3f07fb3-5443-410d-bfb4-927fa0def1d5.jpg)
-![KakaoTalk_20230507_222923277](https://user-images.githubusercontent.com/79370538/236681587-df7f43ec-7cb2-468b-8077-a7fe398859e3.jpg)
-![KakaoTalk_20230507_222923689](https://user-images.githubusercontent.com/79370538/236681589-bffc35e2-8ed4-49b6-bb8c-da6df35caa92.jpg)
+![엠스톤그루브 T87A 모습](https://user-images.githubusercontent.com/79370538/236681586-c3f07fb3-5443-410d-bfb4-927fa0def1d5.jpg)
+![엠스톤그루브 T87A 모습](https://user-images.githubusercontent.com/79370538/236681587-df7f43ec-7cb2-468b-8077-a7fe398859e3.jpg)
+![엠스톤그루브 T87A 모습](https://user-images.githubusercontent.com/79370538/236681589-bffc35e2-8ed4-49b6-bb8c-da6df35caa92.jpg)
 
 포장재를 다 벗기면 영롱한 GROOVE T SF씨가 나옵니다.
 왼쪽 하단에 풀윤활 인증 스티커가 붙어있네요.
-![KakaoTalk_20230507_222924055](https://user-images.githubusercontent.com/79370538/236681591-99430378-14a3-4f2f-b742-111817f92f0c.jpg)
+![엠스톤그루브 T87A 모습](https://user-images.githubusercontent.com/79370538/236681591-99430378-14a3-4f2f-b742-111817f92f0c.jpg)
 
 플라스틱 키보드 덮개가 동봉되어 있습니다.
-![KakaoTalk_20230507_222924442](https://user-images.githubusercontent.com/79370538/236681592-e69d46c0-719c-4a85-b5bf-999854420e21.jpg)
+![엠스톤그루브 T87A 모습](https://user-images.githubusercontent.com/79370538/236681592-e69d46c0-719c-4a85-b5bf-999854420e21.jpg)
 
 키보드 포장까지 벗기면! 블랙옐로우 색상이 나옵니다!! 엄청 이뻐요. 판매 스토어 사진이랑 색감은 똑같았어요.
-![KakaoTalk_20230507_222924819](https://user-images.githubusercontent.com/79370538/236681593-aed0bb7f-0455-461b-9852-772e0c355c7e.jpg)
+![엠스톤그루브 T87A 모습](https://user-images.githubusercontent.com/79370538/236681593-aed0bb7f-0455-461b-9852-772e0c355c7e.jpg)
 
 초 밀착 샷
-![KakaoTalk_20230507_222925209](https://user-images.githubusercontent.com/79370538/236681595-4b11ec76-2f94-4bee-b90d-436a23adfad7.jpg)
+![엠스톤그루브 T87A 모습](https://user-images.githubusercontent.com/79370538/236681595-4b11ec76-2f94-4bee-b90d-436a23adfad7.jpg)
 
 기존에 사용하던 토체티랑 비교해보면 크기가 살짝 더 커요. 펑션기랑 넘버키 사이 간격이 좀 넓은 게 보이시죠?
-![KakaoTalk_20230507_222925591](https://user-images.githubusercontent.com/79370538/236681597-1fe9ac87-181c-46bd-b05e-5eea5bf28e5f.jpg)
-![KakaoTalk_20230507_222925969](https://user-images.githubusercontent.com/79370538/236681598-de55b0af-34c7-47b1-9546-41699a8f3ff8.jpg)
+![엠스톤그루브 T87A 모습](https://user-images.githubusercontent.com/79370538/236681597-1fe9ac87-181c-46bd-b05e-5eea5bf28e5f.jpg)
+![엠스톤그루브 T87A 모습](https://user-images.githubusercontent.com/79370538/236681598-de55b0af-34c7-47b1-9546-41699a8f3ff8.jpg)
 
 ## 1달 사용 후 사진
-![KakaoTalk_20230507_223010757](https://user-images.githubusercontent.com/79370538/236681601-2365583b-3c64-4a10-a96a-06c712bd4212.jpg)
+![엠스톤그루브 T87A 모습](https://user-images.githubusercontent.com/79370538/236681601-2365583b-3c64-4a10-a96a-06c712bd4212.jpg)
 
 가까이 찍어보면 먼지가..... 참고로 플라스틱 덮개는 둘 공간이 없어서 한번도 사용 못했어요 ㅠ(그러니까 먼지가 저모양이지...) 손가락 닿는 부분만 깨끗합니다.
-![KakaoTalk_20230507_223103736](https://user-images.githubusercontent.com/79370538/236681605-0a779cd1-ff77-4586-8c63-e43ba5cb026f.jpg)
-![KakaoTalk_20230507_223103736_01](https://user-images.githubusercontent.com/79370538/236681606-dc3c907d-4d6d-4004-9a94-fd49f3bb2776.jpg)
+![엠스톤그루브 T87A 모습](https://user-images.githubusercontent.com/79370538/236681605-0a779cd1-ff77-4586-8c63-e43ba5cb026f.jpg)
+![엠스톤그루브 T87A 모습_01](https://user-images.githubusercontent.com/79370538/236681606-dc3c907d-4d6d-4004-9a94-fd49f3bb2776.jpg)
 
 토체티에 사용하던 반투명 팜레스트는 그대로 잘 사용하고 있어요!
-![KakaoTalk_20230507_223103736_02](https://user-images.githubusercontent.com/79370538/236681609-8b81eadd-7ce4-4786-bc18-ced50d1d2290.jpg)
+![엠스톤그루브 T87A 모습_02](https://user-images.githubusercontent.com/79370538/236681609-8b81eadd-7ce4-4786-bc18-ced50d1d2290.jpg)
 
 ## 1달 사용 후기
 결론: 완/전/추/천 `제발사세요제발사세요`초대대대만족, 너어어어어어무 이쁘다, 세상에 이런 키보드가? 진작 살걸
