@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[교육학] "위기의 청소년" 1장 성찰보고서'
+title: '[교육학] 위기의 청소년 1장 성찰보고서'
 subheading: 타원곡선의 덧셈정리와 ECC에서의 연선 과정을 중심으로
 author: Daeun
 categories: Report

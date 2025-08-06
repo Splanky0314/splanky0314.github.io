@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[교육학] "위기의 청소년" 3장 성찰보고서'
+title: '[교육학] 위기의 청소년 3장 성찰보고서'
 subheading: 
 author: Daeun
 categories: Report
