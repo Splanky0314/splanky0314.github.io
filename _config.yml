@@ -228,8 +228,7 @@ night_mode: "on"
 #   issue_term: "title"
 #   label: "utterances comment"
 #   theme: "github-light"
-#   follow_site_theme: true
-
+#   follow_site_theme: trues
 # Build settings
 # highlighter: none
 markdown: kramdown
