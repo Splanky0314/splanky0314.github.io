@@ -1,95 +1,563 @@
 @import url('https://fonts.googleapis.com/css2?family=Grenze+Gotisch:wght@900&display=swap');
 
 :root {
-    --accent-color1:  #f0f4f5;
+    --primary-color: #f0f4f5;
+    --accent-color: #64b5f6;
+    --accent-hover: #42a5f5;
+    --background-dark: #151f21;
+    --background-card: rgba(255, 255, 255, 0.05);
+    --border-color: rgba(240, 244, 245, 0.1);
+    --shadow-color: rgba(0, 0, 0, 0.3);
+    --transition-speed: 0.3s;
 
-    --font-size: 2rem;
-    --subject-font-size: 3rem;
-    --bar-elements-font-size: 2.4rem;
+    --font-size: 0.9rem;
+    --subject-font-size: 1.6rem;
+    --bar-elements-font-size: 1.3rem;
 }
 
 * {
-    /* background-color: var(--background-color);
-    font-size: var(--font-size);*/
-    color: #f0f4f5; 
+    color: var(--primary-color);
     text-decoration: none;
     margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
 }
 
 body {
-    /* background-image: url('img/background_img/background4.png');*/
     background-repeat: no-repeat;
     background-size: 100%;
-    background-color: #151f21;
+    background-color: var(--background-dark);
+    font-family: 'Noto Sans KR', sans-serif;
+    line-height: 1.6;
+    min-height: 100vh;
 }
 
-a:visited {text-decoration: none;}
+a:visited {
+    text-decoration: none;
+}
 
 /* Header */
 header {
     text-align: center;
+    padding: 0rem 0rem 0rem;
+    background: linear-gradient(135deg, rgba(100, 181, 246, 0.15), rgba(66, 165, 245, 0.08)),
+                url('./img/background_img/background2.jpg') no-repeat center center;
+    background-size: cover;
+    background-position: center;
+    max-height: 40vh;
+    min-height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* border-bottom: 2px solid var(--border-color); */
+}
+
+.header-content {
+    max-width: 800px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+}
+
+.main-title {
     font-family: 'Grenze Gotisch', cursive;
-    font-size: 7rem;
-    margin-bottom: 2rem;
+    font-size: 4rem;
+    color: var(--primary-color);
+    margin: 0;
+    text-shadow: 2px 2px 6px var(--shadow-color);
+    letter-spacing: 3px;
+    line-height: 1.2;
+}
+
+.subtitle {
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 1.5rem;
+    color: var(--accent-color);
+    margin: 0;
+    font-weight: 300;
+    letter-spacing: 6px;
+    text-transform: uppercase;
+    padding-top: 0.5rem;
+}
+
+@media all and (max-width: 768px) {
+    header {
+        padding: 0;
+        min-height: 150px;
+    }
+
+    .main-title {
+        font-size: 2.5rem;
+        letter-spacing: 2px;
+    }
+
+    .subtitle {
+        font-size: 1.1rem;
+        letter-spacing: 4px;
+    }
+
+    .profile-image {
+        width: 140px;
+        height: 140px;
+    }
 }
 
 /* Nav */
-@media all and (max-width: 580px) {
+nav {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0.8rem 0;
+    background: linear-gradient(to bottom, transparent, rgba(0, 0, 0, 0.4));
+    z-index: 100;
+    backdrop-filter: blur(10px);
+}
+
+@media all and (max-width: 768px) {
     nav {
         display: none;
     }
 }
 
-nav {
-    text-align: center;
-}
-
 .nav-element {
     font-family: 'Grenze Gotisch', cursive;
-    font-size: 3rem;
+    font-size: 1.6rem;
     text-align: center;
-    margin: 0 1rem 0 1rem;
+    padding: 0.8rem 1.5rem;
+    border-radius: 10px;
+    transition: all var(--transition-speed) ease;
+    position: relative;
+}
+
+.nav-element:hover {
+    background-color: var(--background-card);
+    color: var(--accent-color);
+    transform: translateY(-2px);
+}
+
+.nav-element::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    width: 0;
+    height: 2px;
+    background-color: var(--accent-color);
+    transition: all var(--transition-speed) ease;
+    transform: translateX(-50%);
+}
+
+.nav-element:hover::after {
+    width: 80%;
 }
 
 /* Contents */
 #contents {
-    margin-left: 2rem;
-    margin-right: 2rem;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 1.5rem;
+}
+
+/* Category Sections */
+.category {
+    margin: 2rem 0;
+    padding: 1.2rem;
+    background: var(--background-card);
+    border-radius: 14px;
+    border: 1px solid var(--border-color);
+    box-shadow: 0 4px 6px var(--shadow-color);
+    backdrop-filter: blur(10px);
+}
+
+.category:first-child {
+    margin-top: 1.5rem;
+}
+
+.category-header {
+    margin-bottom: 1.2rem;
+    padding-bottom: 0.8rem;
+    border-bottom: 2px solid var(--border-color);
 }
 
 .subject {
     font-family: 'Grenze Gotisch', cursive;
-    font-size: 2.4rem;
+    font-size: var(--subject-font-size);
     text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.4rem;
+    color: var(--primary-color);
+    text-shadow: 2px 2px 4px var(--shadow-color);
+}
+
+.subject-icon {
+    font-size: calc(var(--subject-font-size) * 0.7);
+    filter: drop-shadow(2px 2px 4px var(--shadow-color));
 }
 
 .detail {
     text-align: center;
-    line-height: 1.4rem;
+    line-height: 1.5;
 }
 
-/* 아니면 그냥 요렇게 한번에 정하기 */
-.category {
-    margin: 9rem 0 0 0
-} 
-
-
-
-.sns {
-    padding: 1rem 0 1rem 0;
+/* About Me Section */
+.intro-card {
+    background: rgba(255, 255, 255, 0.03);
+    padding: 1.5rem;
+    border-radius: 12px;
+    border: 1px solid var(--border-color);
+    max-width: 700px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1.2rem;
 }
-.sns_link {
-    padding: 0 0.2rem 0 0.2rem;
+
+.profile-image {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid var(--accent-color);
+    box-shadow: 0 4px 12px var(--shadow-color);
 }
 
-.daeunworld {
-    text-align: center;
-    padding: 0 1rem 0 1rem;
-    background-color: gray;
+.intro-card p {
+    margin: 0.5rem 0;
+    line-height: 1.5;
+}
+
+.intro-highlight {
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: var(--accent-color);
+    margin-bottom: 1rem;
+}
+
+/* Career Timeline */
+.career-timeline {
+    max-width: 600px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem;
+}
+
+.career-item {
+    display: grid;
+    grid-template-columns: 100px 1fr;
+    gap: 1rem;
+    padding: 1.2rem;
+    background: rgba(255, 255, 255, 0.03);
     border-radius: 10px;
+    border-left: 3px solid var(--accent-color);
+    transition: all var(--transition-speed) ease;
+    align-items: center;
 }
 
-footer {
-    margin: 0 2rem 3rem 2rem;
+.career-item:hover {
+    background: rgba(255, 255, 255, 0.08);
+    transform: translateX(5px);
+    box-shadow: 0 2px 8px var(--shadow-color);
+}
+
+.career-period {
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: var(--accent-color);
     text-align: center;
+    padding: 0.6rem;
+    background: rgba(100, 181, 246, 0.1);
+    border-radius: 6px;
+    border: 1px solid rgba(100, 181, 246, 0.3);
+    white-space: nowrap;
+}
+
+.career-content {
+    display: flex;
+    align-items: center;
+    gap: 0.8rem;
+}
+
+.career-dot {
+    width: 10px;
+    height: 10px;
+    background-color: var(--accent-color);
+    border-radius: 50%;
+    flex-shrink: 0;
+    box-shadow: 0 0 6px var(--accent-color);
+}
+
+.career-text {
+    font-size: 0.9rem;
+    text-align: left;
+    line-height: 1.4;
+}
+
+/* Projects Grid */
+.projects-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1.2rem;
+    padding: 1rem 0;
+}
+
+.project-card {
+    background: rgba(255, 255, 255, 0.05);
+    padding: 1.2rem;
+    border-radius: 10px;
+    border: 1px solid var(--border-color);
+    display: flex;
+    flex-direction: column;
+    gap: 0.8rem;
+    transition: all var(--transition-speed) ease;
+    cursor: default;
+}
+
+.project-card:hover {
+    background: rgba(255, 255, 255, 0.1);
+    transform: translateY(-5px);
+    box-shadow: 0 8px 16px var(--shadow-color);
+    border-color: var(--accent-color);
+    cursor: pointer;
+}
+
+.project-header {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    border-bottom: 1px solid var(--border-color);
+    padding-bottom: 0.6rem;
+}
+
+.project-icon {
+    font-size: 1.8rem;
+    filter: drop-shadow(2px 2px 4px var(--shadow-color));
+    flex-shrink: 0;
+}
+
+.project-title {
+    font-size: 0.95rem;
+    font-weight: 600;
+    text-align: left;
+    line-height: 1.3;
+}
+
+.project-details {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.project-period {
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: var(--accent-color);
+    background: rgba(100, 181, 246, 0.1);
+    padding: 0.3rem 0.6rem;
+    border-radius: 4px;
+    text-align: left;
+    align-self: flex-start;
+    border: 1px solid rgba(100, 181, 246, 0.2);
+}
+
+.project-description {
+    font-size: 0.85rem;
+    color: var(--primary-color);
+    opacity: 0.9;
+    line-height: 1.4;
+    text-align: left;
+}
+
+.project-domain {
+    font-size: 0.8rem;
+    color: rgba(240, 244, 245, 0.7);
+    font-style: italic;
+    text-align: left;
+}
+
+.loading {
+    grid-column: 1 / -1;
+    text-align: center;
+    padding: 2rem;
+    color: var(--primary-color);
+    font-style: italic;
+    opacity: 0.7;
+}
+
+.error {
+    grid-column: 1 / -1;
+    text-align: center;
+    padding: 2rem;
+    color: #ff6b6b;
+    background: rgba(255, 107, 107, 0.1);
+    border-radius: 8px;
+    border: 1px solid rgba(255, 107, 107, 0.3);
+}
+
+/* Contact Info */
+.contact-info {
+    display: flex;
+    flex-direction: column;
+    gap: 0.8rem;
+    max-width: 500px;
+    margin: 0 auto 2rem;
+}
+
+.contact-item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.6rem;
+    padding: 0.6rem;
+    background: rgba(255, 255, 255, 0.03);
+    border-radius: 6px;
+    transition: all var(--transition-speed) ease;
+}
+
+.contact-item:hover {
+    background: rgba(255, 255, 255, 0.08);
+}
+
+.contact-label {
+    font-size: 1rem;
+}
+
+.contact-value {
+    font-size: 0.85rem;
+    color: var(--primary-color);
+}
+
+/* Blog Link */
+.daeunworld {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    padding: 0.7rem 1.2rem;
+    background: linear-gradient(135deg, var(--accent-color), var(--accent-hover));
+    color: white;
+    border-radius: 10px;
+    font-size: 0.95rem;
+    font-weight: 600;
+    margin: 1.5rem 0;
+    transition: all var(--transition-speed) ease;
+    box-shadow: 0 4px 15px rgba(100, 181, 246, 0.4);
+}
+
+.daeunworld:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 20px rgba(100, 181, 246, 0.6);
+    filter: brightness(1.1);
+}
+
+.blog-icon {
+    font-size: 1rem;
+}
+
+/* SNS */
+.sns {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1.2rem;
+    padding: 1.2rem 0 1rem 0;
+}
+
+.sns_link {
+    padding: 0.4rem;
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 0.05);
+    transition: all var(--transition-speed) ease;
+    border: 1px solid transparent;
+}
+
+.sns_link:hover {
+    background: rgba(255, 255, 255, 0.15);
+    border-color: var(--accent-color);
+    transform: scale(1.1);
+    box-shadow: 0 4px 12px var(--shadow-color);
+}
+
+.sns_link img {
+    width: 2rem;
+    height: 2rem;
+    object-fit: contain;
+}
+
+/* Footer */
+footer {
+    margin: 4rem 2rem 2rem;
+    text-align: center;
+    padding: 2rem;
+    background: rgba(255, 255, 255, 0.03);
+    border-top: 1px solid var(--border-color);
+    border-radius: 8px 8px 0 0;
+}
+
+footer p {
+    color: rgba(240, 244, 245, 0.7);
+    font-size: 0.9rem;
+}
+
+/* Responsive */
+@media all and (max-width: 480px) {
+    header {
+        min-height: 120px;
+    }
+
+    .main-title {
+        font-size: 1.8rem;
+        letter-spacing: 1px;
+    }
+
+    .subject {
+        font-size: 1.5rem;
+    }
+
+    .profile-image {
+        width: 120px;
+        height: 120px;
+    }
+
+    .category {
+        padding: 1.2rem 0.8rem;
+        margin: 2rem 0;
+    }
+
+    .projects-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .career-item {
+        grid-template-columns: 1fr;
+        gap: 0.8rem;
+    }
+
+    .career-period {
+        text-align: center;
+        width: 100%;
+    }
+
+    .career-content {
+        justify-content: center;
+    }
+
+    .career-text {
+        text-align: center;
+    }
+
+    .daeunworld {
+        font-size: 1rem;
+        padding: 0.8rem 1.5rem;
+    }
 }

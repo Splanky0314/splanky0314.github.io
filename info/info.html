@@ -1,83 +1,174 @@
 <!DOCTYPE html>
+<html lang="ko">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Daeun World Info</title>
     <link rel="stylesheet" href="info.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Grenze+Gotisch:wght@900&family=Noto+Sans+KR:wght@300;400;500;700&display=swap" rel="stylesheet">
 </head>
 <body>
     <header>
-        <a href="#"><img style="width:100%;" src="./img/background_img/background4.png" alt="Background"></a>
+        <div class="header-content">
+            <h1 class="main-title">Welcome to Daeun World!</h1>
+        </div>
     </header>
 
     <nav>
         <a href="#aboutme" class="nav-element">About Me</a>
         <a href="#career" class="nav-element">Career</a>
-        <a href="#activity" class="nav-element">Activity</a>
-        <a href="#snscontact" class="nav-element">SNS&Contact</a>
         <a href="#projects" class="nav-element">Projects</a>
+        <a href="#snscontact" class="nav-element">SNS&Contact</a>
     </nav>
-    
+
     <div id="contents">
         <section>
             <section id="aboutme" class="category">
-                <h1 class="subject">
-                    About Me
-                </h1>
+                <div class="category-header">
+                    <h1 class="subject">
+                        <span class="subject-icon">👋</span>
+                        About Me
+                    </h1>
+                </div>
                 <div class="detail">
-                    splanky0314, 김다은입니다.<br>
-                    Bioinformatics와 Programing에 많은 관심을 가지고 있습니다.<br>
-                    선생님, 선배, 친구들의 조언을 받으며 열심히 개발을 배워나가고 있습니다.
+                    <div class="intro-card">
+                        <img class="profile-image" src="./img/profile2_round.png" alt="Profile">
+                        <p class="intro-highlight">splanky0314, 김다은입니다.</p>
+                        <p>소통을 통해 정답 너머의 가치를 찾고, 매일의 기록을 통해 어제보다 더 넓은 세계를 꿈꿉니다.</p>
+                    </div>
                 </div>
             </section>
-            <section id = "career" class="category">
-                <h1 class="subject">Career</h1>
+
+            <section id="career" class="category">
+                <div class="category-header">
+                    <h1 class="subject">
+                        <span class="subject-icon">📚</span>
+                        Career
+                    </h1>
+                </div>
                 <div class="detail">
-                    <p>하남 신평초등학교 졸업</p>
-                    <p>하남 신평중학교 졸업</p>
-                    <p>한민고등학교 7기 졸업</p>
-                    <p>한민고 Hanalum 온라인사업부 개발팀</p>
-                    <p>한민고 컴퓨터 동아리 CPS 부기장</p>
-                    <p>한민고 코딩 소모임 코벤져스 대표</p>
-                    <p>서강대학교 컴퓨터공학과</p>
+                    <div class="career-timeline">
+                        <div class="career-item">
+                            <div class="career-period">2020 ~ 2022</div>
+                            <div class="career-content">
+                                <span class="career-dot"></span>
+                                <span class="career-text">한민고등학교 7기 졸업 (정보분과)</span>
+                            </div>
+                        </div>
+                        <div class="career-item">
+                            <div class="career-period">2023 ~ 현재</div>
+                            <div class="career-content">
+                                <span class="career-dot"></span>
+                                <span class="career-text">서강대학교 컴퓨터공학과 23학번</span>
+                            </div>
+                        </div>
+                        <div class="career-item">
+                            <div class="career-period">2025</div>
+                            <div class="career-content">
+                                <span class="career-dot"></span>
+                                <span class="career-text">한미첨단분야 장학생 3기 (산업통상지원부, 한국산업기술진흥원)</span>
+                            </div>
+                        </div>
+                        <div class="career-item">
+                            <div class="career-period">2025</div>
+                            <div class="career-content">
+                                <span class="career-dot"></span>
+                                <span class="career-text">미국 University at Buffalo 교환학생</span>
+                            </div>
+                        </div>
+                        <div class="career-item">
+                            <div class="career-period">2026</div>
+                            <div class="career-content">
+                                <span class="career-dot"></span>
+                                <span class="career-text">AISW 마에스트로 17기 (과학기술정보통신부, 정보산업연합회)</span>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </section>
-            <!-- <section id="activity" class="category">
-                <h1 class="subject">Activity</h1>
-                <div class="detail">
-                    <p>파이썬</p>
-                    <p>C</p>
-                    <p>C++</p>
-                </div>
-            </section> -->
 
             <section id="projects" class="category">
-                <h1 class="subject">Projects</h1>
+                <div class="category-header">
+                    <h1 class="subject">
+                        <span class="subject-icon">🚀</span>
+                        Projects
+                    </h1>
+                </div>
                 <div class="detail">
-                    <p>웹블로그 Daeun World</p>
-                    <p>한민인을 위한 챗봇 HanDaGo</p>
-                    <p>Hanalum Web</p>
-                    <p>한민고 공식 기상송 신청 웹사이트 Spreky</p>
-                    <p>나만의 웹사이트 만들기 재능기부 강좌</p>
+                    <div class="projects-grid">
+                        <div class="project-card" onclick="window.open('https://github.com/solved-earth/Solved.Earth', '_blank')">
+                            <div class="project-header">
+                                <span class="project-icon">🌿</span>
+                                <span class="project-title">Solved.Earth</span>
+                            </div>
+                            <div class="project-details">
+                                <div class="project-period">2023</div>
+                                <div class="project-description">사용자가 일상 속 친환경 행동을 실천한 뒤 사진을 업로드하면, AI가 이미지를 분석해 실천 여부를 판단하고 보상을 제공하는 게임형 환경 보호 실천 앱입니다.</div>
+                                <div class="project-domain">공개SW개발자대회 출품작</div>
+                            </div>
+                        </div>
+                        <div class="project-card" onclick="window.open('https://github.com/Polapo-Invest/Polapo-Invest-PBP', '_blank')">
+                            <div class="project-header">
+                                <span class="project-icon">📈</span>
+                                <span class="project-title">Portfolio Backtesting Platform</span>
+                            </div>
+                            <div class="project-details">
+                                <div class="project-period">2024</div>
+                                <div class="project-description">일반 투자자가 감정이 아니라 데이터에 기반해 자신의 포트폴리오를 이해하고 투자 판단을 내릴 수 있도록 돕는 웹서비스</div>
+                                <div class="project-domain">Upstage Global AI Week Hackathon Top 30 수상</div>
+                            </div>
+                        </div>
+                        <div class="project-card" onclick="window.open('https://github.com/KKapStone/Green-IDC-Optimizer', '_blank')">
+                            <div class="project-header">
+                                <span class="project-icon">💡</span>
+                                <span class="project-title">데이터센터 지능형 냉각/전력 최적화 시스템</span>
+                            </div>
+                            <div class="project-details">
+                                <div class="project-period">2026</div>
+                                <div class="project-description">IT 부하 예측, 강화학습 기반 냉각 제어, PUE 최적화를 통해 데이터센터 에너지 효율을 개선하는 시스템</div>
+                                <div class="project-domain">서강대 캡스톤디자인</div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </section>
 
             <section id="snscontact" class="category">
-                <h1 class="subject">
-                    SNS & Contact
-                </h1>
-        
+                <div class="category-header">
+                    <h1 class="subject">
+                        <span class="subject-icon">📬</span>
+                        SNS & Contact
+                    </h1>
+                </div>
                 <div class="detail">
-                    <p>splanky0314@gmail.com</p>
-                    <p>20-11206@hanmin.hs.kr</p>
-                    <p>
-                        <a class="daeunworld" href="https://splanky0314.github.io/" target="_blank">Go to Daeun World</a>
-                    </p>
-                    
+                    <div class="contact-info">
+                        <div class="contact-item">
+                            <span class="contact-label">📧</span>
+                            <span class="contact-value">splanky0314@gmail.com</span>
+                        </div>
+                        <!-- <div class="contact-item">
+                            <span class="contact-label">🏫</span>
+                            <span class="contact-value">20-11206@hanmin.hs.kr</span>
+                        </div> -->
+                    </div>
+
+                    <a class="daeunworld" href="https://splanky0314.github.io/" target="_blank">
+                        <span class="blog-icon">🌍</span>
+                        <span>Go to Daeun World</span>
+                    </a>
+
                     <div class="sns">
-                        <a class="sns_link" href="https://www.facebook.com/profile.php?id=100021599119849" target="_blank"><img style="width:3rem;" src="./img/SNS/facebook.png" alt="Facebook"></a>
-                        <a class="sns_link" href="" target="_blank"><img style="width:3rem;" src="./img/SNS/github2.png" alt="Github"></a>
-                        <a class="sns_link" href="https://www.instagram.com/hero_daeun/" target="_blank"><img style="width:3rem;" src="./img/SNS/instagram.png" alt="Instagram"></a>
+                        <!-- <a class="sns_link" href="https://www.facebook.com/profile.php?id=100021599119849" target="_blank">
+                            <img style="width:3rem;" src="./img/SNS/facebook.png" alt="Facebook">
+                        </a> -->
+                        <a class="sns_link" href="" target="_blank">
+                            <img style="width:3rem;" src="./img/SNS/github2.png" alt="Github">
+                        </a>
+                        <a class="sns_link" href="https://www.instagram.com/_da._xxn/" target="_blank">
+                            <img style="width:3rem;" src="./img/SNS/instagram.png" alt="Instagram">
+                        </a>
                     </div>
                 </div>
             </section>
@@ -89,5 +180,43 @@
         Copyright © 2021 DaeunKim
         </p>
     </footer>
-</body> 
+
+    <script>
+        // Smooth scrolling for navigation links
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                const target = document.querySelector(this.getAttribute('href'));
+                if (target) {
+                    target.scrollIntoView({
+                        behavior: 'smooth',
+                        block: 'start'
+                    });
+                }
+            });
+        });
+
+        // Add scroll animation for sections
+        const observerOptions = {
+            threshold: 0.1,
+            rootMargin: '0px 0px -50px 0px'
+        };
+
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.style.opacity = '1';
+                    entry.target.style.transform = 'translateY(0)';
+                }
+            });
+        }, observerOptions);
+
+        document.querySelectorAll('.category').forEach(category => {
+            category.style.opacity = '0';
+            category.style.transform = 'translateY(30px)';
+            category.style.transition = 'opacity 0.6s ease, transform 0.6s ease';
+            observer.observe(category);
+        });
+    </script>
+</body>
 </html>
