@@ -1,3 +1,6 @@
+@use "sass:color";
+@use "sass:math";
+
 /*
  * Post menu
  */
@@ -16,7 +19,7 @@
   .post-menu-content {
     ul {
       border-left: 1px solid #e9ecef;
-      $indent: $base-font-size / 4;
+      $indent: math.div($base-font-size, 4);
       $active-bgcolor: #ecebec;
 
       @for $i from 2 to 7 {
@@ -30,7 +33,7 @@
       a {
         display: flex;
         padding: 2px 8px;
-        color: darken($text-color, 10%);
+        color: color.adjust($text-color, $lightness: -10%);
 
         * {
           pointer-events: none;
@@ -38,7 +41,7 @@
 
         &:hover {
           text-decoration: none;
-          color: lighten($text-color, 30%)!important;
+          color: color.adjust($text-color, $lightness: 30%)!important;
         }
       }
 
@@ -49,7 +52,7 @@
         margin-left: -2px;
 
         &:hover {
-          background-color: lighten($active-bgcolor, 2%);
+          background-color: color.adjust($active-bgcolor, $lightness: 2%);
         }
 
         a {
