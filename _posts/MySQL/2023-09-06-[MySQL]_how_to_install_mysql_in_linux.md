@@ -24,7 +24,7 @@ sudo systemctl enable mysql
 
 외부에서 db에 접속할 수 있게 하려면 몇 가지 설정이 더 필요합니다. 아래 게시물을 확인해주세요!
 
-[[당신을 위한 MySQL] mysql db 외부 접속 허용 방법](https://daeunworld.kr/mysql/2023/09/03/how_to_allow_outside_host.html)
+[[당신을 위한 MySQL] mysql db 외부 접속 허용 방법](https://daeunworld.xyz/mysql/2023/09/03/how_to_allow_outside_host.html)
 
 ### db 접속
 

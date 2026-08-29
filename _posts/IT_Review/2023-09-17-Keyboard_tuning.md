@@ -54,7 +54,7 @@ tags: Mstone Groove 엠스톤 그루브 기계식키보드 윤활 오링 저소�
 
 요 두 친구로 윤활 할 겁니다. 스프레이 윤활제에 보면 주사기가 달려있는데, 기본 제공되는 관?이 너무 넓어서 확실한 윤활을 위해서 달아 두었습니다. 저번에 윤활 방법을 포스팅 했기 때문에 자세한 내용은 생략합니다! 자세한 내용은 아래 글에 있습니다.
 
-[토체티(적축) 간이 윤활 후기](https://daeunworld.kr/it_review/2022/12/11/%ED%82%A4%EB%B3%B4%EB%93%9C_%EC%8A%A4%ED%94%84%EB%A0%88%EC%9D%B4_%EC%9C%A4%ED%99%9C_%ED%9B%84%EA%B8%B0%28%ED%86%A0%EC%B2%B4%ED%8B%B0_%EC%A0%81%EC%B6%95%29.html)
+[토체티(적축) 간이 윤활 후기](https://daeunworld.xyz/it_review/2022/12/11/%ED%82%A4%EB%B3%B4%EB%93%9C_%EC%8A%A4%ED%94%84%EB%A0%88%EC%9D%B4_%EC%9C%A4%ED%99%9C_%ED%9B%84%EA%B8%B0%28%ED%86%A0%EC%B2%B4%ED%8B%B0_%EC%A0%81%EC%B6%95%29.html)
 
 ![Keyboard_Tuning](https://cdn.jsdelivr.net/gh/splanky0314/CDN/IT_Review/2023-09-17-Keyboard_tuning/%20%282%29.jpg)
 

@@ -25,7 +25,7 @@ git push
 
 이미 전 포스팅에서 설명했으니 링크를 달아 두겠습니다.
 
-[셸 스크립트란? (.sh, Shell Script)](https://daeunworld.kr/linux/2023/07/22/Sheel_Script.html)
+[셸 스크립트란? (.sh, Shell Script)](https://daeunworld.xyz/linux/2023/07/22/Sheel_Script.html)
 
 ### github Token 발급
 
