@@ -5,6 +5,5 @@ _site
 Gemfile.lock
 
 # Appended by DE
-push.sh
 push.log
 .DS_Store
