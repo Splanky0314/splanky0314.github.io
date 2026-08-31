@@ -4,6 +4,7 @@ title: "[버디버드] 앵무새 발화 판정 파이프라인 연구 브리프"
 subheading: "서강대학교 IIPLAB 미팅용 연구 소개 자료"
 author: Daeun
 categories: AISW_Maestro
+date: 2026-08-31 00:00:00 +0900
 banner: https://cdn.jsdelivr.net/gh/splanky0314/CDN/AISW_Maestro/AISW_Maestro_background.png
 tags: AISW마에스트로 17기 2026년 서울센터 버디버드 다희혁 앵무새 앵무새_소리_여부_판별_모델 모사_성공_판정 IIPLAB
 ---

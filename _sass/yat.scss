@@ -1,7 +1,5 @@
 @charset "utf-8";
 
-@use "sass:color";
-
 // Define defaults for each variable.
 
 $base-font-family: Helvetica Neue, Helvetica, Arial, sans-serif, !default;
@@ -17,20 +15,20 @@ $text-color:       #1d1d1f !default;
 $background-color: #fff !default;
 
 $grey-color:       #777 !default;
-$grey-color-light: color.adjust($grey-color, $lightness: 40%) !default;
-$grey-color-dark:  color.adjust($grey-color, $lightness: -25%) !default;
+$grey-color-light: adjust-color($grey-color, $lightness: 40%) !default;
+$grey-color-dark:  adjust-color($grey-color, $lightness: -25%) !default;
 
 $white-color: #fdfdfd !default;
 
 $table-text-align: left !default;
 
 $header-height: $base-line-height * $base-font-size * 2.85 !default;
-$header-text-color: color.invert($theme-color) !default;
+$header-text-color: invert($theme-color) !default;
 $header-background-color: $theme-color !default;
 
 $footer-height: $header-height * 1.05 !default;
-$footer-text-color: color.adjust(color.invert($theme-color), $lightness: 25%) !default;
-$footer-background-color: color.adjust($theme-color, $lightness: -5%) !default;
+$footer-text-color: adjust-color(invert($theme-color), $lightness: 25%) !default;
+$footer-background-color: adjust-color($theme-color, $lightness: -5%) !default;
 
 $banner-height: 640px !default;
 $banner-text-color: $white-color !default;

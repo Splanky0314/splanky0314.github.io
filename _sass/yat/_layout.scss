@@ -1,6 +1,3 @@
-@use "sass:color";
-@use "sass:math";
-
 /**
  * Animation for transparent header
  */
@@ -110,7 +107,7 @@ html {
 
     .site-favicon {
       display: inline-block;
-      height: math.div($header-height, 1.5);
+      height: $header-height * 0.6666666667;
       margin-right: 5px;
     }
   }
@@ -208,7 +205,7 @@ html {
     color: $a-color;
 
     &:hover {
-      color: color.adjust($a-color, $lightness: 10%);
+      color: adjust-color($a-color, $lightness: 10%);
     }
   }
 }
@@ -478,7 +475,7 @@ html {
       color: $grey-color;
 
       &:hover {
-        color: color.adjust($grey-color, $lightness: -50%);
+        color: adjust-color($grey-color, $lightness: -50%);
       }
 
       &:after {
@@ -686,7 +683,7 @@ html {
   }
 
   @include media-query($on-palm) {
-    height: math.div($banner-height, 1.5);
+    height: $banner-height * 0.6666666667;
   }
 }
 
