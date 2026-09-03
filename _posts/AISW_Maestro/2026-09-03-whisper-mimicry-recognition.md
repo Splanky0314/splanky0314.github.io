@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "[버디버드] Whisper로 앵무새 단어 모사를 인식할 수 있을까"
-subheading: "소·중·대형조별 Whisper 6종 전사 성능과 환각 분석"
+title: "소/중/대형조별 Whisper의 '앵무새 단어 모사' 전사 성능 분석"
+subheading: "소·중·대형조별 Whisper 6종 전사 성능 분석"
 author: Daeun
 categories: AISW_Maestro
 date: 2026-09-03 00:00:00 +0900

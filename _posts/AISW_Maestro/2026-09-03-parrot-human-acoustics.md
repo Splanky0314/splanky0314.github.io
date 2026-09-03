@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[버디버드] 앵무새와 사람 음성의 음향학적 특징 비교"
+title: "소/중/대형조 앵무새와 사람 음성의 음향학적 특징 비교"
 subheading: "소·중·대형조별 F0·포먼트·스펙트럼 분석"
 author: Daeun
 categories: AISW_Maestro
