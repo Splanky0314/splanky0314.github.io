@@ -320,26 +320,43 @@ html {
   }
 
   .post-excerpt {
-    color: $grey-color;
+    color: #555;  // DE 수정 (#777 -> #555, 위계 강화)
     word-break: break-word;
     overflow-wrap: break-word;
   }
 
-  .post-tags .post-tag {
-    display: inline-block;
-    text-decoration: none;
-    border: 1px solid;
-    padding: 2px 4px;
-    border-radius: 2px;
-    transition: color 0.2s;
-    margin-bottom: 8px;
+  .post-tags {
+    margin-top: 16px;
 
-    &:not(:last-child) {
-      margin-right: 8px;
+    .post-tag {
+      display: inline-block;
+      font-size: 13px;                  // DE 수정 (18px 상속 -> 13px pill)
+      line-height: 1.5;
+      letter-spacing: -0.01em;
+      text-decoration: none;
+      color: $brand-color;
+      background-color: #f1f1f3;         // DE 수정 (오렌지 테두리 박스 -> 연회색 pill)
+      padding: 3px 11px;
+      border-radius: 13px;
+      transition: background-color 0.2s, color 0.2s;
+      margin-bottom: 8px;
+
+      &:not(:last-child) {
+        margin-right: 6px;
+      }
+
+      &:hover {
+        color: #fff;
+        background-color: $brand-color;
+      }
     }
 
-    &:hover {
-      color: #787878;
+    .post-tag-more {
+      display: inline-block;
+      font-size: 13px;
+      line-height: 1.5;
+      color: $grey-color;
+      margin-bottom: 8px;
     }
   }
 

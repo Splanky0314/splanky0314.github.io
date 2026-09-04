@@ -35,9 +35,12 @@
         </p>
       </a>
       <div class="post-tags">
-        {%- for tag in post.tags -%}
+        {%- for tag in post.tags limit:5 -%}
         <a class="post-tag" href="{{ '/tags.html ' | relative_url }}#{{tag}}">#{{tag}}</a>
         {%- endfor -%}
+        {%- if post.tags.size > 5 -%}
+        <span class="post-tag-more">+{{ post.tags.size | minus: 5 }}</span>
+        {%- endif -%}
       </div>
     </li>
     {%- endfor -%}

@@ -127,8 +127,13 @@ html[data-theme="dark"]  {
       }
     }
 
-    .post-tags .post-tag:hover {
-      color: #d7d7d7;
+    .post-tags .post-tag {
+      background-color: #262626;
+
+      &:hover {
+        color: #fff;
+        background-color: $brand-color;
+      }
     }
   }
 
