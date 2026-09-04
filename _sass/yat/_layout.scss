@@ -740,7 +740,9 @@ html {
 
   .segment-name {
     font-weight: $base-font-weight * 1.5;
-    margin-bottom: 8px;
+    margin-bottom: 12px;              // DE 수정 (구분선 여백)
+    padding-bottom: 8px;              // DE 수정
+    border-bottom: 1px solid #e3e3e3; // DE 수정 (섹션 구분선)
     position: relative;
 
     @include relative-font-size(1.6);
@@ -757,13 +759,15 @@ html {
   }
 
   .post-meta {
-    font-size: $small-font-size+10px;
+    font-size: 13px;                  // DE 수정 (22px -> 13px, 위계 정상화)
     color: $grey-color;
+    margin-right: 12px;               // DE 수정 (제목과 간격)
   }
 
   li a {
     &.post-link {
       margin-left: 5px;
+      font-weight: 500;               // DE 수정 (제목 강조)
     }
 
     color: #303030;

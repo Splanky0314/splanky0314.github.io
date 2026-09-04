@@ -138,6 +138,10 @@ html[data-theme="dark"]  {
   }
 
   .page-segments {
+    .segment-name {
+      border-bottom-color: #3a3a3a;
+    }
+
     li {
       a {
         color: #ddd;
