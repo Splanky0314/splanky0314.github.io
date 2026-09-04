@@ -19,8 +19,11 @@ body {
   font-size: #{$base-font-size+4px}; // DE 수정
   font-display: swap;
   line-height: #{$base-line-height};
+  letter-spacing: -0.02em; // DE 수정 (한글 자간 정돈)
   color: $text-color;
   background-color: $background-color;
+  -webkit-font-smoothing: antialiased; // DE 수정 (한글 렌더링 정돈)
+  -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
      -moz-font-feature-settings: "kern" 1;
@@ -87,9 +90,12 @@ ul, ol {
 }
 
 li {
+  margin-bottom: 8px; // DE 수정 (리스트 항목 간격 확보)
+
   > ul,
   > ol {
     margin-bottom: 0;
+    margin-top: 8px;
   }
 }
 
@@ -126,15 +132,22 @@ a {
  * Blockquotes
  */
 blockquote {
-  color: $grey-color;
-  border-left: 4px solid $grey-color-light;
-  padding-left: $spacing-unit * 0.5;
-  @include relative-font-size(1.125);
-  letter-spacing: -1px;
-  font-style: italic;
+  color: $text-color;                       // DE 수정 (회색 -> 본문색)
+  border-left: 4px solid $brand-color;       // DE 수정 (옅은 회색 -> 브랜드색)
+  border-top-right-radius: 4px;
+  border-bottom-right-radius: 4px;
+  background-color: #f7f7f8;                  // DE 수정 (배경 채움 추가)
+  margin: 32px 0;
+  padding: 16px 16px 16px $spacing-unit;      // DE 수정 (좌측 여백 확보)
+  @include relative-font-size(1.05);          // DE 수정 (1.125 -> 1.05)
+  // font-style: italic 및 letter-spacing: -1px 제거 (한글 가독성)
 
   > :last-child {
     margin-bottom: 0;
+  }
+
+  > :first-child {
+    margin-top: 0;
   }
 }
 
