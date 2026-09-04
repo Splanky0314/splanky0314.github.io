@@ -1,9 +1,74 @@
 /**
+ * Sidebar profile
+ */
+.sidebar-profile {
+  text-align: center;
+  padding: 0 12px 20px;
+  margin-bottom: 20px;
+  border-bottom: solid 1px #00000018;
+
+  .sidebar-profile-avatar {
+    width: 120px;
+    height: 120px;
+    max-width: 100%;
+    object-fit: cover;
+    border-radius: 20px;
+    box-shadow: 0 2px 10px #0000001a;
+  }
+
+  .sidebar-profile-name {
+    margin: 14px 0 4px;
+    font-size: 1.25rem;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+  }
+
+  .sidebar-profile-email {
+    margin: 0 0 12px;
+    font-size: 0.85rem;
+    color: $grey-color;
+    letter-spacing: -0.01em;
+  }
+
+  .sidebar-profile-link {
+    display: inline-block;
+    font-size: 0.85rem;
+    color: $grey-color;
+    text-decoration: none;
+    transition: color 0.2s;
+
+    &:hover {
+      color: $brand-color;
+      text-decoration: underline;
+    }
+  }
+}
+
+/**
  * Common list
  */
 .common-list {
   @include relative-font-size(1.0);
   min-width: 200px;
+  max-height: calc(100vh - 320px);  // DE 수정 (뷰포트 넘으면 자체 스크롤)
+  overflow-y: auto;
+
+  // DE 수정 (흰 스크롤바 트랙 제거, thumb만 은은하게)
+  scrollbar-width: thin;
+  scrollbar-color: #0000002e transparent;
+
+  &::-webkit-scrollbar {
+    width: 6px;
+  }
+
+  &::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    background-color: #0000002e;
+    border-radius: 3px;
+  }
 
   ul {
     list-style: none;
@@ -12,6 +77,7 @@
 
   li {
     border-bottom: solid 1px #00000018;
+    margin-bottom: 0;  // DE 수정 (전역 li margin 상속 제거)
 
     &:last-child {
       border-bottom: none;
@@ -20,7 +86,8 @@
     a {
       display: flex;
       justify-content: space-between;
-      padding: 8px 12px;
+      padding: 6px 12px;  // DE 수정 (8px -> 6px, 행 높이 압축)
+      line-height: 1.4;   // DE 수정 (body 1.75 상속 대신 축소)
       text-decoration: none;
       font-weight: normal;
       color: $text-color;

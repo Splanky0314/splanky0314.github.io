@@ -188,7 +188,21 @@ html[data-theme="dark"]  {
     }
   }
 
+  .sidebar-profile {
+    border-bottom-color: #40404088;
+
+    .sidebar-profile-name {
+      color: #ededed;
+    }
+  }
+
   .common-list {
+    scrollbar-color: #ffffff30 transparent;
+
+    &::-webkit-scrollbar-thumb {
+      background-color: #ffffff30;
+    }
+
     li {
       border-bottom: solid 1px #40404088;
 
