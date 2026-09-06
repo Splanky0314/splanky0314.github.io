@@ -795,6 +795,89 @@ html {
   }
 }
 
+/**
+ * Tag cloud page
+ */
+.tag-cloud-page {
+  .tag-cloud-heading {
+    @include relative-font-size(2.2);
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    margin-bottom: 24px;
+
+    .tag-cloud-total {
+      font-size: 0.5em;
+      font-weight: 500;
+      color: $grey-color;
+      margin-left: 10px;
+      vertical-align: middle;
+    }
+  }
+
+  .tag-cloud {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 44px;
+  }
+
+  .tag-chip {
+    display: inline-flex;
+    align-items: baseline;
+    text-decoration: none;
+    color: #444;
+    background-color: #f1f1f3;
+    border-radius: 14px;
+    padding: 4px 12px;
+    line-height: 1.4;
+    letter-spacing: -0.01em;
+    transition: background-color 0.2s, color 0.2s;
+
+    .tag-chip-count {
+      font-size: 0.75em;
+      color: $grey-color;
+      margin-left: 6px;
+    }
+
+    &:hover {
+      color: #fff;
+      background-color: $brand-color;
+
+      .tag-chip-count {
+        color: #ffffffcc;
+      }
+    }
+
+    &.s1 { font-size: 14px; }
+    &.s2 { font-size: 15px; }
+    &.s3 { font-size: 17px; color: #333; }
+    &.s4 { font-size: 20px; color: #222; font-weight: 500; }
+    &.s5 { font-size: 24px; color: $brand-color; font-weight: 600; }
+  }
+
+  // :target 으로 선택한 태그 섹션만 노출
+  .tag-section {
+    display: none;
+    scroll-margin-top: 90px;
+
+    &:target {
+      display: block;
+    }
+
+    .segment-name {
+      margin-top: 0;
+    }
+  }
+
+  .tag-section-count {
+    font-size: 0.6em;
+    font-weight: 500;
+    color: $grey-color;
+    margin-left: 10px;
+    vertical-align: middle;
+  }
+}
+
 .left-vsplit:before {
   content: "";
   display: inline-block;

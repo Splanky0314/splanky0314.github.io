@@ -137,6 +137,21 @@ html[data-theme="dark"]  {
     }
   }
 
+  .tag-cloud-page {
+    .tag-chip {
+      color: #cfcfcf;
+      background-color: #262626;
+
+      &.s3 { color: #dcdcdc; }
+      &.s4 { color: #ededed; }
+
+      &:hover {
+        color: #fff;
+        background-color: $brand-color;
+      }
+    }
+  }
+
   .page-segments {
     .segment-name {
       border-bottom-color: #3a3a3a;

@@ -1,0 +1,56 @@
+{%- if include.keys -%}
+  {%- assign keys = include.keys -%}
+{%- endif -%}
+
+{%- comment -%} 포스트 수 내림차순 정렬 (정렬 키 = 99999 - 개수) {%- endcomment -%}
+{%- assign split1 = '<||>' -%}
+{%- assign split2 = '<|>' -%}
+{%- assign pairs = '' -%}
+{%- for name in keys -%}
+  {%- assign count = site.tags[name] | size -%}
+  {%- assign inv = 99999 | minus: count -%}
+  {%- assign pairs = pairs | append: split1 | append: inv | append: split2 | append: name -%}
+{%- endfor -%}
+{%- assign sorted_pairs = pairs | remove_first: split1 | split: split1 | sort -%}
+{%- assign sorted_names = '' -%}
+{%- for pair in sorted_pairs -%}
+  {%- assign parts = pair | split: split2 -%}
+  {%- assign sorted_names = sorted_names | append: split2 | append: parts[1] -%}
+{%- endfor -%}
+{%- assign sorted_names = sorted_names | remove_first: split2 | split: split2 -%}
+
+<div class="tag-cloud-page">
+  <h1 class="tag-cloud-heading">Tags<span class="tag-cloud-total">{{ keys.size }}</span></h1>
+
+  <div class="tag-cloud">
+    {%- for name in sorted_names -%}
+      {%- assign posts = site.tags[name] -%}
+      {%- assign count = posts | size -%}
+      {%- assign size_class = 's1' -%}
+      {%- if count >= 30 -%}
+        {%- assign size_class = 's5' -%}
+      {%- elsif count >= 15 -%}
+        {%- assign size_class = 's4' -%}
+      {%- elsif count >= 6 -%}
+        {%- assign size_class = 's3' -%}
+      {%- elsif count >= 2 -%}
+        {%- assign size_class = 's2' -%}
+      {%- endif -%}
+      <a class="tag-chip {{ size_class }}" href="#{{ name }}">{{ name }}<span class="tag-chip-count">{{ count }}</span></a>
+    {%- endfor -%}
+  </div>
+
+  <div class="page-segments tag-sections">
+    {%- for name in sorted_names -%}
+      {%- assign posts = site.tags[name] -%}
+      <section id="{{ name }}" class="tag-section">
+        <h2 class="segment-name">{{ name }}<span class="tag-section-count">{{ posts | size }}</span></h2>
+        <ul class="page-segments-list">
+          {%- for post in posts -%}
+            <li>{% include views/post-item.html item=post %}</li>
+          {%- endfor -%}
+        </ul>
+      </section>
+    {%- endfor -%}
+  </div>
+</div>
