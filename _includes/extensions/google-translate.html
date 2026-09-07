@@ -26,35 +26,11 @@
 </span>
 
 <script type="text/javascript">
-function googleTranslateElementInit() {
-  new google.translate.TranslateElement({
-    pageLanguage: '{{ lang }}',
-    autoDisplay: false,
-    layout: google.translate.TranslateElement.InlineLayout.VERTICAL
-  }, 'google_translate_element');
-
-  // Links to cross-origin destinations are unsafe
-  var gll = document.getElementsByClassName('goog-logo-link')[0];
-  if (gll) {
-    gll.setAttribute('rel', 'noopener');
-  }
-
-  function restoreLang() {
-    var iframe = document.getElementsByClassName('goog-te-banner-frame')[0];
-    if (!iframe) return;
-
-    var innerDoc = iframe.contentDocument || iframe.contentWindow.document;
-    var restore_el = innerDoc.getElementsByTagName("button");
-
-    for (var i = 0; i < restore_el.length; i++) {
-      if (restore_el[i].id.indexOf("restore") >= 0) {
-        restore_el[i].click();
-        var close_el = innerDoc.getElementsByClassName("goog-close-link");
-        close_el[0].click();
-        return;
-      }
-    }
-  }
+(function() {
+  var langSelect = document.querySelector('.ct-language');
+  var translateScriptLoaded = false;
+  var pendingLang = null;
+  var applyTimer = null;
 
   function triggerHtmlEvent(element, eventName) {
     var event;
@@ -69,20 +45,89 @@ function googleTranslateElementInit() {
     }
   }
 
-  var googleCombo = document.querySelector("select.goog-te-combo");
-  var langSelect = document.querySelector('.ct-language');
+  function markSelected(target) {
+    var selected = document.querySelector('.ct-language .ct-language-selected');
+    if (selected) {
+      selected.classList.remove('ct-language-selected');
+    }
+    target.parentElement.classList.add('ct-language-selected');
+  }
+
+  function translationApplied(lang) {
+    return document.cookie.indexOf('googtrans=/{{ lang }}/' + lang) !== -1;
+  }
+
+  // Google builds the .goog-te-combo select (and binds its change handler)
+  // asynchronously after googleTranslateElementInit fires, so a single apply
+  // attempt can be silently dropped. Keep retrying until the cookie confirms
+  // the translation took effect.
+  function startApplyLoop() {
+    if (applyTimer) {
+      return;
+    }
+    var attempts = 0;
+    applyTimer = setInterval(function() {
+      attempts += 1;
+      if (!pendingLang || attempts > 50) {
+        clearInterval(applyTimer);
+        applyTimer = null;
+        return;
+      }
+
+      var googleCombo = document.querySelector('select.goog-te-combo');
+      if (!googleCombo || googleCombo.options.length === 0) {
+        return;
+      }
+
+      if (googleCombo.value === pendingLang && translationApplied(pendingLang)) {
+        pendingLang = null;
+        clearInterval(applyTimer);
+        applyTimer = null;
+        return;
+      }
+
+      googleCombo.value = pendingLang;
+      triggerHtmlEvent(googleCombo, 'change');
+    }, 300);
+  }
+
+  function loadTranslateScript() {
+    if (translateScriptLoaded) {
+      return;
+    }
+    translateScriptLoaded = true;
+    var script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit';
+    script.async = true;
+    document.head.appendChild(script);
+  }
+
+  window.googleTranslateElementInit = function() {
+    new google.translate.TranslateElement({
+      pageLanguage: '{{ lang }}',
+      autoDisplay: false,
+      layout: google.translate.TranslateElement.InlineLayout.VERTICAL
+    }, 'google_translate_element');
+
+    // Links to cross-origin destinations are unsafe
+    var gll = document.getElementsByClassName('goog-logo-link')[0];
+    if (gll) {
+      gll.setAttribute('rel', 'noopener');
+    }
+  };
+
+  if (!langSelect) {
+    return;
+  }
+
   langSelect.addEventListener('click', function(event) {
     if (!event.target) {
       return;
     }
 
-    var selected = document.querySelector('.ct-language .ct-language-selected');
-    if (selected) {
-      selected.classList.remove('ct-language-selected');
-    }
-
     var target = event.target;
-    while (target && target !== langSelect ) {
+    while (target && target !== langSelect) {
       if (target.matches('.lang-select')) {
         break;
       }
@@ -90,19 +135,12 @@ function googleTranslateElementInit() {
     }
 
     if (target && target.matches('.lang-select')) {
-      var lang = target.getAttribute('data-lang');
-      if (googleCombo.value == lang) {
-        restoreLang();
-      } else {
-        target.parentElement.classList.add('ct-language-selected');
-        googleCombo.value = lang;
-        triggerHtmlEvent(googleCombo, 'change');
-      }
+      pendingLang = target.getAttribute('data-lang');
+      markSelected(target);
+      loadTranslateScript();
+      startApplyLoop();
+      event.preventDefault();
     }
-
-    event.preventDefault();
   });
-}
+})();
 </script>
-
-<script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit" async></script>
