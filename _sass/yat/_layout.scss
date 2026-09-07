@@ -878,6 +878,105 @@ html {
   }
 }
 
+/**
+ * About page
+ */
+.about-page {
+  max-width: 640px;
+  margin: 0 auto;
+
+  .about-hero {
+    text-align: center;
+    margin-bottom: 52px;
+  }
+
+  .about-avatar {
+    width: 128px;
+    height: 128px;
+    border-radius: 24px;
+    object-fit: cover;
+    box-shadow: 0 4px 16px #00000022;
+  }
+
+  .about-name {
+    margin: 20px 0 8px;
+    font-size: 2rem;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+  }
+
+  .about-tagline {
+    margin: 0;
+    color: $grey-color;
+    font-size: 1rem;
+    letter-spacing: -0.01em;
+  }
+
+  .about-section {
+    margin-bottom: 44px;
+  }
+
+  .about-section-title {
+    font-size: 1.15rem;
+    font-weight: 700;
+    letter-spacing: -0.01em;
+    margin: 0 0 16px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid #e3e3e3;
+  }
+
+  .about-timeline {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+
+    li {
+      display: flex;
+      align-items: baseline;
+      gap: 16px;
+      padding: 7px 0;
+      margin: 0;
+    }
+  }
+
+  .about-timeline-date {
+    flex: 0 0 auto;
+    font-weight: 600;
+    color: $brand-color;
+    font-size: 0.9rem;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .about-cta-section {
+    text-align: center;
+  }
+
+  .about-cta-desc {
+    color: $grey-color;
+    margin-bottom: 18px;
+  }
+
+  .about-cta {
+    display: inline-block;
+    font-weight: 600;
+    color: #fff;
+    background-color: $brand-color;
+    text-decoration: none;
+    padding: 12px 28px;
+    border-radius: 24px;
+    transition: opacity 0.2s, transform 0.1s;
+
+    &:hover {
+      opacity: 0.88;
+      text-decoration: none;
+    }
+
+    &:active {
+      transform: translateY(1px);
+    }
+  }
+}
+
 .left-vsplit:before {
   content: "";
   display: inline-block;
