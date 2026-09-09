@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "실데이터 1.6만에 대한 앵무새 소리 여부 판별 모델(parrot-sound-gate) v1 성능 테스트"
+title: "실데이터 1.6만에 대한 '앵무새 소리 여부 판별 모델' v1 성능 테스트"
 subheading: "신규 15,867클립에서 확인한 운영 임계값과 대형조 recall 문제"
 author: Daeun
 categories: AISW_Maestro
