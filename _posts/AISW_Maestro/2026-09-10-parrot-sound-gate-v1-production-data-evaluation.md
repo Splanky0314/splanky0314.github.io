@@ -1,18 +1,15 @@
 ---
 layout: post
-title: "[버디버드] 실데이터 1.6만 클립으로 검증한 parrot-sound-gate v1.0.0"
+title: "실데이터 1.6만에 대한 앵무새 소리 여부 판별 모델(parrot-sound-gate) v1 성능 테스트"
 subheading: "신규 15,867클립에서 확인한 운영 임계값과 대형조 recall 문제"
 author: Daeun
 categories: AISW_Maestro
 date: 2026-09-10 00:00:00 +0900
 description: "parrot-sound-gate v1.0.0을 신규 실데이터 15,867클립으로 평가해 앵무 recall 98.4%, 비앵무 FAR 10.5%의 원인을 분석하고 운영 임계값과 대형조 모사 데이터의 문제를 정리했습니다."
-image:
-  path: "https://cdn.jsdelivr.net/gh/splanky0314/CDN/AISW_Maestro/2026-09-10-parrot-sound-gate-v1-production-data-evaluation/cm_old.png"
-  alt: "기존 데이터 confusion matrix"
+banner: "https://cdn.jsdelivr.net/gh/splanky0314/CDN/AISW_Maestro/AISW_Maestro_background.png"
 tags: AISW마에스트로 17기 2026년 서울센터 버디버드 다희혁 앵무새 parrot_sound_gate Perch_2.0 모델_평가 운영_임계값 recall FAR
 ---
 
-# 실데이터 1.6만 클립에 대한 앵무새 소리 여부 판별 모델(parrot-sound-gate) v1 성능 테스트
 
 v1.0.0 게이트를 개발한 이후, `버디버드 앱`을 통해 신규 오디오 데이터가 수집되었다. 
 
