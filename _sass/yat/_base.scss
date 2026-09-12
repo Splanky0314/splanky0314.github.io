@@ -106,6 +106,11 @@ li {
  */
 h1, h2, h3, h4, h5, h6 {
   font-weight: $base-font-weight * 1.5; // DE 수정예정
+
+  // DE 수정: 제목 안 인라인 코드는 고정 px 대신 상대(em) 크기로 제목에 맞춤
+  code {
+    font-size: 0.9375em;
+  }
 }
 
 /**
