@@ -1,18 +1,14 @@
 ---
 layout: post
-title: "앵무새 소리 게이트 v2.0.0: LR 채택과 개발 교차검증 결과"
+title: "앵무새 소리 여부 판별 모델 (parrot sound gate) v2.0.0"
 subheading: "대형조를 포함한 18,175개 클립의 학습 설정과 반복 nested 교차검증"
 author: Daeun
 categories: AISW_Maestro
 date: 2026-09-12 00:00:00 +0900
 description: "대형조를 포함한 18,175개 클립으로 학습한 앵무새 소리 게이트 LR v2.0.0의 모델 채택 근거와 임계값 정책을 정리한다. 반복 nested 교차검증에서 확인한 앵무새 recall 91.282%, 사람 음성 FAR 0.920%의 개발 평가 결과와 대형조 성능 한계를 설명한다."
-image:
-  path: "https://cdn.jsdelivr.net/gh/splanky0314/CDN/AISW_Maestro/2026-09-12-parrot-sound-gate-v2-lr-development-evaluation/dataset-composition.png"
-  alt: "전체 데이터의 유형별 구성"
+banner: "https://cdn.jsdelivr.net/gh/splanky0314/CDN/AISW_Maestro/AISW_Maestro_background.png"
 tags: AISW마에스트로 버디버드 앵무새 parrot_sound_gate Perch_2.0 Logistic_Regression 교차검증 OOF recall FAR
 ---
-
-# 앵무새 소리 게이트 v2.0.0 채택 보고서
 
 v2.0.0의 분류기로 대형조를 포함해 학습한 Logistic Regression(LR)을 채택한다.  이 보고서는 채택한 LR의 데이터 구성, 학습 설정, 임계값 정책, 개발 평가 결과를 설명한다.
 
