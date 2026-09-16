@@ -165,7 +165,8 @@ pre,
 code {
   @include relative-font-size(0.9375);
   color: $text-color;
-  font-family: Consolas;  // 코드블럭 폰트 수정
+  // JetBrains Mono 웹폰트(코드블럭 있는 페이지에서만 로드) + 기기별 고정폭 폴백 (macOS/iOS: SF Mono·Menlo, Windows: Consolas, Android: Roboto Mono)
+  font-family: "JetBrains Mono", ui-monospace, "SF Mono", Menlo, Consolas, "Roboto Mono", "Courier New", monospace;
   tab-size: 4;
 }
 
@@ -180,6 +181,7 @@ pre {
   overflow-x: auto;
   position: relative;
   background-color: #f0f0f0;
+  line-height: 1.6;  // 코드블럭 행간 (가독성)
 
   > code {
     display: inline-block;
