@@ -22,6 +22,8 @@ night_mode: "on"
 
 google_analytics: [G-RPE3V2E3C1]
 sitemap: true
+paginate: 10
+paginate_path: "/page:num/"
 
 markdown: kramdown
 kramdown:
@@ -40,3 +42,22 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-spaceship
+
+# 저장소 관리용 파일이 빌드 결과물에 복사되지 않도록 제외
+exclude:
+  - AGENTS.md
+  - CLAUDE.md
+  - README.md
+  - LICENSE.txt
+  - todo.md
+  - tasks/
+  - scripts/
+  - push.sh
+  - push.log
+
+# _posts/hidden 아래 글은 게시하지 않음 (비공개 보관용)
+defaults:
+  - scope:
+      path: "_posts/hidden"
+    values:
+      published: false
