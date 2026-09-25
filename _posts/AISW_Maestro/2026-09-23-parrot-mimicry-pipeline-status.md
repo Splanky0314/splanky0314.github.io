@@ -8,7 +8,7 @@ date: 2026-09-23 00:00:00 +0900
 description: "buddybird 앵무새 단어 모사 판정 파이프라인의 전체 구조와 단계별 개발 현황 기록입니다. 확정된 음량 게이트·앵무 소리 판별 게이트(v2.0.0)와 연구 중인 모사 성공 판정 단계의 난관·후보 방법론 4가지를 정리했습니다."
 banner: "https://cdn.jsdelivr.net/gh/splanky0314/CDN/AISW_Maestro/AISW_Maestro_background.png"
 image:
-  path: "https://cdn.jsdelivr.net/gh/splanky0314/CDN/AISW_Maestro/2026-09-23-parrot-mimicry-pipeline-status/fig1_pipeline.png"
+  path: "https://raw.githubusercontent.com/Splanky0314/CDN/main/AISW_Maestro/2026-09-23-parrot-mimicry-pipeline-status/fig1_pipeline.png"
   alt: "파이프라인 개요"
 tags: AISW마에스트로 17기 2026년 서울센터 버디버드 다희혁 앵무새 파이프라인 음량게이트 앵무소리판별 Perch 선형probe 모사판정 DTW voice-conversion metric-learning
 ---
@@ -58,7 +58,7 @@ tags: AISW마에스트로 17기 2026년 서울센터 버디버드 다희혁 앵�
 
 앱 서비스에서 수집된 오디오 클립은 아래 단계를 차례로 통과한다.
 
-![파이프라인 개요](https://cdn.jsdelivr.net/gh/splanky0314/CDN/AISW_Maestro/2026-09-23-parrot-mimicry-pipeline-status/fig1_pipeline.png)
+![파이프라인 개요](https://raw.githubusercontent.com/Splanky0314/CDN/main/AISW_Maestro/2026-09-23-parrot-mimicry-pipeline-status/fig1_pipeline.png)
 
 
 | 단계                  | 하는 일                                                                                                                                                                                                                               | 상태                |
@@ -102,7 +102,7 @@ tags: AISW마에스트로 17기 2026년 서울센터 버디버드 다희혁 앵�
 - **Perch 2.0 Encoder**: 구글이 공개한 생물음향(bioacoustics) 사전학습 모델의 인코더. 모델 자체는 생물종을 구분하는 것이 목적이다. Perch2.0 인코더는 오디오 클립을 1,536차원 임베딩 벡터로 바꾼다. 
 - **선형 probe**: 임베딩 위에 얹은 가벼운 로지스틱 회귀(LR) 분류기. 소량 데이터에서도 과적합이 적고, 해석·재현이 쉽다.
 
-![2단계 성능](https://cdn.jsdelivr.net/gh/splanky0314/CDN/AISW_Maestro/2026-09-23-parrot-mimicry-pipeline-status/fig3_step2_metrics.png)
+![2단계 성능](https://raw.githubusercontent.com/Splanky0314/CDN/main/AISW_Maestro/2026-09-23-parrot-mimicry-pipeline-status/fig3_step2_metrics.png)
 
 - **판별 성능**: 재현율 91.3%, 모사(mimic) 재현율 86.1%, 정밀도 97.7%.
 - **오통과율(FAR)**: 보호자 기준음성 0.66%, ambient 사람 음성 0.95%, 잡음 1.36%
@@ -126,7 +126,7 @@ tags: AISW마에스트로 17기 2026년 서울센터 버디버드 다희혁 앵�
 3. **기존 STT 사용 불가**: 사람 음성 인식(Whisper STT 등) 기술로는 소·중형조 앵무새의 mimic을 인식하지 못한다. 사람 음성으로 학습된 모델에게 앵무 발성은 분포 밖(OOD) 입력이기 때문이다.
 4. **mimic 데이터 희소**: mimic 데이터 자체가 희귀하고, 다량 수집에 한계가 있다. 적격 단어는 9개뿐이며, 그중 '안녕'이 시도의 74%를 차지한다.
 
-![음색 도메인 갭](https://cdn.jsdelivr.net/gh/splanky0314/CDN/AISW_Maestro/2026-09-23-parrot-mimicry-pipeline-status/fig4_step4_domaingap.png)
+![음색 도메인 갭](https://raw.githubusercontent.com/Splanky0314/CDN/main/AISW_Maestro/2026-09-23-parrot-mimicry-pipeline-status/fig4_step4_domaingap.png)
 
 기준음성은 **사람 목소리**, 시도는 **앵무 목소리**다. 같은 단어라도 배음·포먼트 구조가
 근본적으로 달라(**음색 도메인 갭**), 이 갭을 어떻게 넘느냐가 판정 방법 선택을 가른다.
