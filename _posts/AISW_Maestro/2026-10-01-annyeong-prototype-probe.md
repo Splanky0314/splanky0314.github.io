@@ -4,7 +4,7 @@ title: "[후보 방법론 5] 사람 기준음성 프로토타입"
 subheading: "ContentVec 평균 벡터와 cosine 유사도, SSL+DTW와 같은 조건 비교"
 author: Daeun
 categories: AISW_Maestro
-date: 2026-10-01 00:00:00 +0900
+date: 2026-10-01 12:00:00 +0900
 description: "사람 기준음성의 ContentVec 임베딩을 평균한 프로토타입 하나로 앵무새의 '안녕' 모사를 판정하는 방법을 시험한 기록입니다. 단어 일치 AUC는 SSL+DTW와 같은 수준이었지만, 같은 조건의 FAR 5% 검출률은 15.3% 대 23.2%로 SSL+DTW가 더 높았습니다."
 banner: "https://cdn.jsdelivr.net/gh/splanky0314/CDN/AISW_Maestro/AISW_Maestro_background.png"
 image:
