@@ -168,3 +168,5 @@ v1.0.0 이후 새 데이터가 편입되어 클립이 **2,322 → 2,771개**로 
 | **Perch 2.0 × DTW / 코사인** | Perch가 노출하는 시계열 출력(멜 10ms 프레임)으로 DTW 정렬, pooled 임베딩으로 코사인 | 2단계와 임베딩 인프라 공유 — 추론 비용 최소 |
 | **음소 posteriorgram(PPG) × DTW** | 다국어 음소 인식기로 오디오를 음소 확률 시퀀스로 변환 — 음소 공간은 음색·피치가 제거됨 | **음색 갭 정공법.** 비발화는 평탄한 posterior가 나와 자동 기각되는 부수 효과 |
 | **Content 임베딩 (ContentVec 등) × DTW** | 음성 변환(VC)용으로 설계된 "음색 제거·내용 보존" 임베딩 | 갭 문제의 설계상 정공법 — 단 사람 화자만 학습해 종간 외삽은 실증 필요 |
+
+미팅 이후에는 조류 크기에 따른 차이를 검증했습니다. [소형조·중형조·대형조와 사람 음성의 음향학적 비교](https://daeunworld.xyz/aisw_maestro/2026/09/03/parrot-human-acoustics.html)와 [Whisper의 앵무새 단어 모사 전사 성능 분석](https://daeunworld.xyz/aisw_maestro/2026/09/03/whisper-mimicry-recognition.html)에 결과를 정리했습니다.

@@ -217,6 +217,8 @@ tags: AISW마에스트로 17기 2026년 서울센터 버디버드 다희혁 앵�
 
 > whisper가 앵무새의 단어 모사를 제대로 인식하는지 테스트 진행 후, 소/중/대형조로 분리할 필요가 있을지 최종 판단이 필요해 보인다.
 
+이어서 Whisper 6종으로 앵무새 단어 모사의 전사 성능을 검증했다. 모델 크기와 조류 크기별 결과는 [Whisper의 앵무새 단어 모사 전사 성능 분석](https://daeunworld.xyz/aisw_maestro/2026/09/03/whisper-mimicry-recognition.html)에 정리했다.
+
 
 
 &nbsp;

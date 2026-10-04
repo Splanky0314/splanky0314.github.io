@@ -186,7 +186,7 @@ Perch·ContentVec·HuBERT 임베딩을 입력으로 하는 회귀 선형 probe�
 
 **(4) Cross-Species Metric Learning [frozen 임베딩 위 학습 head** 사전학습 인코더]
 
-[[추후 상세 보고서 링크 추가 예정]]
+이후 진행한 학습 방법과 평가 결과, 새 단어에 대한 일반화 한계는 [Cross Species Metric Learning 실험](https://daeunworld.xyz/aisw_maestro/2026/10/01/cross-species-metric-learning.html)에 정리했다.
 
 
 
@@ -205,3 +205,5 @@ Cross-species metric learning은 서로 다른 종의 소리인 `보호자 기�
 
  
 
+
+후속 실험으로, 사람 기준음성의 평균 벡터와 앵무새 소리를 비교하는 방법도 검토했다. [사람 기준음성 프로토타입과 SSL+DTW 비교](https://daeunworld.xyz/aisw_maestro/2026/10/01/annyeong-prototype-probe.html)에서 같은 기준음성과 평가 조건으로 비교한 결과를 확인할 수 있다.

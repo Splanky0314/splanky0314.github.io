@@ -201,6 +201,8 @@ mimic이 사람 음역대(85~300Hz)로 이동한다는 가설은 이 데이터�
 2. 약한 공통 경향(하모닉 비율, 포먼트 변조, 음절 리듬)은 가설과 방향이 일치하지만  
  단독 판정 근거로는 부족하다.
 
+관련 실험으로, 오디오 임베딩에서 mimic과 non_speech를 구분하는 선형 probe도 검토했다. [Perch·ContentVec·HuBERT 인코더 비교](https://daeunworld.xyz/aisw_maestro/2026/09/24/mimic-nonspeech-encoders.html)에서 별도의 데이터 구성과 평가 방식에 따른 결과를 확인할 수 있다.
+
 
 
 &nbsp;

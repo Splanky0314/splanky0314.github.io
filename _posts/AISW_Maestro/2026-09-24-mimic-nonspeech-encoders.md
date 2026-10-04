@@ -36,6 +36,8 @@ tags: AISW마에스트로 17기 2026년 서울센터 버디버드 다희혁 앵�
 
 non speech는 앵무새의 일상적인 짹짹 음이지만, mimic은 인간의 발화를 모사한 것으로, 인간이 듣기에 소리에 차이가 확인된다. 
 
+두 발성의 차이를 피치, 하모닉 구조, 리듬 등으로 분석한 내용은 [앵무새 단어 모사 소리의 음향학적 특징](https://daeunworld.xyz/aisw_maestro/2026/09/22/mimic-vs-nonspeech-acoustics.html)에서 다룬다.
+
 
 
 &nbsp;
@@ -213,3 +215,5 @@ AUC가 0.55 안팎으로 Perch와 비슷하다. 
 
 
 ![세 인코더가 보존하거나 제거하는 정보](https://cdn.jsdelivr.net/gh/splanky0314/CDN/AISW_Maestro/2026-09-24-mimic-nonspeech-encoders/fig_mechanism.png)
+
+이후에는 보호자 기준음성과 앵무새 소리가 같은 단어인지 비교하는 방법을 검토했다. 임베딩의 비교 공간을 학습하는 [Cross Species Metric Learning](https://daeunworld.xyz/aisw_maestro/2026/10/01/cross-species-metric-learning.html)과, 사람 기준음성을 평균 벡터로 만드는 [사람 기준음성 프로토타입](https://daeunworld.xyz/aisw_maestro/2026/10/01/annyeong-prototype-probe.html)에 각각 실험 결과를 정리했다.

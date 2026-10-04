@@ -87,6 +87,8 @@ whisper은 인간 음성으로 학습된 모델이다. 따라서 앵무새 음�
 
 whisper로 앵무새 음성을 텍스트로 변환하는데 한계가 존재한다.
 
+후속 실험에서는 Whisper 모델 6종과 소형조, 중형조, 대형조를 나누어 다시 검증했다. 조건별 인식 결과와 한계는 [Whisper의 앵무새 단어 모사 전사 성능 분석](https://daeunworld.xyz/aisw_maestro/2026/09/03/whisper-mimicry-recognition.html)에서 다룬다.
+
 ---
 
 ## 3. Facebook wav2vec2 

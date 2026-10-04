@@ -34,6 +34,8 @@ tags: AISW마에스트로 17기 2026년 서울센터 버디버드 다희혁 오�
 
 **이렇게 수집된 클립에는 라벨이 없으므로, 이를 사람이 직접 듣고, 어떤 소리인지 라벨을 부여하는 시스템이 필요했다.** 
 
+앵무새와 비앵무새 라벨을 활용한 모델 개발 사례는 [앵무새 소리 게이트 v2 개발·평가](https://daeunworld.xyz/aisw_maestro/2026/09/12/parrot-sound-gate-v2-lr-development-evaluation.html)에서 확인할 수 있다.
+
 
 
 ---

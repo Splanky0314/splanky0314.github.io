@@ -15,6 +15,8 @@ v1.0.0 게이트를 개발한 이후, `버디버드 앱`을 통해 신규 오디
 
 이 보고서는 신규 데이터에 대해 `앵무새 소리 여부 판별 모델(parrot-sound-gate v1.0.0)`의 성능을 분석한 내용이다.
 
+평가 대상 모델의 구조와 초기 학습 데이터, 임계값 선정 방식은 [앵무새 소리 게이트 v1 개발 기록](https://daeunworld.xyz/aisw_maestro/2026/08/27/parrot-sound-gate100.html)에서 설명한다.
+
 
 
 ## 1. 용어
@@ -198,3 +200,5 @@ v1.0.0를 프리즈한 이후, 데이터가 기존 2,318클립 → 18,197클립�
 ![버킷별 오통과율](https://cdn.jsdelivr.net/gh/splanky0314/CDN/AISW_Maestro/2026-09-10-parrot-sound-gate-v1-production-data-evaluation/far_buckets-labels-20260910.png)
 
 *그림 1: 비앵무 버킷별 오통과율. 초록 막대가 기존 데이터, 파랑 막대가 신규 데이터다. 기존 데이터는 대부분 학습에 포함되어 목표 이내이고, 신규 데이터는 세 버킷 모두 점선을 초과한다. 점선 2%는 사람 음성 전체 FAR의 v1 설계 목표이며 버킷별로는 참고 기준이다.*
+
+후속 개발에서는 학습 데이터와 임계값 정책을 보완했다. 변경 사항과 개발 평가 결과는 [앵무새 소리 게이트 v2 개발·평가](https://daeunworld.xyz/aisw_maestro/2026/09/12/parrot-sound-gate-v2-lr-development-evaluation.html)에 정리했다.

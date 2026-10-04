@@ -173,6 +173,8 @@ LOSO 종별 분리도:
 현재 2322개 클립으로도 gate 성능이 높은 것이 확인되었다.
 추후 buddybird-prod S3에 실제 사용자의 데이터가 쌓이는 대로, 다음 버전으로 개선할 예정이다.
 
+후속 평가: 이후 수집한 서비스 데이터에 이 모델을 적용한 결과는 [v1 실데이터 성능 평가](https://daeunworld.xyz/aisw_maestro/2026/09/10/parrot-sound-gate-v1-production-data-evaluation.html)에 정리했다. 보호자 기준음성과 생활 잡음의 오통과 문제를 확인할 수 있다.
+
 ## 기타
 
 오디오 전체에 걸쳐 잡음이 앵무새 소리보다 크게 나타나는 경우 '비앵무(non_parrot)'으로 처리되는 경향이 있다. 
