@@ -43,6 +43,19 @@ bundle exec jekyll build
 
 ## 유지보수
 
+배포 전에는 생성된 HTML의 이미지·내부 링크·검색 메타데이터를 검사합니다.
+외부 이미지 검사는 네트워크 연결이 필요하며 HTTP 오류와 이미지가 아닌 응답도 확인합니다.
+
+```bash
+bundle exec jekyll build --destination /tmp/daeunworld-build
+python3 scripts/audit_site.py /tmp/daeunworld-build --check-remote --output /tmp/daeunworld-seo.json
+```
+
+2026-07-11 변경에서 삭제되거나 이름이 바뀐 예전 글의 이미지는 변경 전 커밋
+`3e5253a4bbb7218a6a8c747afbcd60d0de3b323d`의 고정 URL로 복구했습니다.
+이 이미지들의 `CDN@<commit>/...` 주소에서 커밋을 제거하면 다시 404가 발생합니다.
+CDN 파일을 정리할 때는 공개 글의 참조와 과거 버전 URL의 접근 가능 여부를 먼저 확인합니다.
+
 외부 링크 검사는 GitHub Actions의 `External link report` 워크플로가 매주 실행합니다. 결과는 워크플로 실행 요약과 artifact에서 확인할 수 있습니다. 수동 실행도 가능합니다.
 
 `_posts/hidden/`은 Git에서 제외된 로컬 보관 영역입니다. Jekyll 로컬 빌드에는 포함되므로 외부 공유용 빌드 결과를 배포할 때 주의해야 합니다.

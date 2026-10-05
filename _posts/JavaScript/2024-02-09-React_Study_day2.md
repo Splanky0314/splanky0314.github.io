@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "React Element의 개념과 렌더링 과정을 정리한 입문 학습 노트입니다. 생성된 Element의 특징과 화면을 업데이트하는 방법을 살펴봅니다."
 title: '[React 스터디 Day2🙃] React Element에 대해 알아보자(리엑트 엘리먼트)'
 subheading: 
 author: Daeun

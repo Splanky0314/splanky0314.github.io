@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "버디버드의 Firestore 사용자 피드백을 Make로 연결해 Slack 알림으로 받아보는 자동화 구축 기록입니다. 검토한 대안과 채택 이유, 설정 결과를 정리했습니다."
 title: '[MAKE] Firestore로 신규 수집된 데이터를 slack 메세지로 전송'
 subheading: 
 author: Daeun

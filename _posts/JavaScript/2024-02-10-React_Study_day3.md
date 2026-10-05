@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "React Component와 Props, State, Lifecycle을 정리한 입문 학습 노트입니다. 속성 전달과 컴포넌트 렌더링, 상태 변경과 생명 주기를 예제로 살펴봅니다."
 title: '[React 스터디 Day3🙃] React Component와 Props & state와 lifecycle에 대해 알아보자!(리엑트 컴포넌트)'
 subheading: 
 author: Daeun

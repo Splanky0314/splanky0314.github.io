@@ -1,15 +1,21 @@
 ---
 layout: post
+description: "엠스톤 그루브 기계식 키보드의 키캡 청소, 스프레이 윤활, 오링 장착 과정과 작업 후 소음·키감 변화를 사진으로 정리했습니다."
 title: '[엠스톤그루브] 기계식 키보드 오링 저소음 효과, 윤활 방법 🤫'
 subheading: 
 author: Daeun
+image:
+  path: "https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/IT_Review/2023-09-17-Keyboard_tuning/%20%281%29.jpg"
+  width: 1440
+  height: 666
+  alt: "키캡을 분리한 기계식 키보드와 슈퍼루브 윤활제"
 categories: IT
 banner:
 tags: Mstone Groove 엠스톤 그루브 기계식키보드 윤활 오링 저소음 갈축 슈퍼루브 키보드
 
 ---
 
-![Keyboard_Tuning](https://cdn.jsdelivr.net/gh/splanky0314/CDN/IT_Review/2023-09-17-Keyboard_tuning/%20%281%29.jpg)
+![Keyboard_Tuning](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/IT_Review/2023-09-17-Keyboard_tuning/%20%281%29.jpg){: class="post-image" width="1440" height="666" loading="eager" decoding="async" }
 
 ## 왜 키보드 튜닝해요??
 
@@ -19,13 +25,13 @@ tags: Mstone Groove 엠스톤 그루브 기계식키보드 윤활 오링 저소�
 
 그래서 소음을 줄여준다는 **오링**을 구매했습니다. 
 
-![Keyboard_Tuning](https://cdn.jsdelivr.net/gh/splanky0314/CDN/IT_Review/2023-09-17-Keyboard_tuning/%20%2816%29.jpg)
+![Keyboard_Tuning](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/IT_Review/2023-09-17-Keyboard_tuning/%20%2816%29.jpg){: class="post-image" width="1440" height="1080" loading="lazy" decoding="async" }
 
 ## 키보드 사진
 
-![Keyboard_Tuning](https://cdn.jsdelivr.net/gh/splanky0314/CDN/IT_Review/2023-09-17-Keyboard_tuning/%20%286%29.jpg)
+![Keyboard_Tuning](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/IT_Review/2023-09-17-Keyboard_tuning/%20%286%29.jpg){: class="post-image" width="1440" height="1080" loading="lazy" decoding="async" }
 
-![Keyboard_Tuning](https://cdn.jsdelivr.net/gh/splanky0314/CDN/IT_Review/2023-09-17-Keyboard_tuning/%20%288%29.jpg)
+![Keyboard_Tuning](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/IT_Review/2023-09-17-Keyboard_tuning/%20%288%29.jpg){: class="post-image" width="1440" height="1080" loading="lazy" decoding="async" }
 
 ## 키보드 청소하기
 
@@ -38,46 +44,45 @@ tags: Mstone Groove 엠스톤 그루브 기계식키보드 윤활 오링 저소�
 키보드가 삐걱거려서 하는 건 아니고, 오링 끼우려고 키캡 다 뽑는 김에 윤활까지 하려고 합니다.
 
 
-![Keyboard_Tuning](https://cdn.jsdelivr.net/gh/splanky0314/CDN/IT_Review/2023-09-17-Keyboard_tuning/%20%2810%29.jpg)
+![Keyboard_Tuning](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/IT_Review/2023-09-17-Keyboard_tuning/%20%2810%29.jpg){: class="post-image" width="1440" height="1080" loading="lazy" decoding="async" }
 
 ## 키캡 뽑기
 
-![Keyboard_Tuning](https://cdn.jsdelivr.net/gh/splanky0314/CDN/IT_Review/2023-09-17-Keyboard_tuning/%20%2813%29.jpg)
+![Keyboard_Tuning](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/IT_Review/2023-09-17-Keyboard_tuning/%20%2813%29.jpg){: class="post-image" width="1440" height="1080" loading="lazy" decoding="async" }
 
-![Keyboard_Tuning](https://cdn.jsdelivr.net/gh/splanky0314/CDN/IT_Review/2023-09-17-Keyboard_tuning/%20%2814%29.jpg)
-![Keyboard_Tuning](https://cdn.jsdelivr.net/gh/splanky0314/CDN/IT_Review/2023-09-17-Keyboard_tuning/%20%2815%29.jpg)
+![Keyboard_Tuning](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/IT_Review/2023-09-17-Keyboard_tuning/%20%2814%29.jpg){: class="post-image" width="1440" height="1080" loading="lazy" decoding="async" }
+![Keyboard_Tuning](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/IT_Review/2023-09-17-Keyboard_tuning/%20%2815%29.jpg){: class="post-image" width="1440" height="1080" loading="lazy" decoding="async" }
 
-![Keyboard_Tuning](https://cdn.jsdelivr.net/gh/splanky0314/CDN/IT_Review/2023-09-17-Keyboard_tuning/%20%2817%29.jpg)
-![Keyboard_Tuning](https://cdn.jsdelivr.net/gh/splanky0314/CDN/IT_Review/2023-09-17-Keyboard_tuning/%20%2818%29.jpg)
+![Keyboard_Tuning](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/IT_Review/2023-09-17-Keyboard_tuning/%20%2817%29.jpg){: class="post-image" width="1440" height="666" loading="lazy" decoding="async" }
+![Keyboard_Tuning](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/IT_Review/2023-09-17-Keyboard_tuning/%20%2818%29.jpg){: class="post-image" width="1440" height="666" loading="lazy" decoding="async" }
 
 ## 간이 윤활하기
 
-요 두 친구로 윤활 할 겁니다. 스프레이 윤활제에 보면 주사기가 달려있는데, 기본 제공되는 관?이 너무 넓어서 확실한 윤활을 위해서 달아 두었습니다. 저번에 윤활 방법을 포스팅 했기 때문에 자세한 내용은 생략합니다! 자세한 내용은 아래 글에 있습니다.
+요 두 친구로 윤활 할 겁니다. 스프레이 윤활제에 보면 주사기가 달려있는데, 기본 제공되는 관?이 너무 넓어서 확실한 윤활을 위해서 달아 두었습니다. 이번에 진행한 간이 윤활 과정은 아래 사진과 함께 정리했습니다.
 
-[토체티(적축) 간이 윤활 후기](https://daeunworld.xyz/it_review/2022/12/11/%ED%82%A4%EB%B3%B4%EB%93%9C_%EC%8A%A4%ED%94%84%EB%A0%88%EC%9D%B4_%EC%9C%A4%ED%99%9C_%ED%9B%84%EA%B8%B0%28%ED%86%A0%EC%B2%B4%ED%8B%B0_%EC%A0%81%EC%B6%95%29.html)
 
-![Keyboard_Tuning](https://cdn.jsdelivr.net/gh/splanky0314/CDN/IT_Review/2023-09-17-Keyboard_tuning/%20%282%29.jpg)
+![Keyboard_Tuning](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/IT_Review/2023-09-17-Keyboard_tuning/%20%282%29.jpg){: class="post-image" width="1440" height="666" loading="lazy" decoding="async" }
 
 
 키캡을 모두 제거한 모습입니다. 게이트론 저소음 갈축의 모습이죠. 저번과 똑같이 모든 스위치에 스프레이 윤활을 해줍니다.
 
-![Keyboard_Tuning](https://cdn.jsdelivr.net/gh/splanky0314/CDN/IT_Review/2023-09-17-Keyboard_tuning/%20%283%29.jpg)
+![Keyboard_Tuning](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/IT_Review/2023-09-17-Keyboard_tuning/%20%283%29.jpg){: class="post-image" width="1440" height="666" loading="lazy" decoding="async" }
 
-![Keyboard_Tuning](https://cdn.jsdelivr.net/gh/splanky0314/CDN/IT_Review/2023-09-17-Keyboard_tuning/%20%284%29.jpg)
+![Keyboard_Tuning](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/IT_Review/2023-09-17-Keyboard_tuning/%20%284%29.jpg){: class="post-image" width="1440" height="666" loading="lazy" decoding="async" }
 
 크기가 큰 키캡(Enter, Space Bar, Shift 등)에는 튜브형 윤활제를 아래와 같이 짜줍니다.
 
-![Keyboard_Tuning](https://cdn.jsdelivr.net/gh/splanky0314/CDN/IT_Review/2023-09-17-Keyboard_tuning/%20%285%29.jpg)
+![Keyboard_Tuning](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/IT_Review/2023-09-17-Keyboard_tuning/%20%285%29.jpg){: class="post-image" width="1440" height="666" loading="lazy" decoding="async" }
 
 ## 오링 끼우기
 
 스위치가 적당히 말랐다면 오링을 끼웁시다.
 
-![Keyboard_Tuning](https://cdn.jsdelivr.net/gh/splanky0314/CDN/IT_Review/2023-09-17-Keyboard_tuning/%20%2816%29.jpg)
+![Keyboard_Tuning](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/IT_Review/2023-09-17-Keyboard_tuning/%20%2816%29.jpg){: class="post-image" width="1440" height="1080" loading="lazy" decoding="async" }
 
-![Keyboard_Tuning](https://cdn.jsdelivr.net/gh/splanky0314/CDN/IT_Review/2023-09-17-Keyboard_tuning/%20%2811%29.jpg)
+![Keyboard_Tuning](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/IT_Review/2023-09-17-Keyboard_tuning/%20%2811%29.jpg){: class="post-image" width="1440" height="1080" loading="lazy" decoding="async" }
 
-![Keyboard_Tuning](https://cdn.jsdelivr.net/gh/splanky0314/CDN/IT_Review/2023-09-17-Keyboard_tuning/%20%2812%29.jpg)
+![Keyboard_Tuning](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/IT_Review/2023-09-17-Keyboard_tuning/%20%2812%29.jpg){: class="post-image" width="1440" height="1080" loading="lazy" decoding="async" }
 
 ## 끝
 

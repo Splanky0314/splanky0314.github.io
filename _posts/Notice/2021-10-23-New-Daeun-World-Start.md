@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "Daeun World를 직접 만든 소개 사이트에서 Ruby·Jekyll 기반 GitHub Pages 블로그로 개편한 이유와 이전 사이트 모습, 앞으로의 기록 계획을 소개합니다."
 title: New Daeun World Start
 subheading: Newstart
 author: Daeun
@@ -20,13 +21,13 @@ tags: DaeunWorld NewStart
 ## Daeun World의 역사
 
 고1때 막 웹개발을 배우면서 처음 Github Page를 만들었었다.
-<img src="/assets/images/posts/notice/2021-10-23-New-Daeun-World-Start/firstDaeunWorld.png">
+<img src="/assets/images/posts/notice/2021-10-23-New-Daeun-World-Start/firstDaeunWorld.png" alt="고등학교 1학년 때 직접 만든 첫 Daeun World 사이트">
 <p style="color:gray">첫 Daeun World의 모습</p>
 
 디자인 하나 일일이 만들었었는데, 내가 코드를 쓴 대로 사이트가 만들어지는 모습에 신기해했었던 기억이 난다. 만들고나서 학교에서 진행했던 프로젝트를 기록해놓기도 했다.
 
 다음으로 고2 넘어가는 방학때 한번 개편을 했었다. 좀 이쁜 자기소개 사이트를 만드는 것을 목적으로 디자인에 신경을 많이 썼었다.
-<img src="/assets/images/posts/notice/2021-10-23-New-Daeun-World-Start/secondDaeunWorld.png">
+<img src="/assets/images/posts/notice/2021-10-23-New-Daeun-World-Start/secondDaeunWorld.png" alt="자기소개 사이트로 개편한 두 번째 Daeun World">
 <p style="color:gray">두번째 Daeun World의 모습</p>
 두번째 DaeunWorld는 Info사이트로서 지금도 유용하게 사용하고 있다.
 <p><a href="https://splanky0314.github.io/info/info.html" target="_blank">Go to Info Site</a></p>

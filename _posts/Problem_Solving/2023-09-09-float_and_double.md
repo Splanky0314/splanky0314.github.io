@@ -1,8 +1,14 @@
 ---
 layout: post
+description: "백준 26258번 풀이에서 float의 정밀도 때문에 오답이 발생했던 사례와 double로 변경해 해결한 과정을 정리했습니다."
 title: "[C/C++] [BOJ 26258] float의 불편한 진실(백준 1% 틀렸습니다)"
 subheading: 
 author: Daeun
+image:
+  path: "https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Problem_Solving/2023-09-09-float_and_double/0.png"
+  width: 2418
+  height: 855
+  alt: "백준 26258번 문제에서 발생한 오답 사례"
 categories: Problem_Solving
 banner:
 tags: C언어 C C++ C99 Baekjoon 알고리즘 binary search algorithm boj codeforce cpp left right mid l r float double 1% boj baekjoon 26258 silver
@@ -12,7 +18,7 @@ tags: C언어 C C++ C99 Baekjoon 알고리즘 binary search algorithm boj codefo
 
 아니 ICPC 스터디 연습 문제를 푸는데 
 
-![float는 뭐가 문제일까](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Problem_Solving/2023-09-09-float_and_double/0.png)
+![float는 뭐가 문제일까](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Problem_Solving/2023-09-09-float_and_double/0.png){: class="post-image" width="2418" height="855" loading="eager" decoding="async" }
 
 [백준 26258 다중 일차 함수](https://www.acmicpc.net/problem/26258)
 
@@ -26,13 +32,13 @@ vector를 참조자로 함수에 넘기는 대신 전역변수로 선언해보�
 
 2시간 동안 열심히 고쳤습니다. 고생의 흔적.
 
-![float는 뭐가 문제일까](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Problem_Solving/2023-09-09-float_and_double/1.png)
+![float는 뭐가 문제일까](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Problem_Solving/2023-09-09-float_and_double/1.png){: class="post-image" width="828" height="553" loading="lazy" decoding="async" }
 
 ## 장난하냐🤬
 
 float를 double로 바꾸는 순간.
 
-![float는 뭐가 문제일까](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Problem_Solving/2023-09-09-float_and_double/2.png)
+![float는 뭐가 문제일까](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Problem_Solving/2023-09-09-float_and_double/2.png){: class="post-image" width="836" height="605" loading="lazy" decoding="async" }
 
 바로 초록 딱지;;; 장난하니 나랑
 

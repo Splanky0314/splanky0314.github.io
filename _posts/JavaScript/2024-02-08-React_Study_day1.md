@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "React 입문 스터디 첫날의 학습 노트입니다. JavaScript 자료형과 연산자, React의 장단점, JSX의 문법과 역할을 예제로 정리했습니다."
 title: '[React 스터디 Day1🙃] JavaScript 기초 & React의 장단점 & JSX이란?'
 subheading: 
 author: Daeun

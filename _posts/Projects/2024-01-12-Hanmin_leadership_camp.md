@@ -1,8 +1,14 @@
 ---
 layout: post
+description: "한민고 리더십 캠프에서 담임 멘토를 맡아 학생들과 5일을 보낸 기록입니다. 캠프 준비와 활동, 학생을 지도하며 고민한 점을 정리했습니다."
 title: "[한민고 리더십 캠프] 리더십캠프 담임이 되었던 5일 간의 기록 🏫"
 subheading: 
 author: Daeun
+image:
+  path: "https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-12-Hanmin_leadership_camp/notice.png"
+  width: 787
+  height: 793
+  alt: "한민고 리더십 캠프 안내문"
 categories: Projects
 banner:
 tags: 한민고 한민고등학교 군인자녀교육진흥원 군인자녀 리더십캠프 예비중학생 멘토 강사 담임 한민캠프 멘토링 한국청소년리더십센터 수고했다
@@ -19,11 +25,11 @@ tags: 한민고 한민고등학교 군인자녀교육진흥원 군인자녀 리�
 
 중학생 군자녀를 대상으로 하는 4박 5일 캠프입니다.
 
-![한민고 리더십캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2024-01-12-Hanmin_leadership_camp/notice.png)
+![한민고 리더십캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-12-Hanmin_leadership_camp/notice.png){: class="post-image" width="787" height="793" loading="eager" decoding="async" }
 
 올해 2024.01 캠프의 일정표입니다.
 
-![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2024-01-12-Hanmin_leadership_camp/%20%281%29.jpg)
+![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-12-Hanmin_leadership_camp/%20%281%29.jpg){: class="post-image" width="721" height="960" loading="lazy" decoding="async" }
 
 여성가족부 인증 수료증이 발급되는 리더십 수업(노란색)이 주를 이루고, 
 
@@ -57,29 +63,29 @@ tags: 한민고 한민고등학교 군인자녀교육진흥원 군인자녀 리�
 
 저는 1반(예비 중1) 담임으로 참여하게 되었습니다.
 
-![한민고 리더십캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2024-01-12-Hanmin_leadership_camp/%20(6).jpg)
+![한민고 리더십캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-12-Hanmin_leadership_camp/%20%286%29.jpg){: class="post-image" width="541" height="960" loading="lazy" decoding="async" }
 
 캠프 일정표입니다. 
 
-![한민고 리더십캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2024-01-12-Hanmin_leadership_camp/%20(1).jpg)
+![한민고 리더십캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-12-Hanmin_leadership_camp/%20%281%29.jpg){: class="post-image" width="721" height="960" loading="lazy" decoding="async" }
 
 굉장히 알차게 구성되었던 만큼! 친구들이 다양한 경험을 했을 겁니다.
 
 - 리더십 수업 모습
 
-![한민고 리더십캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2024-01-12-Hanmin_leadership_camp/%20(2).jpg)
+![한민고 리더십캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-12-Hanmin_leadership_camp/%20%282%29.jpg){: class="post-image" width="960" height="720" loading="lazy" decoding="async" }
 
 - 교장선생님 진로 특강
 
-![한민고 리더십캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2024-01-12-Hanmin_leadership_camp/%20(3).jpg)
+![한민고 리더십캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-12-Hanmin_leadership_camp/%20%283%29.jpg){: class="post-image" width="960" height="720" loading="lazy" decoding="async" }
 
 - 1반 교실
 
-![한민고 리더십캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2024-01-12-Hanmin_leadership_camp/%20(4).jpg)
+![한민고 리더십캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-12-Hanmin_leadership_camp/%20%284%29.jpg){: class="post-image" width="960" height="720" loading="lazy" decoding="async" }
 
 - 야식시간 깜짝 생일 이벤트
 
-![한민고 리더십캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2024-01-12-Hanmin_leadership_camp/%20(5).jpg)
+![한민고 리더십캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-12-Hanmin_leadership_camp/%20%285%29.jpg){: class="post-image" width="960" height="720" loading="lazy" decoding="async" }
 
 캠프 기간 중에 생일인 친구들은 야식시간에 멘토틀이 서프라이즈로 케잌을 준비했습니다.
 
@@ -87,33 +93,33 @@ tags: 한민고 한민고등학교 군인자녀교육진흥원 군인자녀 리�
 
 캠프 기간 중에 파주에는 엄청난 양의 눈이 내렸습니다..!
 
-![한민고 리더십캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2024-01-12-Hanmin_leadership_camp/%20(7).jpg)
+![한민고 리더십캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-12-Hanmin_leadership_camp/%20%287%29.jpg){: class="post-image" width="960" height="720" loading="lazy" decoding="async" }
 
-![한민고 리더십캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2024-01-12-Hanmin_leadership_camp/%20(8).jpg)
+![한민고 리더십캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-12-Hanmin_leadership_camp/%20%288%29.jpg){: class="post-image" width="960" height="541" loading="lazy" decoding="async" }
 
 점심 먹고 나오던 길에 귀여운 친구들 사진도 찍어주고, 
 
-![한민고 리더십캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2024-01-12-Hanmin_leadership_camp/%20(12).jpg)
+![한민고 리더십캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-12-Hanmin_leadership_camp/%20%2812%29.jpg){: class="post-image" width="960" height="721" loading="lazy" decoding="async" }
 
 마지막 리더십 수업에서는 마피아 게임을 하더군요!
 
-![한민고 리더십캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2024-01-12-Hanmin_leadership_camp/%20(14).jpg)
+![한민고 리더십캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-12-Hanmin_leadership_camp/%20%2814%29.jpg){: class="post-image" width="960" height="720" loading="lazy" decoding="async" }
 
 4일차에는 외부 전문 MC가 오셔서 레크레이션을 진행했습니다.
 
-![한민고 리더십캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2024-01-12-Hanmin_leadership_camp/%20(18).jpg)
+![한민고 리더십캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-12-Hanmin_leadership_camp/%20%2818%29.jpg){: class="post-image" width="960" height="720" loading="lazy" decoding="async" }
 
 여기부터는 1반 단체사진입니다.
 
-![한민고 리더십캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2024-01-12-Hanmin_leadership_camp/%20(15).jpg)
+![한민고 리더십캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-12-Hanmin_leadership_camp/%20%2815%29.jpg){: class="post-image" width="960" height="541" loading="lazy" decoding="async" }
 
-![한민고 리더십캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2024-01-12-Hanmin_leadership_camp/%20(16).jpg)
+![한민고 리더십캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-12-Hanmin_leadership_camp/%20%2816%29.jpg){: class="post-image" width="960" height="541" loading="lazy" decoding="async" }
 
-![한민고 리더십캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2024-01-12-Hanmin_leadership_camp/%20(17).jpg)
+![한민고 리더십캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-12-Hanmin_leadership_camp/%20%2817%29.jpg){: class="post-image" width="960" height="541" loading="lazy" decoding="async" }
 
 개인적으로 제일 좋아하는 사진입니다 ㅎㅎ
 
-![한민고 리더십캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2024-01-12-Hanmin_leadership_camp/%20(20).jpg)
+![한민고 리더십캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-12-Hanmin_leadership_camp/%20%2820%29.jpg){: class="post-image" width="960" height="541" loading="lazy" decoding="async" }
 
 ## 캠프 진행
 
@@ -176,16 +182,16 @@ tags: 한민고 한민고등학교 군인자녀교육진흥원 군인자녀 리�
 
 "
 
-![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2024-01-12-Hanmin_leadership_camp/1.jpg)
+![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-12-Hanmin_leadership_camp/1.jpg){: class="post-image" width="487" height="229" loading="lazy" decoding="async" }
 
 ## 끝!
 
-![한민고 리더십캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2024-01-12-Hanmin_leadership_camp/%20(19).jpg)
+![한민고 리더십캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-12-Hanmin_leadership_camp/%20%2819%29.jpg){: class="post-image" width="960" height="883" loading="lazy" decoding="async" }
 
-![한민고 리더십캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2024-01-12-Hanmin_leadership_camp/%20(21).jpg)
+![한민고 리더십캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-12-Hanmin_leadership_camp/%20%2821%29.jpg){: class="post-image" width="662" height="960" loading="lazy" decoding="async" }
 
-![한민고 리더십캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2024-01-12-Hanmin_leadership_camp/%20(9).jpg)
+![한민고 리더십캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-12-Hanmin_leadership_camp/%20%289%29.jpg){: class="post-image" width="960" height="541" loading="lazy" decoding="async" }
 
-![한민고 리더십캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2024-01-12-Hanmin_leadership_camp/%20(11).jpg)
+![한민고 리더십캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-12-Hanmin_leadership_camp/%20%2811%29.jpg){: class="post-image" width="721" height="960" loading="lazy" decoding="async" }
 
-![한민고 리더십캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2024-01-12-Hanmin_leadership_camp/%20(13).jpg)
+![한민고 리더십캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-12-Hanmin_leadership_camp/%20%2813%29.jpg){: class="post-image" width="721" height="960" loading="lazy" decoding="async" }

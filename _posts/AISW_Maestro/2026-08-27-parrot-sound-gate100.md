@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "buddybird의 앵무새 소리 여부 판별 게이트 v1.0.0을 데이터셋 구성, LOSO/LOIO 평가 방식, Perch 2.0 기반 선형 probe, 운영 임계값과 성능 지표 중심으로 정리한 기록입니다."
 title: "[버디버드] 앵무새 소리 여부 판별 모델(parrot-sound_gate) v1.0.0"
 subheading:
 author: Daeun

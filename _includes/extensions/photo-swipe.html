@@ -57,10 +57,10 @@
       <a class="photo-swipe"
         href="${imgEl.src}"
         data-pswp-width="${
-          Math.max(imgEl.naturalWidth, imgEl.width) * options.photo_scale
+          Math.max(imgEl.naturalWidth, Number(imgEl.getAttribute("width")), imgEl.width) * options.photo_scale
         }"
         data-pswp-height="${
-          Math.max(imgEl.naturalHeight, imgEl.height) * options.photo_scale
+          Math.max(imgEl.naturalHeight, Number(imgEl.getAttribute("height")), imgEl.height) * options.photo_scale
         }"
         data-pswp-caption="${imgEl.getAttribute("caption") || imgEl.alt}"
         target="_blank">

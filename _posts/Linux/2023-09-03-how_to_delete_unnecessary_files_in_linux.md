@@ -1,8 +1,14 @@
 ---
 layout: post
+description: "GitHub Actions 배포 중 리눅스 서버의 용량이 부족했던 원인을 살펴보고, 쌓인 Docker 이미지와 불필요한 파일을 정리한 과정을 기록했습니다."
 title: '[Linux] 리눅스 용량 부족 해결 방법(docker 필요없는 파일 삭제)'
 subheading: 
 author: Daeun
+image:
+  path: "https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Linux/2023-09-03-how_to_delete_unnecessary_files_in_linux/3.png"
+  width: 529
+  height: 871
+  alt: "Docker 배포 중 서버 용량 부족을 확인한 화면"
 categories: Linux
 banner:
 tags: 리눅스 Linux ubuntu LTS iwinv 우분투 가상서버 docker container 
@@ -23,7 +29,7 @@ github actions가 실패했길래 로그를 봤더니, no disk ~~ (용량이 부
 
 ## 문제가 발생한 이유....
 
-![github actions 에러 해결 방법](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Linux/2023-09-03-how_to_delete_unnecessary_files_in_linux/3.png)
+![github actions 에러 해결 방법](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Linux/2023-09-03-how_to_delete_unnecessary_files_in_linux/3.png){: class="post-image" width="529" height="871" loading="eager" decoding="async" }
 
 docker랑 github actions를 혼자 해보는 건 처음이라 그냥 계속 돌렸더니... ㅋㅋㅋㅋㅋㅋㅋㅋ 
 
@@ -35,9 +41,9 @@ docker랑 github actions를 혼자 해보는 건 처음이라 그냥 계속 돌�
 docker system prune -a -f
 ```
 
-![github actions 에러 해결 방법](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Linux/2023-09-03-how_to_delete_unnecessary_files_in_linux/1.png)
+![github actions 에러 해결 방법](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Linux/2023-09-03-how_to_delete_unnecessary_files_in_linux/1.png){: class="post-image" width="649" height="310" loading="lazy" decoding="async" }
 
-![github actions 에러 해결 방법](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Linux/2023-09-03-how_to_delete_unnecessary_files_in_linux/2.png)
+![github actions 에러 해결 방법](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Linux/2023-09-03-how_to_delete_unnecessary_files_in_linux/2.png){: class="post-image" width="643" height="436" loading="lazy" decoding="async" }
 
 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 11.77GB ㅋㅋㅋㅋㅋㅋㅋㅋㅋ
 

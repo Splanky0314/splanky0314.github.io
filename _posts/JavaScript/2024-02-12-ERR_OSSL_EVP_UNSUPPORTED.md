@@ -1,8 +1,14 @@
 ---
 layout: post
+description: "React 프로젝트에서 npm start 실행 시 발생한 ERR_OSSL_EVP_UNSUPPORTED 오류와 이를 해결하기 위해 적용한 설정을 화면과 함께 정리했습니다."
 title: "[npm 에러] code: 'ERR_OSSL_EVP_UNSUPPORTED' 해결 방법"
 subheading: 
 author: Daeun
+image:
+  path: "https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/JavaScript/2024-02-12-ERR_OSSL_EVP_UNSUPPORTED/0.png"
+  width: 1072
+  height: 415
+  alt: "npm start 실행 중 발생한 ERR_OSSL_EVP_UNSUPPORTED 오류"
 categories: JavaScript
 banner:
 tags: npm node.js npx NPM JavaScript JS React React.js django drf django_rest_framework
@@ -13,7 +19,7 @@ tags: npm node.js npx NPM JavaScript JS React React.js django drf django_rest_fr
 
 github에서 react 관련 레포를 clone하고 `npm start`를 입력했더니 아래와 같은 에러가 발생했습니다.
 
-![ERR_OSSL_EVP_UNSUPPORTED](https://cdn.jsdelivr.net/gh/splanky0314/CDN/JavaScript/2024-02-12-ERR_OSSL_EVP_UNSUPPORTED/0.png)
+![ERR_OSSL_EVP_UNSUPPORTED](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/JavaScript/2024-02-12-ERR_OSSL_EVP_UNSUPPORTED/0.png){: class="post-image" width="1072" height="415" loading="eager" decoding="async" }
 
 ### 에러 메세지 전체
 
@@ -112,10 +118,10 @@ Node.js v20.11.0
 ## `code: 'ERR_OSSL_EVP_UNSUPPORTED'` 해결 방법
 
 1. `package.json` 파일을 열어줍니다. 
-			![ERR_OSSL_EVP_UNSUPPORTED](https://cdn.jsdelivr.net/gh/splanky0314/CDN/JavaScript/2024-02-12-ERR_OSSL_EVP_UNSUPPORTED/1.png)
+			![ERR_OSSL_EVP_UNSUPPORTED](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/JavaScript/2024-02-12-ERR_OSSL_EVP_UNSUPPORTED/1.png){: class="post-image" width="1156" height="316" loading="lazy" decoding="async" }
 
 2. "scripts" 부분을 찾고 "start"와 "build"를 아래와 같이 수정해 줍니다.
-	![ERR_OSSL_EVP_UNSUPPORTED](https://cdn.jsdelivr.net/gh/splanky0314/CDN/JavaScript/2024-02-12-ERR_OSSL_EVP_UNSUPPORTED/2.png)
+	![ERR_OSSL_EVP_UNSUPPORTED](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/JavaScript/2024-02-12-ERR_OSSL_EVP_UNSUPPORTED/2.png){: class="post-image" width="1425" height="451" loading="lazy" decoding="async" }
 
 	복붙하세요)
 	```json
@@ -129,7 +135,7 @@ Node.js v20.11.0
 	
 3. 다시 `npm start`를 해줍시다.
 
-	![ERR_OSSL_EVP_UNSUPPORTED](https://cdn.jsdelivr.net/gh/splanky0314/CDN/JavaScript/2024-02-12-ERR_OSSL_EVP_UNSUPPORTED/3.png)
+	![ERR_OSSL_EVP_UNSUPPORTED](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/JavaScript/2024-02-12-ERR_OSSL_EVP_UNSUPPORTED/3.png){: class="post-image" width="867" height="196" loading="lazy" decoding="async" }
 
 ## 왜 에러가 발생했을까..?
 

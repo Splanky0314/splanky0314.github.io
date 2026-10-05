@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "Windows에서 Ruby와 Jekyll을 설치하고 GitHub Pages 블로그를 로컬에서 실행한 과정을 정리했습니다. 플러그인 의존성 오류와 실행 확인 방법도 다룹니다."
 title: Github Page를 위한 Ruby와 Jekyll 세팅하기
 subheading: 나만의 github page를 만들어 보자
 author: Daeun

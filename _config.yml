@@ -57,6 +57,11 @@ exclude:
 
 # _posts/hidden 아래 글은 게시하지 않음 (비공개 보관용)
 defaults:
+  # A string fallback lets each post override the representative image.
+  - scope:
+      path: ""
+    values:
+      image: "/assets/images/social/daeun-world.jpg"
   - scope:
       path: "_posts/hidden"
     values:

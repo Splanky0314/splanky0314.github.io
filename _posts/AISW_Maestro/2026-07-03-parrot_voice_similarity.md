@@ -1,5 +1,6 @@
 ---
 layout: post
+description: "앵무새 단어 모사 판정을 위해 MFCC·DTW, Whisper, wav2vec2를 시험한 초기 개발 기록입니다. 각 방법에서 확인한 한계와 추가 검토 방향을 정리했습니다."
 title: '[버디버드] 앵무새의 단어 발음 성공 여부 판별 모델 개발'
 subheading: 
 author: Daeun

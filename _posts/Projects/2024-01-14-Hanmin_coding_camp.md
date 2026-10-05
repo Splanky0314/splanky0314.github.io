@@ -1,8 +1,14 @@
 ---
 layout: post
+description: "한민고 겨울 코딩 캠프에서 기초반 강사로 참여한 이틀의 기록입니다. 구현·재귀·메모이제이션 수업 자료와 수준별 수업 운영 경험을 소개합니다."
 title: "[한민고 코딩 캠프] 코딩 캠프 강사가 되었던 이틀 간의 기록 🏫"
 subheading: 
 author: Daeun
+image:
+  path: "https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-14-Hanmin_coding_camp/%20%281%29.jpg"
+  width: 960
+  height: 541
+  alt: "한민고 AI 라운지에서 노트북으로 코딩 수업에 참여하는 학생들"
 categories: Projects
 banner:
 tags: 한민고 한민고등학교 PS CPS 백준 boj 알고리즘 재귀 메모제이션 정보캠프 코딩캠프 멘토 강사 수고했다
@@ -26,14 +32,14 @@ tags: 한민고 한민고등학교 PS CPS 백준 boj 알고리즘 재귀 메모�
 - 2주 동안 진행 9명의 강사가 돌아가면서 수업을 진행했습니다. (하루 1~4명)
 - 평일에는 2시간, 토요일 7시간, 일요일 5시간으로 진행되었습니다.
 - 대략적인 수업 일정입니다. 
-- ![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2024-01-14-Hanmin_coding_camp/1.png)
+- ![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-14-Hanmin_coding_camp/1.png){: class="post-image" width="643" height="76" loading="eager" decoding="async" }
 
 
 저도 코딩 캠프 강사 방으로 짐을 옮겼습니다.
 
-![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2024-01-14-Hanmin_coding_camp/0.jpg)
+![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-14-Hanmin_coding_camp/0.jpg){: class="post-image" width="540" height="960" loading="lazy" decoding="async" }
 
-![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2024-01-14-Hanmin_coding_camp/%20%283%29.jpg)
+![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-14-Hanmin_coding_camp/%20%283%29.jpg){: class="post-image" width="721" height="960" loading="lazy" decoding="async" }
 
 ## 코딩 캠프 진행 모습
 
@@ -41,17 +47,17 @@ tags: 한민고 한민고등학교 PS CPS 백준 boj 알고리즘 재귀 메모�
 
 첫째 날에 통계와 R을 수업하는 모습이죠. 
 
-![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2024-01-14-Hanmin_coding_camp/%20%281%29.jpg)
+![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-14-Hanmin_coding_camp/%20%281%29.jpg){: class="post-image" width="960" height="541" loading="lazy" decoding="async" }
 
 이 사진은 해킹 수업 사진입니다. 
 
-![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2024-01-14-Hanmin_coding_camp/%20%282%29.jpg)
+![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-14-Hanmin_coding_camp/%20%282%29.jpg){: class="post-image" width="960" height="541" loading="lazy" decoding="async" }
 
 ### 13일 수업
 
 다른 강사들 수업하는 모습만 찍었네요.. 정작 우리 수업 사진을 안 찍었다는...
 
-![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2024-01-14-Hanmin_coding_camp/1.png)
+![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-14-Hanmin_coding_camp/1.png){: class="post-image" width="643" height="76" loading="lazy" decoding="async" }
 
 13일에 관계기반+DP를 다루고 
 
@@ -71,11 +77,11 @@ tags: 한민고 한민고등학교 PS CPS 백준 boj 알고리즘 재귀 메모�
 
 각 클래스에서 무엇을 배울 수 있는지 설명해준 뒤 투표를 받았습니다.
 
-![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2024-01-14-Hanmin_coding_camp/3.jpg)
+![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-14-Hanmin_coding_camp/3.jpg){: class="post-image" width="960" height="540" loading="lazy" decoding="async" }
 
 투표 결과입니다.
 
-![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2024-01-14-Hanmin_coding_camp/2.jpg)
+![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-14-Hanmin_coding_camp/2.jpg){: class="post-image" width="540" height="960" loading="lazy" decoding="async" }
 
 저는 기초반 구현&재귀라 쓰여진 반을 맡았습니다. 
 
@@ -83,7 +89,7 @@ tags: 한민고 한민고등학교 PS CPS 백준 boj 알고리즘 재귀 메모�
 
 ## 기초반 수업
 
-![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2024-01-14-Hanmin_coding_camp/슬라이드1.JPG)
+![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-14-Hanmin_coding_camp/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C1.JPG){: class="post-image" width="1280" height="720" loading="lazy" decoding="async" }
 
 제 수업을 듣는 두 친구 모두 완전 PS를 막 시작하는 친구들이었습니다.
 
@@ -95,7 +101,7 @@ tags: 한민고 한민고등학교 PS CPS 백준 boj 알고리즘 재귀 메모�
 
 난이도는 평이하지만, 혁신적인 아이디어가 포함된 문제 위주로 연습셋을 만들었습니다.
 
-![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2024-01-14-Hanmin_coding_camp/슬라이드2.JPG)
+![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-14-Hanmin_coding_camp/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C2.JPG){: class="post-image" width="1280" height="720" loading="lazy" decoding="async" }
 
 ### 수업 방식
 
@@ -154,49 +160,49 @@ tags: 한민고 한민고등학교 PS CPS 백준 boj 알고리즘 재귀 메모�
 
 ### 어쨌든 한민고 1주일 생존기 끝!
 
-![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2024-01-14-Hanmin_coding_camp/%20%284%29.jpg)
+![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-14-Hanmin_coding_camp/%20%284%29.jpg){: class="post-image" width="540" height="960" loading="lazy" decoding="async" }
 
 
 
-![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2024-01-14-Hanmin_coding_camp/%20%285%29.jpg)
-![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2024-01-14-Hanmin_coding_camp/%20%286%29.jpg)
+![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-14-Hanmin_coding_camp/%20%285%29.jpg){: class="post-image" width="540" height="960" loading="lazy" decoding="async" }
+![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-14-Hanmin_coding_camp/%20%286%29.jpg){: class="post-image" width="541" height="960" loading="lazy" decoding="async" }
 
 
 
 ## 14일 기초반 수업 자료
 
-![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2024-01-14-Hanmin_coding_camp/슬라이드1.JPG)
-![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2024-01-14-Hanmin_coding_camp/슬라이드2.JPG)
-![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2024-01-14-Hanmin_coding_camp/슬라이드3.JPG)
-![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2024-01-14-Hanmin_coding_camp/슬라이드4.JPG)
-![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2024-01-14-Hanmin_coding_camp/슬라이드5.JPG)
-![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2024-01-14-Hanmin_coding_camp/슬라이드6.JPG)
-![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2024-01-14-Hanmin_coding_camp/슬라이드7.JPG)
-![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2024-01-14-Hanmin_coding_camp/슬라이드8.JPG)
-![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2024-01-14-Hanmin_coding_camp/슬라이드9.JPG)
-![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2024-01-14-Hanmin_coding_camp/슬라이드10.JPG)
-![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2024-01-14-Hanmin_coding_camp/슬라이드11.JPG)
-![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2024-01-14-Hanmin_coding_camp/슬라이드12.JPG)
-![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2024-01-14-Hanmin_coding_camp/슬라이드13.JPG)
-![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2024-01-14-Hanmin_coding_camp/슬라이드14.JPG)
-![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2024-01-14-Hanmin_coding_camp/슬라이드15.JPG)
-![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2024-01-14-Hanmin_coding_camp/슬라이드16.JPG)
-![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2024-01-14-Hanmin_coding_camp/슬라이드17.JPG)
-![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2024-01-14-Hanmin_coding_camp/슬라이드18.JPG)
-![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2024-01-14-Hanmin_coding_camp/슬라이드19.JPG)
-![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2024-01-14-Hanmin_coding_camp/슬라이드20.JPG)
-![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2024-01-14-Hanmin_coding_camp/슬라이드21.JPG)
-![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2024-01-14-Hanmin_coding_camp/슬라이드22.JPG)
-![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2024-01-14-Hanmin_coding_camp/슬라이드23.JPG)
-![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2024-01-14-Hanmin_coding_camp/슬라이드24.JPG)
-![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2024-01-14-Hanmin_coding_camp/슬라이드25.JPG)
-![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2024-01-14-Hanmin_coding_camp/슬라이드26.JPG)
-![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2024-01-14-Hanmin_coding_camp/슬라이드27.JPG)
-![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2024-01-14-Hanmin_coding_camp/슬라이드28.JPG)
-![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2024-01-14-Hanmin_coding_camp/슬라이드29.JPG)
-![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2024-01-14-Hanmin_coding_camp/슬라이드30.JPG)
-![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2024-01-14-Hanmin_coding_camp/슬라이드31.JPG)
-![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2024-01-14-Hanmin_coding_camp/슬라이드32.JPG)
-![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2024-01-14-Hanmin_coding_camp/슬라이드33.JPG)
-![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2024-01-14-Hanmin_coding_camp/슬라이드34.JPG)
-![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2024-01-14-Hanmin_coding_camp/슬라이드35.JPG)
+![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-14-Hanmin_coding_camp/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C1.JPG){: class="post-image" width="1280" height="720" loading="lazy" decoding="async" }
+![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-14-Hanmin_coding_camp/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C2.JPG){: class="post-image" width="1280" height="720" loading="lazy" decoding="async" }
+![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-14-Hanmin_coding_camp/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C3.JPG){: class="post-image" width="1280" height="720" loading="lazy" decoding="async" }
+![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-14-Hanmin_coding_camp/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C4.JPG){: class="post-image" width="1280" height="720" loading="lazy" decoding="async" }
+![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-14-Hanmin_coding_camp/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C5.JPG){: class="post-image" width="1280" height="720" loading="lazy" decoding="async" }
+![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-14-Hanmin_coding_camp/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C6.JPG){: class="post-image" width="1280" height="720" loading="lazy" decoding="async" }
+![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-14-Hanmin_coding_camp/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C7.JPG){: class="post-image" width="1280" height="720" loading="lazy" decoding="async" }
+![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-14-Hanmin_coding_camp/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C8.JPG){: class="post-image" width="1280" height="720" loading="lazy" decoding="async" }
+![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-14-Hanmin_coding_camp/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C9.JPG){: class="post-image" width="1280" height="720" loading="lazy" decoding="async" }
+![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-14-Hanmin_coding_camp/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C10.JPG){: class="post-image" width="1280" height="720" loading="lazy" decoding="async" }
+![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-14-Hanmin_coding_camp/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C11.JPG){: class="post-image" width="1280" height="720" loading="lazy" decoding="async" }
+![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-14-Hanmin_coding_camp/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C12.JPG){: class="post-image" width="1280" height="720" loading="lazy" decoding="async" }
+![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-14-Hanmin_coding_camp/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C13.JPG){: class="post-image" width="1280" height="720" loading="lazy" decoding="async" }
+![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-14-Hanmin_coding_camp/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C14.JPG){: class="post-image" width="1280" height="720" loading="lazy" decoding="async" }
+![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-14-Hanmin_coding_camp/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C15.JPG){: class="post-image" width="1280" height="720" loading="lazy" decoding="async" }
+![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-14-Hanmin_coding_camp/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C16.JPG){: class="post-image" width="1280" height="720" loading="lazy" decoding="async" }
+![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-14-Hanmin_coding_camp/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C17.JPG){: class="post-image" width="1280" height="720" loading="lazy" decoding="async" }
+![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-14-Hanmin_coding_camp/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C18.JPG){: class="post-image" width="1280" height="720" loading="lazy" decoding="async" }
+![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-14-Hanmin_coding_camp/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C19.JPG){: class="post-image" width="1280" height="720" loading="lazy" decoding="async" }
+![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-14-Hanmin_coding_camp/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C20.JPG){: class="post-image" width="1280" height="720" loading="lazy" decoding="async" }
+![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-14-Hanmin_coding_camp/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C21.JPG){: class="post-image" width="1280" height="720" loading="lazy" decoding="async" }
+![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-14-Hanmin_coding_camp/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C22.JPG){: class="post-image" width="1280" height="720" loading="lazy" decoding="async" }
+![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-14-Hanmin_coding_camp/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C23.JPG){: class="post-image" width="1280" height="720" loading="lazy" decoding="async" }
+![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-14-Hanmin_coding_camp/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C24.JPG){: class="post-image" width="1280" height="720" loading="lazy" decoding="async" }
+![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-14-Hanmin_coding_camp/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C25.JPG){: class="post-image" width="1280" height="720" loading="lazy" decoding="async" }
+![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-14-Hanmin_coding_camp/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C26.JPG){: class="post-image" width="1280" height="720" loading="lazy" decoding="async" }
+![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-14-Hanmin_coding_camp/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C27.JPG){: class="post-image" width="1280" height="720" loading="lazy" decoding="async" }
+![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-14-Hanmin_coding_camp/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C28.JPG){: class="post-image" width="1280" height="720" loading="lazy" decoding="async" }
+![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-14-Hanmin_coding_camp/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C29.JPG){: class="post-image" width="1280" height="720" loading="lazy" decoding="async" }
+![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-14-Hanmin_coding_camp/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C30.JPG){: class="post-image" width="1280" height="720" loading="lazy" decoding="async" }
+![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-14-Hanmin_coding_camp/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C31.JPG){: class="post-image" width="1280" height="720" loading="lazy" decoding="async" }
+![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-14-Hanmin_coding_camp/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C32.JPG){: class="post-image" width="1280" height="720" loading="lazy" decoding="async" }
+![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-14-Hanmin_coding_camp/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C33.JPG){: class="post-image" width="1280" height="720" loading="lazy" decoding="async" }
+![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-14-Hanmin_coding_camp/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C34.JPG){: class="post-image" width="1280" height="720" loading="lazy" decoding="async" }
+![한민고 코딩캠프](https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2024-01-14-Hanmin_coding_camp/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C35.JPG){: class="post-image" width="1280" height="720" loading="lazy" decoding="async" }

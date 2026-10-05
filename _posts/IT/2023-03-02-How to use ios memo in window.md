@@ -20,7 +20,7 @@ tags: ios iphone icloud memo windows연동 메모동기화 아이폰메모동기
 
 ## 2. 홈메뉴에서 '메모'를 클릭하고 바로 사용하시면 됩니다.
 
-<img width="959" alt="image" src="https://user-images.githubusercontent.com/79370538/222275565-9a4db1b6-4a53-43bc-aa1e-d61c523145cc.png">
+<img width="959" alt="Windows 브라우저에서 연 iCloud 메모 화면" src="https://user-images.githubusercontent.com/79370538/222275565-9a4db1b6-4a53-43bc-aa1e-d61c523145cc.png">
 
 ## 3. (보너스) 더 좋은 활용 방법
 

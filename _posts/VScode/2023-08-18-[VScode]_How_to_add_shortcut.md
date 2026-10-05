@@ -15,17 +15,17 @@ tags: VScode 비주얼스튜디오 비주얼스튜디오코드 settings windows
 
 1. VScode 바로가기 생성하기
    
-    <img width="56" alt="image" src="https://github.com/Splanky0314/splanky0314.github.io/assets/79370538/dabb9285-a953-46fd-91ff-1193f4c16f7c">
+    <img width="56" alt="Visual Studio Code 바로가기 아이콘" src="https://github.com/Splanky0314/splanky0314.github.io/assets/79370538/dabb9285-a953-46fd-91ff-1193f4c16f7c">
 
 2. 해당 바로가기의 속성 창 열기
    
-    <img width="301" alt="image" src="https://github.com/Splanky0314/splanky0314.github.io/assets/79370538/e91157ea-4102-40f6-9f82-bda43609cfb3">
+    <img width="301" alt="VS Code 바로가기 속성 창" src="https://github.com/Splanky0314/splanky0314.github.io/assets/79370538/e91157ea-4102-40f6-9f82-bda43609cfb3">
 
 3. `대상(T)`를 아래와 같이 수정
    
    원래 있던 값을 그대로 두고 뒤에 `-g (프로젝트 폴더 주소)`를 추가합니다. -g 양옆으로 스페이스가 존재하고 폴더 주소는 ""로 감싸지 않는 것에 주의하세요.
 
-    <img width="297" alt="image" src="https://github.com/Splanky0314/splanky0314.github.io/assets/79370538/fd0634a2-2635-42c4-9f96-d4b3597f5f4b">
+    <img width="297" alt="대상 경로에 프로젝트 폴더를 추가한 바로가기 설정" src="https://github.com/Splanky0314/splanky0314.github.io/assets/79370538/fd0634a2-2635-42c4-9f96-d4b3597f5f4b">
 
 4. 바로가기 이름 바꾸기
 

@@ -17,7 +17,7 @@ tags: 리눅스 Linux ubuntu LTS iwinv cracked 해킹 우분투 가상서버
 
 오늘 7/26 해킹을 당해버렸지 뭡니까. 미쳤냐고!!! 평화로운 게임 서버 해킹해서 어디에 쓴다고.......
 
-<img width="538" alt="image" src="https://github.com/Splanky0314/splanky0314.github.io/assets/79370538/7c3f2e90-eb1a-4c65-8e51-07653627063f">
+<img width="538" alt="Ubuntu 게임 서버 침해 당시 상황" src="https://github.com/Splanky0314/splanky0314.github.io/assets/79370538/7c3f2e90-eb1a-4c65-8e51-07653627063f">
 
 신고 받고 ubuntu 서버에 접속하려 했더니 root계정의 비밀번호가 바뀌어 있었습니다...
 
@@ -64,7 +64,7 @@ tags: 리눅스 Linux ubuntu LTS iwinv cracked 해킹 우분투 가상서버
 
 몇 번의 시도 끝에 일단 GRUB 환경 진입에 성공했습니다. (shift 키 누르는 타이밍이 생각보다 어려워요.)
 
-<img width="447" alt="image" src="https://github.com/Splanky0314/splanky0314.github.io/assets/79370538/3ecad26f-a023-4e20-923f-6f3496c0eb72">
+<img width="447" alt="비밀번호 복구를 위해 진입한 GRUB 화면" src="https://github.com/Splanky0314/splanky0314.github.io/assets/79370538/3ecad26f-a023-4e20-923f-6f3496c0eb72">
 
 위의 사이트 설명대로 진행했습니다. 
 
@@ -89,7 +89,7 @@ unable to resolve host
 ~
 ## 이미 당했다.
 
-<img width="303" alt="image" src="https://github.com/Splanky0314/splanky0314.github.io/assets/79370538/61f68d7e-5cf5-436f-8f69-95d555089d8c">
+<img width="303" alt="계정 비밀번호를 저장하는 shadow 파일의 수정 시각" src="https://github.com/Splanky0314/splanky0314.github.io/assets/79370538/61f68d7e-5cf5-436f-8f69-95d555089d8c">
 
 이게 shadow 파일이라고 최고 권한을 가진 root를 포함한 서버에 접속할 수 있는 user의 비밀번호가 기록된 핵심 파일입니다. 이게 20:06에 수정되었다는 것인데, 이 시점에 마크 서버가 비정상 종료되었고 제가 비밀번호를 수정한 적도 없으니 해커 짓입니다. 이미 shadow가 털렸다는 건 음. 조졌네 이거
 

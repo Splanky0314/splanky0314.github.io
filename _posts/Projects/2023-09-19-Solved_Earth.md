@@ -1,8 +1,14 @@
 ---
 layout: post
+description: "환경 보호 행동을 사진으로 인증하는 Solved.Earth 앱의 공개SW개발자대회 참가 후기입니다. Flutter·FastAPI·이미지 인식 시스템의 구조와 협업 경험을 정리했습니다."
 title: "[공개SW개발자대회] Solved.Earth 프로젝트 후기"
 subheading: 
 author: Daeun
+image:
+  path: "https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2023-09-19-Solved_Earth/mov.jpg"
+  width: 1280
+  height: 720
+  alt: "Solved.Earth 앱 시연 화면"
 categories: Projects
 banner:
 tags: Solved_Earth Hanmin Solved.ac Linux ubuntu fastapi OpenCV firebase flutter Environment application Mobile App Project SW개발자대회 Yolov5 Computer_Vision CSE 2023 수고했다
@@ -43,23 +49,23 @@ Backend에 관심이 있고 fastAPI나 Linux를 공부해본 적이 있어서 AP
 
 구체적인 정보와 시연 영상은 해당 Github의 ReadMe에 있습니다. 
 
-<img width="881" alt="image" src="https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2023-09-19-Solved_Earth/mov.jpg">
+<img alt="Solved.Earth 앱 시연 화면" src="https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2023-09-19-Solved_Earth/mov.jpg" class="post-image" width="1280" height="720" loading="eager" decoding="async">
 
 ### 1. Solved.Earth System Structure (Solved.Earth 시스템 구조)
 
-<img width="881" alt="image" src="https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2023-09-19-Solved_Earth/1.jpg">
+<img alt="Solved.Earth 전체 시스템 구성도" src="https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2023-09-19-Solved_Earth/1.jpg" class="post-image" width="4000" height="2250" loading="lazy" decoding="async">
 
 ### 2. Solved.Earth App Client Application Structure (Solved.Earth 앱 클라이언트 어플리케이션 구조)
 
-<img width="881" alt="image" src="https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2023-09-19-Solved_Earth/2.jpg">
+<img alt="Solved.Earth 앱 클라이언트 구조" src="https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2023-09-19-Solved_Earth/2.jpg" class="post-image" width="2282" height="1627" loading="lazy" decoding="async">
 
 ### 3. Data Refining & Model Training Detail View (데이터 전처리 & 모델 트레이닝 상세 구조)
-<img width="881" alt="image" src="https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2023-09-19-Solved_Earth/4.jpg">
+<img alt="데이터 전처리와 모델 학습 과정" src="https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2023-09-19-Solved_Earth/4.jpg" class="post-image" width="4000" height="2250" loading="lazy" decoding="async">
 
-<img width="881" alt="image" src="https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2023-09-19-Solved_Earth/opencv.jpg">
+<img alt="OpenCV 이미지 분석 과정" src="https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2023-09-19-Solved_Earth/opencv.jpg" class="post-image" width="1080" height="607" loading="lazy" decoding="async">
 
 ### 4. API Detail View (API 상세 구조)
-<img width="881" alt="image" src="https://cdn.jsdelivr.net/gh/splanky0314/CDN/Projects/2023-09-19-Solved_Earth/3.jpg">
+<img alt="Solved.Earth API 구성도" src="https://cdn.jsdelivr.net/gh/splanky0314/CDN@3e5253a4bbb7218a6a8c747afbcd60d0de3b323d/Projects/2023-09-19-Solved_Earth/3.jpg" class="post-image" width="2667" height="1500" loading="lazy" decoding="async">
 
 ## Solved.Earth API 서버 구축
 
