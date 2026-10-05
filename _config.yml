@@ -8,7 +8,13 @@ description: >-
 
 url: "https://daeunworld.xyz"
 baseurl: ""
-favicon: "https://cdn.jsdelivr.net/gh/splanky0314/CDN/DEFAULT/favicon.ico"
+favicon: "/assets/icons/favicon-96.png"
+
+social_image:
+  path: "/assets/images/social/daeun-world.jpg"
+  width: 1200
+  height: 630
+  alt: "분홍색 꽃 두 송이와 빨간 웃는 표정이 있는 Daeun World의 실제 선인장 사진"
 
 lang: ko
 timezone: Asia/Seoul
@@ -57,7 +63,7 @@ exclude:
 
 # _posts/hidden 아래 글은 게시하지 않음 (비공개 보관용)
 defaults:
-  # A string fallback lets each post override the representative image.
+  # A string fallback lets each post's image object keep its own dimensions/alt.
   - scope:
       path: ""
     values:

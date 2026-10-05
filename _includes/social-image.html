@@ -1,0 +1,11 @@
+{%- comment -%}
+  jekyll-seo-tag emits the image URL, Twitter card, and JSON-LD image.
+  Add known dimensions and alt only for the site's string fallback so that
+  page-specific image objects never inherit the fallback's dimensions or text.
+{%- endcomment -%}
+{%- if page.image == site.social_image.path -%}
+  <meta property="og:image:width" content="{{ site.social_image.width }}">
+  <meta property="og:image:height" content="{{ site.social_image.height }}">
+  <meta property="og:image:alt" content="{{ site.social_image.alt | escape }}">
+  <meta name="twitter:image:alt" content="{{ site.social_image.alt | escape }}">
+{%- endif -%}
